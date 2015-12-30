@@ -36,4 +36,4 @@ Later additions are in a seventeenth-century hand.
 
 Several pamphlets in this series are in German Fraktur.
 
-**4.5.4** If there is no language content, record “no linguistic content.”
+**4.5.4** If there is no language content, record "no linguistic content."

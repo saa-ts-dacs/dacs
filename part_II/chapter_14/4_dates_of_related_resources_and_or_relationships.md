@@ -50,7 +50,7 @@ Autograph File: G
 
 **Nature of Relationship to Resource _(14.3.1)_:** Creator
 
-**Description of Related Resource _(14.2.2)_:** Contains receipt for the profits from the first and second editions of Edward Gibbon’s _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell.
+**Description of Related Resource _(14.2.2)_:** Contains receipt for the profits from the first and second editions of Edward Gibbon's _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell.
 
 **Date of Related Resource _(14.4.1)_:** 1776
 

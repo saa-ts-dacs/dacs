@@ -4,9 +4,9 @@
 
 This element identifies and records the date(s) that pertain to the creation, assembly, accumulation, and/or maintenance and use of the materials being described. This element describes types of dates and forms of dates.
 
-Commentary:It may be useful or necessary for archivists to record different types of dates for the materials being described, including:
+Commentary: It may be useful or necessary for archivists to record different types of dates for the materials being described, including:
 
-**Date(s) of creation** are the dates that the documents in the unit being described were originally created (e.g., date of writing a letter, drawing a map, or painting a portrait) or the date that an event or image was captured in some material form (e.g., date that a photograph was taken, sound was originally recorded, or a film was shot). Dates of creation refer only to the activity of creation of individual documents that make up each unit (as opposed to the “creation” of an aggregate such as a series or file). This is the type of date recorded most often by archivists and manuscript catalogers not describing government or organizational records.
+**Date(s) of creation** are the dates that the documents in the unit being described were originally created (e.g., date of writing a letter, drawing a map, or painting a portrait) or the date that an event or image was captured in some material form (e.g., date that a photograph was taken, sound was originally recorded, or a film was shot). Dates of creation refer only to the activity of creation of individual documents that make up each unit (as opposed to the "creation" of an aggregate such as a series or file). This is the type of date recorded most often by archivists and manuscript catalogers not describing government or organizational records.
 
 **Date(s) of record-keeping activity** are the dates during which the unit being described was created, assembled, accumulated, and/or maintained and used _as a unit_ in the conduct of affairs by the organization or individual responsible for its provenance. They are distinct from the dates of creation of individual documents. Although the dates of record-keeping activity may often coincide with the dates of creation, the date types differ in two ways. First, the date(s) of record-keeping activity refer to the dates of a number of interrelated activities (including, but not limited to, creation and accumulation); and second, the activities pertain to the unit as a whole as opposed to individual documents. Records may be accumulated and used for a current purpose long after they were originally created, for example, where much earlier records are assembled to support an investigation or a legal action.
 
@@ -62,19 +62,17 @@ _Note: Date on item is an 14, which is dated in accordance with the French Repub
 
 _not_1979-
 
-_not_1979-(ongoing)
+_not_1979-(ongoing)_
 
 **2.4.9** The date(s) of a unit being described must fall within the range of dates of the unit of which it forms a part. This rule applies to both dates of creation and dates of record-keeping activity.
 
 1934-1985
 
-_Dates of record-keeping activity for a body of corporate records  
-_
+_Dates of record-keeping activity for a body of corporate records_
 
 1945-1960
 
-_Dates of record-keeping activity for a series within the above  
-_
+_Dates of record-keeping activity for a series within the above_
 
 1950-1955
 
@@ -136,34 +134,14 @@ circa August 1975
 
 ## No Dates
 
-**2.4.16** When recording date(s) for files and items, if the unit being described bears no date and the institution does not wish to or it may be misleading to record an estimated date, use _undated_. Do not use the abbreviations “n.d.” or “s.d.”
-
-<div>  
+**2.4.16** When recording date(s) for files and items, if the unit being described bears no date and the institution does not wish to or it may be misleading to record an estimated date, use _undated_. Do not use the abbreviations "n.d." or "s.d."
 
 * * *
 
-<div>
-
-[1] Most MARC-based systems will allow only one date type, and the repository’s ability to label dates will be very limited. EAD and other systems are more flexible in this area.
-
-</div>
-
-<div>
+[1] Most MARC-based systems will allow only one date type, and the repository's ability to label dates will be very limited. EAD and other systems are more flexible in this area.
 
 [2] Repositories are encouraged to establish consistent policies and procedures regarding the maximum number of anomalous dates to record.
 
-</div>
-
-<div>
-
 [3] It is recommended, though not required, that terms reflecting estimation be spelled out rather than abbreviated, as abbreviations may not be understood by all users.
 
-</div>
-
-<div>
-
 [4] Expression of dates as all numerals is discouraged due to the differing conventions in the order of information.
-
-</div>
-
-</div>

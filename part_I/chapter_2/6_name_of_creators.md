@@ -6,7 +6,7 @@ This element identifies the corporate bodies, persons, and families associated w
 
 Commentary: For archival materials, the creator is typically the corporate body, person, or family responsible for an entire body of materials. However, a creator can also be responsible for the intellectual or artistic content of a single item, as in the writer of a letter or the painter of a portrait. A collector or compiler of materials (e.g., Vietnam War memorabilia, letters of presidents of the United States, or materials relating to suffragettes) is considered the creator of the collection.
 
-This element provides rules for determining which entities need to be documented as creators. The names selected in this process can also serve as access points—index terms by which users can search for and locate relevant archival materials. The use of the names of creators as access points enables researchers to gain access to an institution’s holdings and provides a means of linking all records created by a particular person, family, or corporate body. The selection of access points is discussed in the Overview of Archival Description.
+This element provides rules for determining which entities need to be documented as creators. The names selected in this process can also serve as access points—index terms by which users can search for and locate relevant archival materials. The use of the names of creators as access points enables researchers to gain access to an institution's holdings and provides a means of linking all records created by a particular person, family, or corporate body. The selection of access points is discussed in the Overview of Archival Description.
 
 Repositories should standardize the formation of creator names to ensure that the name is identical each time it is used in a descriptive system and that each person, family, or corporate body has a heading that applies to it alone. Repositories are encouraged to employ recognized standardized vocabularies (e.g., _Library of Congress Authorities_) and formulate nominal access points according to established rules, such as those found in AACR2 or RDA.
 
@@ -20,7 +20,7 @@ Repositories should standardize the formation of creator names to ensure that th
 
 **2.6.3** The source for the name of the creator is usually the name element in the devised title (2.3.4–2.3.17). Take the information from any reliable source, including the internal evidence of the materials being described, an external source such as a records schedule or communication with a donor.
 
-Commentary: When describing the records of a person or family for which there are several creators, the devised title may contain all of the creators’ names. However, it is much more likely that the repository will choose to include in the title only the name of the person or family around which the collection is formed. Names of other creators can appear in other parts of the description (e.g., the Administrative/Biographical History Element, 2.7) and be recorded as access points. When devising a title for the records of a corporate body, only one creator can be named in the title. Other creators can be mentioned in other parts of the description (e.g., the Administrative/Biographical History Element, 2.7) and recorded as access points. Rules for formulating the name segment of devised titles are found in rules 2.3.4–2.3.17.
+Commentary: When describing the records of a person or family for which there are several creators, the devised title may contain all of the creators' names. However, it is much more likely that the repository will choose to include in the title only the name of the person or family around which the collection is formed. Names of other creators can appear in other parts of the description (e.g., the Administrative/Biographical History Element, 2.7) and be recorded as access points. When devising a title for the records of a corporate body, only one creator can be named in the title. Other creators can be mentioned in other parts of the description (e.g., the Administrative/Biographical History Element, 2.7) and recorded as access points. Rules for formulating the name segment of devised titles are found in rules 2.3.4–2.3.17.
 
 ## General Rules
 
@@ -91,7 +91,7 @@ _Note: Text label, indicating that the entry is a personal name_
 
 **2.6.7** Where the names of all creators are not included in the devised title, in addition to those named in the title, record in the authorized form the names of other persons, families, or corporate bodies identified in the Administrative/Biographical History Element as creators of the materials being described.
 
-_For “Pettigrew family papers” record as creators:_
+_For "Pettigrew family papers" record as creators:_
 
 Pettigrew family
 

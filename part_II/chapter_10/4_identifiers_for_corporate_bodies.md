@@ -18,7 +18,6 @@ Cadell, Thomas, 1742-1802
 
 Cadel, T.(Thomas),1742-1802
 
-_Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example.  
-_
+_Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example._
 
 _For an example archival authority record showing all five areas, see page 134–136._

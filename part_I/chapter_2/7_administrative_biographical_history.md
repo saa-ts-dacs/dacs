@@ -6,9 +6,9 @@ The purpose of this element is to describe the required elements of a biographic
 
 Commentary: Information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described may be described in one of two ways:
 
-1\. Incorporated into the description using biographical/historical notes. These rules are covered here in Element 2.7.
+1.  Incorporated into the description using biographical/historical notes. These rules are covered here in Element 2.7.
 
-2\. Held in a separate system of authority files that are linked to the archival descriptions and displayed together. These rules are covered in Part II.
+2.  Held in a separate system of authority files that are linked to the archival descriptions and displayed together. These rules are covered in Part II.
 
 Archivists may wish to devise more or less detail, depending on the system being used and other local variables. For example, the administrative/biographical history information in a catalog record describing the materials should be brief, while an authority record or creator sketch in a multilevel finding aid may be much more extensive, consisting of a narrative description, chronology, or both.
 
@@ -52,13 +52,13 @@ At the age of 20, Bessye Banks married R. Howard Bearden. They had one son, Roma
 
 Mrs. Bearden managed the New York office of the E. C. Brown Real Estate Company of Philadelphia for many years. She was also the New York representative for the Chicago _Defender_, starting in 1927, and did freelance writing for other publications. On June 11, 1935, Mrs. Bearden was appointed Deputy Collector of Internal Revenue, serving first in the Processing Division and later as an auditor. In 1922 she was the first black woman to be elected to local School Board No. 15 in New York City, where she served until 1939.
 
-Mrs. Bearden was involved in numerous civic activities and belonged to several organizations, among them the New York Urban League, where she served as secretary of the executive board; the Council of Negro Women, where she served as treasurer; and the executive boards of the Harlem Community Council and the Colored Women’s Democratic League, of which she was the first president.
+Mrs. Bearden was involved in numerous civic activities and belonged to several organizations, among them the New York Urban League, where she served as secretary of the executive board; the Council of Negro Women, where she served as treasurer; and the executive boards of the Harlem Community Council and the Colored Women's Democratic League, of which she was the first president.
 
 Mrs. Bearden died in September 1943 at Harlem Hospital in New York City.
 
 _Biographical sketch for the_ Bessye J. Bearden papers
 
-Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam, and were brought from Bangkok to Boston in 1829\. After extensive tours in North America and Europe, they settled in Wilkes County (later Surry County), N.C., were naturalized, and received the surname Bunker by act of the legislature. In 1843, Chang and Eng Bunker married Sarah and Adelaide Yates, daughters of David Yates of Wilkes County, N.C. Chang had ten children; Eng had nine children. They continued to make exhibition tours until about 1870.
+Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam, and were brought from Bangkok to Boston in 1829. After extensive tours in North America and Europe, they settled in Wilkes County (later Surry County), N.C., were naturalized, and received the surname Bunker by act of the legislature. In 1843, Chang and Eng Bunker married Sarah and Adelaide Yates, daughters of David Yates of Wilkes County, N.C. Chang had ten children; Eng had nine children. They continued to make exhibition tours until about 1870.
 
 _Biographical sketch for the_ Chang and Eng Bunker papers
 
@@ -78,7 +78,7 @@ _Biographical sketch for the_ Chang and Eng Bunker papers
 
 1920-1921   Assistant professor, UNC
 
-1921-1927   Associate professor, UNC; member of the President’s Committee on Education; twice president of the North Carolina Conference of Social Service (sponsored and prepared first worker’s compensation act in North Carolina); founded Citizens’ Library Movement of North Carolina
+1921-1927   Associate professor, UNC; member of the President's Committee on Education; twice president of the North Carolina Conference of Social Service (sponsored and prepared first worker's compensation act in North Carolina); founded Citizens' Library Movement of North Carolina
 
 1927-1930   Professor of history, UNC
 
@@ -86,7 +86,7 @@ _Biographical sketch for the_ Chang and Eng Bunker papers
 
 _Chronology for the_ Frank Porter Graham papers
 
-**2.7.12** At the beginning of the biographical history, provide a brief summary of the most relevant aspects of a person’s or family’s life. Include name, dates, profession, and geographic location.
+**2.7.12** At the beginning of the biographical history, provide a brief summary of the most relevant aspects of a person's or family's life. Include name, dates, profession, and geographic location.
 
 Frederick Reines (1918-1998) was a particle physicist, Nobel laureate, and educator internationally recognized for his verification of the existence of the neutrino and investigation of its properties.
 
@@ -96,7 +96,7 @@ Political activist Allard Kenneth Lowenstein (1929-1980) served as a lawyer, tea
 
 _Biographical sketch for the_ Allard K. Lowenstein papers
 
-Guion Griffis Johnson (1900-1989) of Chapel Hill, N.C., was a professor, author, scholar, journalist, women’s advocate, and general civic leader.
+Guion Griffis Johnson (1900-1989) of Chapel Hill, N.C., was a professor, author, scholar, journalist, women's advocate, and general civic leader.
 
 _Biographical sketch for the_ Guion Griffis Johnson papers
 
@@ -134,7 +134,7 @@ _Biographical sketch for the_ George Moses Horton poem
 
 **2.7.16** Indicate the geographical place(s) of residence of the person or family and the length of residence in each place, as well as any other place with which the person or family has a connection.
 
-Edward Hammond Boatner was born November 13, 1898, in New Orleans, Louisiana. His father, Dr. Daniel Webster Boatner, was an itinerant minister who took his family with him on his travels from church to church. Impressed by the singing he heard in those churches, Boatner began to collect spirituals at an early age. He was educated in the public schools of St. Louis, Missouri, where his family lived during his childhood. He also attended the public schools of Kansas City, Kansas, where his family later moved. Upon graduation in 1916, Boatner took lessons in voice and piano at Western University in Quindaro, Kansas, for a short time. Later that year Boatner sang for the famous tenor Roland Hayes, who encouraged the young baritone to continue his vocal studies in Boston. Boatner followed Hayes’s advice and moved to Boston in 1917\. In 1925, Boatner moved to Chicago in order to complete his formal education. He earned his bachelor’s degree in music from the Chicago College of Music in 1932\. During his student years in Chicago, Boatner directed the choirs at Olivet Baptist Church and concertized widely as a singer. His reputation grew during the years 1925-1933, when he was director of music for the National Baptist Convention. In 1933, Boatner was appointed director of music at Samuel Huston College in Austin, Texas. He later taught at the Wiley College in Marshall, Texas, where he was appointed dean of music. During the late 1930s, he settled permanently in New York City, where he opened the Edward Boatner Studio.
+Edward Hammond Boatner was born November 13, 1898, in New Orleans, Louisiana. His father, Dr. Daniel Webster Boatner, was an itinerant minister who took his family with him on his travels from church to church. Impressed by the singing he heard in those churches, Boatner began to collect spirituals at an early age. He was educated in the public schools of St. Louis, Missouri, where his family lived during his childhood. He also attended the public schools of Kansas City, Kansas, where his family later moved. Upon graduation in 1916, Boatner took lessons in voice and piano at Western University in Quindaro, Kansas, for a short time. Later that year Boatner sang for the famous tenor Roland Hayes, who encouraged the young baritone to continue his vocal studies in Boston. Boatner followed Hayes's advice and moved to Boston in 1917. In 1925, Boatner moved to Chicago in order to complete his formal education. He earned his bachelor's degree in music from the Chicago College of Music in 1932. During his student years in Chicago, Boatner directed the choirs at Olivet Baptist Church and concertized widely as a singer. His reputation grew during the years 1925-1933, when he was director of music for the National Baptist Convention. In 1933, Boatner was appointed director of music at Samuel Huston College in Austin, Texas. He later taught at the Wiley College in Marshall, Texas, where he was appointed dean of music. During the late 1930s, he settled permanently in New York City, where he opened the Edward Boatner Studio.
 
 _Biographical sketch for the_ Edward Boatner papers
 
@@ -142,7 +142,7 @@ Born in eastern Ukraine, Vsevolod Holubnychy fled with his family to Bavaria in 
 
 _Biographical sketch for the_ Vsevolod Holubnychy fonds
 
-The Cameron family of Orange and Durham counties and Raleigh, N.C., was among antebellum North Carolina’s largest landholders and slave holders; the Camerons also owned substantial plantations in Alabama and Mississippi.
+The Cameron family of Orange and Durham counties and Raleigh, N.C., was among antebellum North Carolina's largest landholders and slave holders; the Camerons also owned substantial plantations in Alabama and Mississippi.
 
 _Biographical sketch for the_ Cameron family papers
 
@@ -159,7 +159,7 @@ With the outbreak of World War II, the Yasutake family, together with all other 
 _Biographical sketch for the_ Mitsuye Yamada papers
 
 Floyd B. McKissick (1922-1991), the son of Ernest Boyce and Magnolia Thompson McKissick, was born in Asheville, N.C., on  
-9 March 1922\. He earned his undergraduate and law degrees from North Carolina Central University. During the course of his educational pursuits, he became the first African American man to attend the Law School at the University of North Carolina at Chapel Hill.
+9 March 1922. He earned his undergraduate and law degrees from North Carolina Central University. During the course of his educational pursuits, he became the first African American man to attend the Law School at the University of North Carolina at Chapel Hill.
 
 _Biographical sketch for the_ Floyd B. McKissick papers
 
@@ -167,11 +167,11 @@ _Biographical sketch for the_ Floyd B. McKissick papers
 
 **2.7.18** Record information about the principal occupation(s) and career or lifework of persons or about the activities of families. Also indicate any other activities important to an understanding of the life of the person or family. Give information about significant accomplishments or achievements, including honors, decorations, and noteworthy public recognition.
 
-Blyden Jackson, African American professor of English at the University of North Carolina at Chapel Hill, wrote novels and works on African-American and Southern literature. He also served from 1973 to 1981 as the assistant dean/special assistant to the dean of the Graduate School at UNC-CH and was charged with promoting the recruitment and retention of minority graduate students and working with the University’s Student Aid Office to secure scholarships and fellowships for graduate students.
+Blyden Jackson, African American professor of English at the University of North Carolina at Chapel Hill, wrote novels and works on African-American and Southern literature. He also served from 1973 to 1981 as the assistant dean/special assistant to the dean of the Graduate School at UNC-CH and was charged with promoting the recruitment and retention of minority graduate students and working with the University's Student Aid Office to secure scholarships and fellowships for graduate students.
 
 _Biographical sketch for the_ Blyden Jackson papers
 
-Paul Green’s contributions were widely recognized. In addition to the early Pulitzer Prize and the Guggenheim Fellowship, he received the Belasco Little Theatre Tournament trophy in 1925\. Other honors included the National Theatre Conference plaque, the American Theater Association citation for distinguished service to the theater, the North Carolina Civil Liberties Union’s Frank P. Graham Award, the Morrison Award, the North Caroliniana Society Award, the North Carolina Writers Conference Award, and the Sir Walter Raleigh cup. In 1979 the General Assembly named him North Carolina’s dramatist laureate. He received honorary doctorates from the University of North Carolina, Davidson College, Campbell College, the North Carolina School of the Arts, and four out-of-state colleges and universities.
+Paul Green's contributions were widely recognized. In addition to the early Pulitzer Prize and the Guggenheim Fellowship, he received the Belasco Little Theatre Tournament trophy in 1925. Other honors included the National Theatre Conference plaque, the American Theater Association citation for distinguished service to the theater, the North Carolina Civil Liberties Union's Frank P. Graham Award, the Morrison Award, the North Caroliniana Society Award, the North Carolina Writers Conference Award, and the Sir Walter Raleigh cup. In 1979 the General Assembly named him North Carolina's dramatist laureate. He received honorary doctorates from the University of North Carolina, Davidson College, Campbell College, the North Carolina School of the Arts, and four out-of-state colleges and universities.
 
 _Biographical sketch for the_ Paul Green papers
 
@@ -181,17 +181,17 @@ Susan M. Arkeketa, who is Otoe-Missouri and Muscogee (Creek), has worked for non
 
 _Biographical sketch for the_ Susan Arkeketa papers
 
-Jessie Daniel Ames (1883-1972) was a civil rights worker of Atlanta, Ga.; Georgetown, Tex.; and Tryon, N.C. Beginning in 1922, Ames served separate roles as secretary and vice president of the Texas Commission on Interracial Cooperation. By 1929, she had moved to Atlanta, where she was director of women’s work for the Commission on Interracial Cooperation. During this time, Ames established the Association of Southern Women for the Prevention of Lynching, which functioned as a volunteer component within the Commission.
+Jessie Daniel Ames (1883-1972) was a civil rights worker of Atlanta, Ga.; Georgetown, Tex.; and Tryon, N.C. Beginning in 1922, Ames served separate roles as secretary and vice president of the Texas Commission on Interracial Cooperation. By 1929, she had moved to Atlanta, where she was director of women's work for the Commission on Interracial Cooperation. During this time, Ames established the Association of Southern Women for the Prevention of Lynching, which functioned as a volunteer component within the Commission.
 
 _Biographical sketch for the_ Jessie Daniel Ames papers
 
 **2.7.20** For families, describe family relationships that have a bearing on the understanding of the unit being described.
 
-Lenoir family members include William Lenoir, Revolutionary War general and N.C. politician of Fort Defiance, Caldwell County,  N.C.; Lenoir's friend and father-in-law of two of Lenoir’s sons Waightstill Avery, lawyer, legislator, and signer of the Mecklenburg Declaration; and his son-in-law Israel Pickens, N.C.  congressman, 1811-1817, governor of Alabama, 1821-1825, and U.S.  senator from Alabama, 1826.
+Lenoir family members include William Lenoir, Revolutionary War general and N.C. politician of Fort Defiance, Caldwell County,  N.C.; Lenoir's friend and father-in-law of two of Lenoir's sons Waightstill Avery, lawyer, legislator, and signer of the Mecklenburg Declaration; and his son-in-law Israel Pickens, N.C.  congressman, 1811-1817, governor of Alabama, 1821-1825, and U.S.  senator from Alabama, 1826.
 
 _Biographical sketch for the_ Lenoir family papers
 
-Thomas Gale (fl. 1815-1881), a physician who served with Indian-fighting soldiers in Alabama Territory in 1815 and afterward became a planter in Jefferson and Yazoo counties, Miss., and later in Davidson, Tenn., married Ann M. Greene (fl. 1820-1845). Their son, William Dudley Gale (fl. 1844-1881), married Katherine (“Kate”) Polk (fl. 1858-1895) in 1858, after his first wife died.
+Thomas Gale (fl. 1815-1881), a physician who served with Indian-fighting soldiers in Alabama Territory in 1815 and afterward became a planter in Jefferson and Yazoo counties, Miss., and later in Davidson, Tenn., married Ann M. Greene (fl. 1820-1845). Their son, William Dudley Gale (fl. 1844-1881), married Katherine ("Kate") Polk (fl. 1858-1895) in 1858, after his first wife died.
 
 _Biographical sketch for the_ Gale and Polk family papers
 
@@ -201,19 +201,19 @@ _Biographical sketch for the_ Gale and Polk family papers
 
 ##### Administrative History of Corporate Bodies
 
-**2.7.22** Give information relevant to the understanding of the creator’s functions, activities, and relations with other corporate bodies, applying rules 2.7.23 to 2.7.33 as necessary.
+**2.7.22** Give information relevant to the understanding of the creator's functions, activities, and relations with other corporate bodies, applying rules 2.7.23 to 2.7.33 as necessary.
 
 The American Missionary Association was established in 1846 as an interdenominational missionary society devoted to abolitionist principles. From its beginning, the major support for the Association came from Congregationalists, but it also received support from Wesleyan Methodists, Free Presbyterians, and Free Will Baptists. In 1865 it became the official agency of the Congregational churches for conducting educational work among the freedmen. Support from other denominations gradually declined until the Association became exclusively a Congregational organization.
 
 _Administrative history for the_ American Missionary Association records
 
-**2.7.23** At the beginning of the administrative history, provide a brief summary of the most relevant aspects of the corporate body’s existence. Including name, dates of existence, main functions or activities, and geographic location.
+**2.7.23** At the beginning of the administrative history, provide a brief summary of the most relevant aspects of the corporate body's existence. Including name, dates of existence, main functions or activities, and geographic location.
 
 The Goldband Recording Corporation of Lake Charles, La., has played a key role in documenting and shaping musical traditions, tastes, and trends, both regionally and on an international level since 1944.
 
 _Administrative history for the_ Goldband Recording Corporation records
 
-A. P. Watt and Company of London, England, was the world’s first literary agency and, for thirty years after its founding in the early 1880s, was the largest in the world.
+A. P. Watt and Company of London, England, was the world's first literary agency and, for thirty years after its founding in the early 1880s, was the largest in the world.
 
 _Administrative history for the_ A. P. Watt and Company records
 
@@ -229,7 +229,7 @@ Glencoe Mills, established in 1880 by James Henry Holt (1833-1897) and William E
 
 _Administrative history for the_ Glencoe Mills records
 
-The White Rock Baptist Church was founded in 1866 in Durham, N.C., by two clergymen, the Reverend Zuck Horton and the Reverend Samuel “Daddy” Hunt, who organized the church in the home of Margaret “Maggie” Faucette.
+The White Rock Baptist Church was founded in 1866 in Durham, N.C., by two clergymen, the Reverend Zuck Horton and the Reverend Samuel "Daddy" Hunt, who organized the church in the home of Margaret "Maggie" Faucette.
 
 _Administrative history for the_ White Rock Baptist Church records
 
@@ -241,7 +241,7 @@ The Research Triangle Foundation (RTF) is the owner and developer of Research Tr
 
 _Administrative history for the_ Research Triangle Foundation records
 
-The Carolina Panel Company of Lexington, N.C., began manufacturing high-quality hardwood plywood in 1927 to devise the local furniture industry’s demand for plywood.
+The Carolina Panel Company of Lexington, N.C., began manufacturing high-quality hardwood plywood in 1927 to devise the local furniture industry's demand for plywood.
 
 _Administrative history for the_ Carolina Panel Company records
 
@@ -265,7 +265,7 @@ _Administrative history for the_ General Faculty and Faculty Council of the Univ
 
 **2.7.28** Describe the internal structure of the corporate body and the dates of any changes to the structure that are significant to the understanding of the way the corporate body conducted its affairs. Name any higher body(ies) having authority or control over the corporate body, or any corporate body(ies) over which it exercised authority or control, and describe the nature and any change of the authority or controlling relationship.
 
-The Office of the Associate Vice Chancellor for Business was created 1 January 1970 as part of a major reorganization of the University’s Division of Business and Finance. Among the units initially supervised by the associate vice chancellor for Business were the campus auxiliary enterprises, which included the Horace Williams Airport, the Carolina Inn, the Laundry, Student Stores, and the campus utilities. The associate vice chancellor also supervised the Campus Police (later named Security Services, then Public Safety Department), the Health and Safety Office, Traffic and Parking, and Purchases and Stores. The position later assumed responsibility for additional units, including the Food Service, other University conference centers (Quail Roost and the William Rand Kenan, Jr. Center), the Internal Audit Department, and Trademark Licensing.
+The Office of the Associate Vice Chancellor for Business was created 1 January 1970 as part of a major reorganization of the University's Division of Business and Finance. Among the units initially supervised by the associate vice chancellor for Business were the campus auxiliary enterprises, which included the Horace Williams Airport, the Carolina Inn, the Laundry, Student Stores, and the campus utilities. The associate vice chancellor also supervised the Campus Police (later named Security Services, then Public Safety Department), the Health and Safety Office, Traffic and Parking, and Purchases and Stores. The position later assumed responsibility for additional units, including the Food Service, other University conference centers (Quail Roost and the William Rand Kenan, Jr. Center), the Internal Audit Department, and Trademark Licensing.
 
 _Administrative history for the_ Office of the Associate Vice Chancellor for Business of the University of North Carolina at Chapel Hill records
 
@@ -273,7 +273,7 @@ _Administrative history for the_ Office of the Associate Vice Chancellor for Bus
 
 **2.7.29** Give the facts of the relationship of the body with predecessor or successor bodies to its mandate, functions, or activities.
 
-The University’s Physical Plant Department is responsible for the operation and maintenance of campus facilities and grounds and for the provision of utilities. It was created in the mid-1930s to coordinate and oversee the functions performed by the previously separate Buildings Department and Groups Superintendent.
+The University's Physical Plant Department is responsible for the operation and maintenance of campus facilities and grounds and for the provision of utilities. It was created in the mid-1930s to coordinate and oversee the functions performed by the previously separate Buildings Department and Groups Superintendent.
 
 _Administrative history for the_ Physical Plant of the University of North Carolina records
 
@@ -299,7 +299,7 @@ _Administrative history for the_ Tomlinson of High Point, Inc., records
 
 **2.7.32** Record the personal name(s) of persons holding the position as chief officer of the organization or corporate body, if appropriate.
 
-Frank Porter Graham (1886-1972) was the first president, 1932-1949, of the Consolidated University of North Carolina, which included the University of North Carolina in Chapel Hill, North Carolina State College in Raleigh, and Woman’s College in Greensboro.
+Frank Porter Graham (1886-1972) was the first president, 1932-1949, of the Consolidated University of North Carolina, which included the University of North Carolina in Chapel Hill, North Carolina State College in Raleigh, and Woman's College in Greensboro.
 
 _Administrative history for the_ Office of President of the University of North Carolina (System): Frank Porter Graham records
 
@@ -307,20 +307,8 @@ _Administrative history for the_ Office of President of the University of North 
 
 **2.7.33** Record any other important information not recorded elsewhere in the administrative history.
 
-<div>  
-
 * * *
-
-<div>
 
 [1] The way in which the subelements are presented to users is a matter of institutional policy. Repositories may choose the order in which to present the subelements or whether to present them in a narrative format or in a structured format with each element introduced by an introductory word or phrase.
 
-</div>
-
-<div>
-
 [2] While DACS generally discourages the use of abbreviations, the use of _ca._ and other abbreviations in birth and death dates follows the authority form as established in the _Library of Congress Authorities_.
-
-</div>
-
-</div>

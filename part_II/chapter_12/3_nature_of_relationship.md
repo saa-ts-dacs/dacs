@@ -2,7 +2,7 @@
 
 **12.3.1** Indicate by codes or text a general category into which the relationship being described falls. Use the following categories: hierarchical, temporal, family, and associative.
 
-Minnesota. Dept. of Game and Fish (e_ntity described in archival authority record_)
+Minnesota. Dept. of Game and Fish (_entity described in archival authority record_)
 
 Minnesota. Division of Game and Fish (_related entity_)
 
@@ -19,7 +19,7 @@ Minnesota. Dept. of Game and Fish (_entity described in archival authority recor
 
 Successor: Minnesota. Division of Game and Fish
 
-_Relation type value “successor” is from_ Resource Description and Access, _Appendix K, to specifically indicate relationship between entities._
+_Relation type value "successor" is from_ Resource Description and Access, _Appendix K, to specifically indicate relationship between entities._
 
 Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
 
@@ -29,7 +29,7 @@ Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival a
 
 </cpfRelation>
 
-_EAC-CPF encoding using the ontology term “IsSpouseOf” to indicate specifically the nature of the relationship between Hubert H. Humphrey and Muriel Buck Brown Humphrey._
+_EAC-CPF encoding using the ontology term "IsSpouseOf" to indicate specifically the nature of the relationship between Hubert H. Humphrey and Muriel Buck Brown Humphrey._
 
 Cadell, T. (Thomas), 1742-1802 (_entity described in archival authority record)_
 

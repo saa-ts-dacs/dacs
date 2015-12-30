@@ -20,4 +20,4 @@ The Minnesota Historical Society
 
 **2.2.3** Provide the location of the repository. If desirable, include the mailing address and other contact information.
 
-Alabama Department of Archives and History. 624 Washington Avenue, Montgomery, AL 36130-0100\. (334) 242-4435.
+Alabama Department of Archives and History. 624 Washington Avenue, Montgomery, AL 36130-0100. (334) 242-4435.

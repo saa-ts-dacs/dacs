@@ -34,7 +34,7 @@ Commentary: The statement of copyright status of a work indicates whether or not
 
 Copyright restrictions may apply.
 
-**4.4.8** If the materials being described are protected by copyright, indicate the copyright owner, when the copyright restrictions will expire, and contact information for the copyright owner or the owner’s agent, if known.
+**4.4.8** If the materials being described are protected by copyright, indicate the copyright owner, when the copyright restrictions will expire, and contact information for the copyright owner or the owner's agent, if known.
 
 Copyright held by KOCE-TV.
 
@@ -58,7 +58,7 @@ Commentary: Reproduction is defined as the making of copies of all or part of an
 
 All requests for copying of materials must be submitted to the director of archives in writing for approval by the donor. Please consult the reference archivists for further information.
 
-Cartographic material in this series cannot be reproduced without the written permission of the donor. This restriction is in effect until 30 June 2020\. Contact the repository for further information.
+Cartographic material in this series cannot be reproduced without the written permission of the donor. This restriction is in effect until 30 June 2020. Contact the repository for further information.
 
 ### Conditions Governing Publication and Other Uses
 
@@ -72,4 +72,4 @@ Authorization to publish, quote, or reproduce must be obtained from Watkinson Li
 
 Donor permission is required for public screening of films in this collection.
 
-Drawings not to be used for construction as they have not been coordinated with engineer’s drawings, which were unavailable.
+Drawings not to be used for construction as they have not been coordinated with engineer's drawings, which were unavailable.

@@ -18,7 +18,7 @@ Cadel, T.(Thomas),1742-1802
 
 **Historical Summary _(11.2.1)_:**
 
-Thomas Cadell was born in Bristol on 12 November 1742 but spent most of his life in London. When Cadell was fifteen, his father sent him to be an apprentice to Andrew Millar (1707-1768), a well-regarded publisher and bookseller who had supported the publication of Samuel Johnson’s _Dictionary._ After seven years, Cadell became a partner in the business and finally took it over when Millar retired in 1767\. His clients and friends were among the most influential literary and intellectual figures of the eighteenth century and included Fanny Burney (1752-1840), Robert Burns (1759-1796), David Hume (1711-1776), Samuel Johnson (1709-1784), Hannah More (1745-1833), Adam Smith (1723-1790), and Tobias Smollett (1721-1771). When Cadell retired in 1793, he gave his business to his son, Thomas Cadell (1773-1836) and his former assistant, William Davies (d. 1820). Before his death from an asthma attack in 1802, he enjoyed an active retirement, fulfilling many charitable and public positions, including governor of the Foundling Hospital and sheriff in the Walbrook ward of London.
+Thomas Cadell was born in Bristol on 12 November 1742 but spent most of his life in London. When Cadell was fifteen, his father sent him to be an apprentice to Andrew Millar (1707-1768), a well-regarded publisher and bookseller who had supported the publication of Samuel Johnson's _Dictionary._ After seven years, Cadell became a partner in the business and finally took it over when Millar retired in 1767. His clients and friends were among the most influential literary and intellectual figures of the eighteenth century and included Fanny Burney (1752-1840), Robert Burns (1759-1796), David Hume (1711-1776), Samuel Johnson (1709-1784), Hannah More (1745-1833), Adam Smith (1723-1790), and Tobias Smollett (1721-1771). When Cadell retired in 1793, he gave his business to his son, Thomas Cadell (1773-1836) and his former assistant, William Davies (d. 1820). Before his death from an asthma attack in 1802, he enjoyed an active retirement, fulfilling many charitable and public positions, including governor of the Foundling Hospital and sheriff in the Walbrook ward of London.
 
 **Places _(11.3.2)_:**
 
@@ -64,7 +64,7 @@ n 80005416
 
 **Category of Relationship _(12.3.1)_:** Associative
 
-**Description of Relationship _(12.3.2)_:** Published Gibbon’s _History of the_ _Decline and Fall of the Roman Empire,_ giving him nearly two-thirds of profits from sales
+**Description of Relationship _(12.3.2)_:** Published Gibbon's _History of the_ _Decline and Fall of the Roman Empire,_ giving him nearly two-thirds of profits from sales
 
 **Dates of Relationship _(12.4.1)_:** 1776-1788
 
@@ -164,7 +164,7 @@ Autograph File: G
 
 **Nature of Relationship to Resource _(14.3.1)_:** Creator
 
-**Description of Related Resource _(14.2.2)_:** Contains receipt for the profits from the first and second editions of Edward Gibbon’s _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell
+**Description of Related Resource _(14.2.2)_:** Contains receipt for the profits from the first and second editions of Edward Gibbon's _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell
 
 **Date of Related Resource _(14.4.1)_:** 1776
 

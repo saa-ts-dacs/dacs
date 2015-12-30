@@ -52,20 +52,12 @@ Part II consists of six chapters. Chapter 9 provides general rules for creating 
 
 ## Descriptive Outputs
 
-The rules provide for data input but do not prescribe particular outputs or display. Presentation of this information to the user, including the way that the authority information is linked to the descriptions of the materials, will be determined by institutional policy within each repository’s descriptive system.
+The rules provide for data input but do not prescribe particular outputs or display. Presentation of this information to the user, including the way that the authority information is linked to the descriptions of the materials, will be determined by institutional policy within each repository's descriptive system.
 
 ## Examples
 
 The examples in Part II are illustrative, not prescriptive. They illustrate only the application of the rule to which they are appended. Furthermore, the presentation of the examples is intended only to assist in understanding how to use the rules and does not imply a prescribed layout, typography, or output.
 
-<div>  
-
 * * *
 
-<div>
-
 [1] DACS does not provide rules for the construction and maintenance of subject authorities. However, a corporate body, person, or family can also be the subject of a unit of description, and an archival authority record that conforms to DACS may also serve to control the form of name and identity of a corporate body, person, or family named in a subject access point. See Appendix B, Companion Standards.
-
-</div>
-
-</div>

@@ -38,7 +38,7 @@ Recorded with a constant audible hum.
 
 The audio cassettes are located in cold vault storage and must be acclimated before delivery to the research room.
 
-Forty-eight hours’ advance notice is required for access because materials are stored offsite.
+Forty-eight hours' advance notice is required for access because materials are stored offsite.
 
 **4.2.7** If the original materials may not be used at all for preservation reasons, provide information about the reasons and the availability of reproductions.
 

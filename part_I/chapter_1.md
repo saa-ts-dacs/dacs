@@ -12,7 +12,7 @@ Not all of the DACS elements are required in every archival description. Combina
 
 Simple archival descriptive systems can be constructed using only the twenty-five elements articulated and defined by this standard; however, more detailed archival descriptive and management systems may require a number of additional elements, either defined by companion standards or standardized at the local level to meet the requirements of a specific repository.
 
-The following requirements specify particular elements from Part I of DACS that should be used in output products—from basic collection-level accession records to fully encoded, multilevel finding aids—intended for the use of archivists or researchers in managing and using archival materials. They articulate a “minimum,” “optimum,” and “added value” usage of the elements defined by DACS but are not intended to preclude use of other descriptive data that a repository deems necessary for its own descriptive systems or products. DACS does not specify the order or arrangement of elements in a particular descriptive output. Some systems or output formats, such as MARC 21 or EAD, provide specific guidance on the ordering of some or all elements. Others, such as a repository’s preliminary accession record or a print finding aid, should include DACS elements in a logical and consistent manner determined by the repository’s own procedures and standard practices. The requirements that follow are divided into two sections, one for single-level descriptions and one for multilevel descriptions.
+The following requirements specify particular elements from Part I of DACS that should be used in output products—from basic collection-level accession records to fully encoded, multilevel finding aids—intended for the use of archivists or researchers in managing and using archival materials. They articulate a "minimum," "optimum," and "added value" usage of the elements defined by DACS but are not intended to preclude use of other descriptive data that a repository deems necessary for its own descriptive systems or products. DACS does not specify the order or arrangement of elements in a particular descriptive output. Some systems or output formats, such as MARC 21 or EAD, provide specific guidance on the ordering of some or all elements. Others, such as a repository's preliminary accession record or a print finding aid, should include DACS elements in a logical and consistent manner determined by the repository's own procedures and standard practices. The requirements that follow are divided into two sections, one for single-level descriptions and one for multilevel descriptions.
 
 ## Requirements for Single-level Descriptions
 
@@ -20,7 +20,7 @@ Following are examples of single-level descriptions:
 
 *   A preliminary accession record
 *   A MARC 21 record not linked to other MARC 21 records
-*   A database record in a repository’s collections management database that describes archival materials only at a single level
+*   A database record in a repository's collections management database that describes archival materials only at a single level
 *   A METS (Metadata Encoding and Transmission Standard)<sup>2</sup> record for a description of archival materials
 
 Single-level descriptions can describe archival materials at _any level_, from large accumulations commonly referred to by archivists as collections, record groups, fonds, or record series, to single items and any level in between. They can, however, only describe that material at one level.
@@ -57,7 +57,7 @@ Following are examples of multilevel descriptions:
 *   A preliminary collection inventory or register (regardless of whether presented in print or encoded in EAD or another encoding scheme)
 *   A full collection inventory or register (regardless of whether presented in print or encoded in EAD or another encoding scheme)
 *   Multiple linked MARC 21 records
-*   A database record in a repository’s collections management database that describes archival materials at more than one level
+*   A database record in a repository's collections management database that describes archival materials at more than one level
 
 Multilevel descriptions can describe archival materials beginning at any level (e.g., collection level, series level) and must include at least one sublevel. Typical multilevel descriptions begin with large accumulations commonly referred to by archivists as collections, record groups, fonds, or record series. ISAD(G) envisions a descriptive framework that recognizes four levels: fonds, series, file, and item; however, DACS elements can be used to describe materials arranged according to this or any other scheme of articulating levels of arrangement of archival materials.
 
@@ -111,20 +111,8 @@ Each _subsequent_ level of that multilevel description should include:
 *   All of the elements included at the higher levels of the multilevel description, unless the information is the same as that of a higher level or it is desirable to provide more specific information.
 *   Identification of the whole-part relationship of _each_ level to at least the _next subsequent_ level in the multilevel description. This may be done thorugh internal tracking within a particular descriptive system or through an explicit statement of the relationship.
 
-<div>
-
 * * *
-
-<div>
 
 [1] For more information, refer to International Council on Archives, _ISAD(G): General International Standard Archival Description,_ 2nd ed., adopted by the Committee on Descriptive Standards, Stockholm, Sweden, September 19–22, 1999, accessed February 19, 2013, [http://www.icacds.org.uk/eng/ISAD(G).pdf](http://www.icacds.org.uk/eng/ISAD(G).pdf).
 
-</div>
-
-<div>
-
 [2] The METS standard is an XML schema for encoding descriptive, administrative, and structural metadata for objects within a digital library. It is an initiative of the Digital Library Federation and is maintained by the Library of Congress. Information is available at http://www.loc.gov/standards/mets/.
-
-</div>
-
-</div>

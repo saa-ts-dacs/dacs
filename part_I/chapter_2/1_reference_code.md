@@ -21,29 +21,29 @@ Commentary: This typically alphanumeric identifier frequently serves as a succin
 
 ### Local Identifier
 
-**2.1.3** At the highest level of a multilevel description or in a single level description, provide a unique identifier for the materials being described in accordance with the institution’s administrative control system. Optionally, devise unique identifiers at lower levels of a multilevel description.
+**2.1.3** At the highest level of a multilevel description or in a single level description, provide a unique identifier for the materials being described in accordance with the institution's administrative control system. Optionally, devise unique identifiers at lower levels of a multilevel description.
 
-95-24
+    95-24
 
-_Records collection identifier, Gay, Lesbian, Bisexual, Transgender Historical Society_
+    _Records collection identifier, Gay, Lesbian, Bisexual, Transgender Historical Society_
 
-MC22
+    MC22
 
-_Personal papers collection identifier, Scripps Institute of Oceanography Archives_
+    _Personal papers collection identifier, Scripps Institute of Oceanography Archives_
 
-632
+    632
 
-_Manuscript group identifier, Manuscripts and Archives, Yale University Library_
+    _Manuscript group identifier, Manuscripts and Archives, Yale University Library_
 
-79-GC-2-134
+    79-GC-2-134
 
-_Record group, series, album, and item identifier, National Archives and Records Administration_
+    _Record group, series, album, and item identifier, National Archives and Records Administration_
 
-UAV 605 (AS81)
+    UAV 605 (AS81)
 
-http://nrs.harvard.edu/urn-3:RAD.SCHL.WAX:4740894
+    http://nrs.harvard.edu/urn-3:RAD.SCHL.WAX:4740894
 
-MC 666 E. 1
+    MC 666 E. 1
 
 ### Repository Identifier
 
@@ -69,20 +69,8 @@ Ca
 
 _C__ode for Canada_
 
-<div>  
-
 * * *
-
-<div>
 
 [1] The Library of Congress is responsible for assigning repository codes and maintaining the list of assigned codes in the United States. National repository codes are constructed in accordance with the latest version of ISO 15511 (International Standard identifier for libraries and related organizations).
 
-</div>
-
-<div>
-
 [2] The two-character country code is found in the latest version of ISO 3166-1 (_Codes for the representation of names of countries and their subdivisions_). While EAD requires the use of the ISO 3166-1 standard for names of countries, the MARC 21 standard has not yet adopted this code list. Use the code appropriate to the output system for a given description. The _MARC Code List for Countries_ is used in archival cataloging (e.g., mixed materials) to indicate the country of the repository in the 008 field.
-
-</div>
-
-</div>

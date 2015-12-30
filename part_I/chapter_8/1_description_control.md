@@ -28,7 +28,7 @@ Description based on DACS
 
 Collection description based on DACS, with the exception of descriptions of oral histories, which use the Oral History Cataloging Manual (Chicago: Society of American Archivists, 1995)
 
-Series controlled and described under the rules of the National Archives of Australia’s Commonwealth Records Series (CRS) System
+Series controlled and described under the rules of the National Archives of Australia's Commonwealth Records Series (CRS) System
 
 ### Archivist and Date
 
@@ -36,4 +36,4 @@ Series controlled and described under the rules of the National Archives of Aust
 
 Created 6 May 1985
 
-Finding aid written by Dan Smith, 1998\. Revised by Violet Jones on 18 December 2002.
+Finding aid written by Dan Smith, 1998. Revised by Violet Jones on 18 December 2002.

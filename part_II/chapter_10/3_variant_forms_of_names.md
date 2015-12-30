@@ -49,7 +49,7 @@ _Variant name(s):_ W.H.O.
 
               Organisation de la Santé Mondiale
 
-Massachusetts_(authorized name)_
+Massachusetts _(authorized name)_
 
 _Variant name(s):_ Commonwealth of Massachusetts
 

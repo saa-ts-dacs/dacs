@@ -27,9 +27,9 @@ In the absence of a meaningful formal title, a title must be devised. The archiv
 
 Commentary:
 
-> *   In multilevel descriptions the name segment may be inherited from a higher level of description and may not need to be explicitly stated at lower levels.
-> *   When the repository is responsible for assembling a collection, provide, as part of the devised title, the institution's name as the collector.
-> *   The topical segment should be used only when the identification of the material cannot be made clear from the name and nature elements.
+*   In multilevel descriptions the name segment may be inherited from a higher level of description and may not need to be explicitly stated at lower levels.
+*   When the repository is responsible for assembling a collection, provide, as part of the devised title, the institution's name as the collector.
+*   The topical segment should be used only when the identification of the material cannot be made clear from the name and nature elements.
 
 ## Name Segment
 
@@ -51,11 +51,11 @@ University of California, Santa Barbara Office of Public Information
 
 Oregon Dept. of Fish and Wildlife Northeast Region
 
-**2.3.5** Record the name(s) in the form by which the creator or collector is generally known.<sup>4</sup> Record the name(s) in the natural language order of the language of the person’s or corporate body’s country of residence or activity or the official language of the corporate body. The name may be abbreviated if a fuller form of the name appears elsewhere in the descriptive record (e.g., in the administrative/biographical history) or as an access point.
+**2.3.5** Record the name(s) in the form by which the creator or collector is generally known.<sup>4</sup> Record the name(s) in the natural language order of the language of the person's or corporate body's country of residence or activity or the official language of the corporate body. The name may be abbreviated if a fuller form of the name appears elsewhere in the descriptive record (e.g., in the administrative/biographical history) or as an access point.
 
 Bessye J. Bearden
 
-_as opposed to the controlled form, “_Bearden, Bessye J.”
+_as opposed to the controlled form, "_Bearden, Bessye J."
 
 WAPOR
 
@@ -91,7 +91,7 @@ Grieg family photographs
 
 Paul Hibbet Clyde and Mary Kestler family papers
 
-**2.3.12** Optionally, if the materials were created, assembled, accumulated, and/or used in the context of familial relations but one person’s material predominates, record that person’s full name followed by the word _family_.
+**2.3.12** Optionally, if the materials were created, assembled, accumulated, and/or used in the context of familial relations but one person's material predominates, record that person's full name followed by the word _family_.
 
 Andrew Swanson family papers
 
@@ -99,7 +99,7 @@ Andrew Swanson family papers
 
 Short, Harrison, and Symmes families papers
 
-**2.3.14** If responsibility for the creation of the materials is dispersed among more than three families, record only the name of the family whose material predominates. If no one family’s material predominates, choose the name considered most appropriate.
+**2.3.14** If responsibility for the creation of the materials is dispersed among more than three families, record only the name of the family whose material predominates. If no one family's material predominates, choose the name considered most appropriate.
 
 Young family papers
 
@@ -113,8 +113,7 @@ _Collection title from the Camden County Historical Society._
 
 ### Name Segment for Corporate Bodies
 
-**Single corporate body** see Rule 2.3.4.**<span style="text-decoration: underline;">
-</span>**
+**Single corporate body** see Rule 2.3.4.
 
 **More than one corporate body**
 
@@ -122,7 +121,7 @@ _Collection title from the Camden County Historical Society._
 
 British American Tobacco Company records
 
-_This body of corporate records includes records of_ Cameron and Cameron, D. B. Tennant and Company, David Dunlop, Export Leaf Tobacco Company, and T. C. Williams Company_, all of which were tobacco exporting companies acquired by British American Tobacco Company__._
+_This body of corporate records includes records of_ Cameron and Cameron, D. B. Tennant and Company, David Dunlop, Export Leaf Tobacco Company, and T. C. Williams Company, _all of which were tobacco exporting companies acquired by British American Tobacco Company_.
 
 **Corporate body whose name has changed**
 
@@ -141,7 +140,7 @@ _
 
 ## Nature of the Archival Unit
 
-**2.3.19** Archival materials are frequently described by devised aggregate terms such as _papers_ (for personal materials), _records_ (for organizational materials), or _collection_ (for topical aggregations). However, other terms are also used. The term(s) used to describe the nature of archival materials should be comprehensible to the institution’s patrons. Titles should be constructed in a coherent and consistent format according to the rules of the individual institution.
+**2.3.19** Archival materials are frequently described by devised aggregate terms such as _papers_ (for personal materials), _records_ (for organizational materials), or _collection_ (for topical aggregations). However, other terms are also used. The term(s) used to describe the nature of archival materials should be comprehensible to the institution's patrons. Titles should be constructed in a coherent and consistent format according to the rules of the individual institution.
 
 Coalition to Stop Trident records
 
@@ -185,7 +184,7 @@ Council for Refugee Rights correspondence and reports
 
 _Devised title for a file within the_ Project Ngoc records
 
-**2.3.21** Optionally, if one or two specific forms predominate but there are also other material types present, record the one or two most predominant forms followed by the phrase “and othermaterial” in the devised title and indicate the specific forms of material in the Scope and Content Element.
+**2.3.21** Optionally, if one or two specific forms predominate but there are also other material types present, record the one or two most predominant forms followed by the phrase "and other material" in the devised title and indicate the specific forms of material in the Scope and Content Element.
 
 James M. Woodbury diary, letters, and other material
 
@@ -231,40 +230,16 @@ _The collection is about Isadora Duncan; she is not the collector._
 
 Collection of Robert Browning materials
 
-_ The collection comprises materials by Robert Browning; he is not the collector._
-
-<div>
+_The collection comprises materials by Robert Browning; he is not the collector._
 
 * * *
 
-<div>
-
 [1] The devised title should not be mistaken for a statement or abstract of the content of the unit being described; the devised title simply names the unit as succinctly as possible. The contents of the unit, e.g., that of an individual letter, should be described in the Scope and Content Element.
-
-</div>
-
-<div>
 
 [2] The order of these elements is not prescribed.
 
-</div>
-
-<div>
-
 [3] The name of more than one person or family can appear in the title; however, the name of only one corporate body can appear in the title.
-
-</div>
-
-<div>
 
 [4] Guidance for choosing between different names of persons (including name changes) or between variant forms of the same name can be found in Chapter 12 (rules 12.1–12.3). Guidance for choosing between different names of corporate bodies or between variant forms of the same name can be found in Chapter 14 (rules 14.1–14.3).
 
-</div>
-
-<div>
-
 [5] _Form_ means the physical (e.g., watercolor, drawing) or intellectual (e.g., diary, journal, daybook, minute book) characteristics of a document. Repositories are strongly encouraged to use standardized vocabulary when describing form(s) of material as part of the devised title.
-
-</div>
-
-</div>

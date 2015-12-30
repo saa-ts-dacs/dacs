@@ -18,7 +18,7 @@ This element provides information about access restrictions due to any technical
 
 ## General Rules
 
-Commentary: Special equipment may be required to view or access some material, particularly audiovisual materials and records in electronic form. In some cases the equipment required may be obvious from the Extent Element, as in “forty-two slides” or “thirty audio cassettes.” In other cases, however, the type of equipment required should be indicated in the Physical Access Element; for example, the playing speed of audio discs (e.g., 45 or 78 rpm), a video’s recording mode (e.g., Betamax, D2, VHS, Video 8, etc.), or broadcast format (e.g., NTSC, PAL, SECAM, HDTV, etc.), the gauge (width) of the film (e.g., 16 or 35 mm), and so on.
+Commentary: Special equipment may be required to view or access some material, particularly audiovisual materials and records in electronic form. In some cases the equipment required may be obvious from the Extent Element, as in "forty-two slides" or "thirty audio cassettes." In other cases, however, the type of equipment required should be indicated in the Physical Access Element; for example, the playing speed of audio discs (e.g., 45 or 78 rpm), a video's recording mode (e.g., Betamax, D2, VHS, Video 8, etc.), or broadcast format (e.g., NTSC, PAL, SECAM, HDTV, etc.), the gauge (width) of the film (e.g., 16 or 35 mm), and so on.
 
 **4.3.5** Provide information about any special equipment required to view or access the unit being described, if it is not clear from the Extent Element (2.5).
 

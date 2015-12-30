@@ -12,9 +12,9 @@
 
 <dateRange>
 
-<fromDate standardDate=”1776-03”>1776 March</fromDate>
+<fromDate standardDate="1776-03">1776 March</fromDate>
 
-<toDate standardDate=”1776-08”>1776 August</toDate>
+<toDate standardDate="1776-08">1776 August</toDate>
 
 </dateRange>
 

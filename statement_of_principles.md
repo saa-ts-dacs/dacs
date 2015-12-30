@@ -1,7 +1,5 @@
 # Statement of Principles
 
-<div class="WordSection1">
-
 The following statement of principles forms the basis for the rules in this standard. It is a recapitulation of generally accepted archival principles as derived from theoretical works and a variety of other sources. These include earlier statements about description and descriptive standards found in the reports of working groups commissioned to investigate aspects of archival description,<sup>1</sup> national rules for description,<sup>2</sup> and statements of the ICA Committee on Descriptive Standards.<sup>3</sup> In recognizing the disparate nature of archival holdings, the statement is also grounded in accepted professional practice in the United States.
 
 Holdings of archival repositories represent every possible type of material acquired from a wide variety of sources. How archives manage and describe their holdings is rooted in the nature of the materials, the context of their creation, and two hundred years of archival theory. Archival descriptive practices have increasingly been applied to all of the materials held by archives, regardless of their provenance or method of acquisition. These principles examine the nature of archival materials and their context and reflect how those aspects are made apparent in description.
@@ -12,7 +10,7 @@ Archival collections are the natural result of the activities of individuals and
 
 **Principle 1:** **Records in archives possess unique characteristics.**
 
-Archival materials have traditionally been understood to consist of the documents organically created, accumulated, and/or used by a person or organization in the course of the conduct of affairs and preserved because of their continuing value. They most often consist of aggregations of documents (largely unpublished) and are managed as such, though archival institutions frequently hold discrete items that must also be treated consistently within the institution’s descriptive system. In the course of their regular activities, individuals, archival repositories, and other institutions may also consciously acquire and assemble records that do not share a common provenance or origin but that reflect some common characteristic, such as a particular subject, theme, or form. Such collections are part of the holdings in most institutions and must be described in a way that is consistent with the rest of the holdings. All of these materials may be described using this standard.
+Archival materials have traditionally been understood to consist of the documents organically created, accumulated, and/or used by a person or organization in the course of the conduct of affairs and preserved because of their continuing value. They most often consist of aggregations of documents (largely unpublished) and are managed as such, though archival institutions frequently hold discrete items that must also be treated consistently within the institution's descriptive system. In the course of their regular activities, individuals, archival repositories, and other institutions may also consciously acquire and assemble records that do not share a common provenance or origin but that reflect some common characteristic, such as a particular subject, theme, or form. Such collections are part of the holdings in most institutions and must be described in a way that is consistent with the rest of the holdings. All of these materials may be described using this standard.
 
 **Principle 2: The principle of _respect des fonds_ is the basis of archival arrangement and description.**
 
@@ -46,7 +44,7 @@ The documents that are the product of the functions and activities of organizati
 
 **Principle 7: Archival descriptions may be presented at varying levels of detail to produce a variety of outputs.**
 
-The nature and origins of a body of archival materials may be summarized in their entirety in a single collective description. However, the extent and complexity of archival materials may require a more detailed description of their various components as well. The resulting technique of multilevel description is “the preparation of descriptions that are related to one another in a part-to-whole relationship and that need complete identification of both parts and the comprehensive whole in multiple descriptive records.”<sup>5</sup> This requires some elucidation regarding the order in which such information is presented and the relationships between description(s) of the parts and the description of the whole.<sup>6</sup>
+The nature and origins of a body of archival materials may be summarized in their entirety in a single collective description. However, the extent and complexity of archival materials may require a more detailed description of their various components as well. The resulting technique of multilevel description is "the preparation of descriptions that are related to one another in a part-to-whole relationship and that need complete identification of both parts and the comprehensive whole in multiple descriptive records."<sup>5</sup> This requires some elucidation regarding the order in which such information is presented and the relationships between description(s) of the parts and the description of the whole.<sup>6</sup>
 
 **Principle 7.1:** **Levels of description correspond to levels of arrangement.**
 
@@ -68,52 +66,18 @@ An important aspect of understanding archival materials is the description of th
 
 Because the principle of provenance is fundamental to the arrangement and description of archival materials, it follows that the provenance, or the creator(s), of archival materials must be described as well. Except in cases in which the creator or collector is truly unknown, this means that the creator or collector of the materials must be identified and included in (or linked to) the description of the materials. In addition, the functions or activities of the creator(s) that produced the archival materials must be described. Finally, standardized access points must be provided that indicate not just the primary creator but also the relationships between successive creators, for example, the parts of a corporate body that has undergone reorganization(s). DACS includes rules for providing all of this information in a consistent way. The repository as collector does not need to be described.
 
-</div>
-
-<div>
-
 * * *
 
-<div>
-
-[1] Working Group on Standards for Archival Description, “Archival Description Standards: Establishing a Process for their Development and Implementation,” _American Archivist_ 52, no. 4 (Fall 1989):440–443 (source hereinafter cited as the WGSAD Report); _Toward Descriptive Standards: Report and Recommendations of the Canadian Working Group on Archival Descriptive Standards_ (Ottawa: Bureau of Canadian Archivists, 1985), 6–9, 55–59, 63–64; Wendy M. Duff and Kent M. Haworth, “Advancing Archival Description: A Model for Rationalizing North American Descriptive Standards,” _Archives and Manuscripts_ 25, no. 2 (1997):198–199, 203–204 (source hereinafter cited as the Bentley Report).
-
-</div>
-
-<div>
+[1] Working Group on Standards for Archival Description, "Archival Description Standards: Establishing a Process for their Development and Implementation," _American Archivist_ 52, no. 4 (Fall 1989):440–443 (source hereinafter cited as the WGSAD Report); _Toward Descriptive Standards: Report and Recommendations of the Canadian Working Group on Archival Descriptive Standards_ (Ottawa: Bureau of Canadian Archivists, 1985), 6–9, 55–59, 63–64; Wendy M. Duff and Kent M. Haworth, "Advancing Archival Description: A Model for Rationalizing North American Descriptive Standards," _Archives and Manuscripts_ 25, no. 2 (1997):198–199, 203–204 (source hereinafter cited as the Bentley Report).
 
 [2] _Rules for Archival Description_ (Ottawa: Bureau of Canadian Archivists, 1990), xi–xvi, rules 0.1, 0.2, 0.22, 1.0A1, 1.0A2 (source hereinafter cited as _RAD_); Hensen, _Archives, Personal Papers, and Manuscripts_, rules 0.3, 0.9, 0.10, 0.12, 1.0A (source hereinafter cited as _APPM_).
 
-</div>
+[3] International Council on Archives "Statement of Principles," _Archivaria_ 34 (1992): 8–16; ICA Committee on Descriptive Standards, _ISAD(G): General International Standard Archival Description_, 2nd ed. (Ottawa: International Council on Archives, 1999), 7–12 (source hereinafter cited as _ISAD[G]_).
 
-<div>
-
-[3] International Council on Archives “Statement of Principles,” _Archivaria_ 34 (1992): 8–16; ICA Committee on Descriptive Standards, _ISAD(G): General International Standard Archival Description_, 2nd ed. (Ottawa: International Council on Archives, 1999), 7–12 (source hereinafter cited as _ISAD[G]_).
-
-</div>
-
-<div>
-
-[4] S. Muller, J. A. Feith, and R. Fruin, _Manual for the Arrangement and Description of Archives,_ translation of 2nd edition (Chicago: Society of American Archivists, 2002), 19\. “An archival collection is an organic whole.”
-
-</div>
-
-<div>
+[4] S. Muller, J. A. Feith, and R. Fruin, _Manual for the Arrangement and Description of Archives,_ translation of 2nd edition (Chicago: Society of American Archivists, 2002), 19. "An archival collection is an organic whole."
 
 [5] _RAD_, p. D-5.
 
-</div>
-
-<div>
-
 [6] The rules for multilevel description are found in _RAD_, rule 1.0A2, and in _ISAD(G),_ p. 12.
 
-</div>
-
-<div>
-
 [7] _ISAD(G)_, Statement I-3, p. 7.
-
-</div>
-
-</div>

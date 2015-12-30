@@ -12,7 +12,7 @@ Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival a
 
 Brown, Muriel Buck Humphrey (_related entity_)
 
-1936 September 3–1978 January 13 (_dates of the relationship’s existence_)
+1936 September 3–1978 January 13 (_dates of the relationship's existence_)
 
 ##  Example Related Persons, Families, and Corporate Bodies Area of an Archival Authority Record
 
@@ -44,7 +44,7 @@ n 80005416
 
 **Category of Relationship _(12.3.1)_:** Associative
 
-**Description of Relationship _(12.3.2)_:** Published Gibbon’s _The History of the_ _Decline and Fall of the Roman Empire_, giving him nearly two-thirds of profits from sales
+**Description of Relationship _(12.3.2)_:** Published Gibbon's _The History of the_ _Decline and Fall of the Roman Empire_, giving him nearly two-thirds of profits from sales
 
 **Dates of Relationship _(12.4.1)_:** 1776-1788
 

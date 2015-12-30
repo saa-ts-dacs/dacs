@@ -115,26 +115,10 @@ approximately 275 digital image and audio files (12.4 GB) on
 
 PDF (88 Kilobytes)
 
-<div>  
-
 * * *
-
-<div>
 
 [1] It is recommended, though not required, that terms reflecting physical extent be spelled out rather than abbreviated, as abbreviations may not be understood by all users.
 
-</div>
-
-<div>
-
-[2] It is usually assumed that archival materials are textual in nature, so it may not be necessary to supply the term “textual materials” unless it is desirable to distinguish from other material types.
-
-</div>
-
-<div>
+[2] It is usually assumed that archival materials are textual in nature, so it may not be necessary to supply the term "textual materials" unless it is desirable to distinguish from other material types.
 
 [3] See especially _Art & Architecture Thesaurus_ and _Library of Congress Authorities_ (full citations provided in Appendix B).
-
-</div>
-
-</div>

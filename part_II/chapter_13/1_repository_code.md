@@ -6,14 +6,6 @@ MnHi (_Repository code for the Minnesota Historical Society assigned by the Libr
 
 OCLC-MHS (_International Standard Identifier for Libraries [ISIL] identifier for Minnesota Historical Society_
 
-<div>  
-
 * * *
 
-<div>
-
-[1] The Library of Congress is responsible for assigning repository codes and maintaining the list of assigned codes in the United States. National repository codes are constructed using the latest version of ISO 15511 (International Standard identifier for libraries and related organizations). Repositories may also wish to include an International Standard Identifier for Libraries or ISIL code. ISILs are a unique identifier issued by the ISIL Agency to create an identifier to enable unique identification of a library or related institution. An ISIL is made up by two components: a prefix and a library identifier, in that order, separated by a mandatory hyphen. An OCLC symbol can be rendered as ISIL by the addition of the prefix “OCLC” or “O” for technical encoding in cases such as RFID tags.
-
-</div>
-
-</div>
+[1] The Library of Congress is responsible for assigning repository codes and maintaining the list of assigned codes in the United States. National repository codes are constructed using the latest version of ISO 15511 (International Standard identifier for libraries and related organizations). Repositories may also wish to include an International Standard Identifier for Libraries or ISIL code. ISILs are a unique identifier issued by the ISIL Agency to create an identifier to enable unique identification of a library or related institution. An ISIL is made up by two components: a prefix and a library identifier, in that order, separated by a mandatory hyphen. An OCLC symbol can be rendered as ISIL by the addition of the prefix "OCLC" or "O" for technical encoding in cases such as RFID tags.

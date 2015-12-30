@@ -8,4 +8,4 @@ Utah history encyclopedia, via WWW, Oct. 4, 2011.
 
 Rice C. Ballard Papers #4850, Southern Historical Collection, Wilson Library, University of North Carolina at Chapel Hill.   
 
-Trustees of Tufts College. Bulletin of Tufts University Undergraduate Colleges, 1970-1971, Vol. LXX, no. 4\. Medford, MA: Tufts University, 1970.
+Trustees of Tufts College. Bulletin of Tufts University Undergraduate Colleges, 1970-1971, Vol. LXX, no. 4. Medford, MA: Tufts University, 1970.

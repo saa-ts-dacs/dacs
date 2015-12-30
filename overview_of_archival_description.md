@@ -12,9 +12,9 @@ Beyond the details of their respective encoding protocols, both MARC 21 and EAD 
 
 ## Access Points
 
-Then there is the matter of “access points.” While archival description is narrative, and electronic catalogs and databases typically provide full-text searching of every word in the text, information systems often also identify specific terms, codes, concepts, and names for which specialized indexes are created to permit faster and more precise searching. In a manual environment, these terms appear as entry headings on catalog records. A variety of protocols, both standardized and local, determine which of the names and terms in a description become “access points” for searching in this way, as well as the form in which they appear. For example, Element 3.1 of DACS instructs the archivist to include in the scope and content element information about the “subject matter to which the records pertain, such as topics, events, people, and organizations.” The natural language terminology used to describe such a topic in the scope and content statement must be subsequently translated into the formal syntax of a subject heading, as specified by a standardized thesaurus like the _Library of Congress Authorities_.<sup>2</sup> For example, a collection might contain information about railroads in Montana. After consulting the Library of Congress subject headings and reviewing the directions in the _Subject Cataloging Manual: Subject Headings_ on the formulation of compound subject terms, the archivist will establish the access point as Railroads—Montana. When embedded in a MARC 21 record, the coding will be
+Then there is the matter of "access points." While archival description is narrative, and electronic catalogs and databases typically provide full-text searching of every word in the text, information systems often also identify specific terms, codes, concepts, and names for which specialized indexes are created to permit faster and more precise searching. In a manual environment, these terms appear as entry headings on catalog records. A variety of protocols, both standardized and local, determine which of the names and terms in a description become "access points" for searching in this way, as well as the form in which they appear. For example, Element 3.1 of DACS instructs the archivist to include in the scope and content element information about the "subject matter to which the records pertain, such as topics, events, people, and organizations." The natural language terminology used to describe such a topic in the scope and content statement must be subsequently translated into the formal syntax of a subject heading, as specified by a standardized thesaurus like the _Library of Congress Authorities_.<sup>2</sup> For example, a collection might contain information about railroads in Montana. After consulting the Library of Congress subject headings and reviewing the directions in the _Subject Cataloging Manual: Subject Headings_ on the formulation of compound subject terms, the archivist will establish the access point as Railroads—Montana. When embedded in a MARC 21 record, the coding will be
 
-`650 b0 ‡a Railroads ‡z Montana`
+    650 b0 ‡a Railroads ‡z Montana
 
 If this data is placed in an EAD finding aid, the resulting encoding will look like this:
 
@@ -86,7 +86,7 @@ The occupations, avocations, or other life interests of individuals that are doc
 *   Scope and Content Element (3.1)
 *   Administrative/Biographical History Element (2.7)
 
-Again, the _Library of Congress Authorities_ is a widely used source of terms noting occupations and avocations. The U.S. Department of Labor’s _Dictionary of Occupational Titles_ provides a structured enumeration of job titles.
+Again, the _Library of Congress Authorities_ is a widely used source of terms noting occupations and avocations. The U.S. Department of Labor's _Dictionary of Occupational Titles_ provides a structured enumeration of job titles.
 
 ### Functions and Activities
 

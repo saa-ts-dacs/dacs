@@ -2,7 +2,7 @@
 
 **12.2.1** Indicate by codes or text whether the related entity is a corporate body, a person, or a family.
 
-Minnesota. Dept. of Game and Fish (e_ntity described in archival authority record_)
+Minnesota. Dept. of Game and Fish (_entity described in archival authority record_)
 
 Minnesota. Division of Game and Fish (_related entity_)
 

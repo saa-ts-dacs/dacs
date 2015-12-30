@@ -6,7 +6,7 @@ Commentary: While authority records are created to document the context in which
 
 Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
 
-Hubert H. Humphrey papers: a summary guide, including the papers of Muriel Buck Humphrey Brown. St. Paul, Minnesota. Minnesota Historical Society, 1983\. (_related resource_)
+Hubert H. Humphrey papers: a summary guide, including the papers of Muriel Buck Humphrey Brown. St. Paul, Minnesota. Minnesota Historical Society, 1983. (_related resource_)
 
 Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
 

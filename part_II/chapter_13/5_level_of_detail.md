@@ -4,12 +4,12 @@
 
 006521nz_2200067n
 
-_(The character_ n _in the seventeenth position of the leader of this MARC authority record indicates that it meets “national level record requirements.”)_
+_(The character_ n _in the seventeenth position of the leader of this MARC authority record indicates that it meets "national level record requirements.")_
 
-_<localControl localType="detailLevel">_
+<localControl localType="detailLevel">
 
-_<term>minimal</term>_
+<term>minimal</term>
 
-_</localControl>_
+</localControl>
 
 _(EAC-CPF encoding indicating that the record contains minimal information)_

@@ -8,7 +8,7 @@ _EAC-CPF encoding indicating that the record has been deleted and replaced_
 
 00731cz
 
-(_The character_ c _in the fifth position of the leader of this MARC authority record indicates that it is a “corrected” record._)
+(_The character_ c _in the fifth position of the leader of this MARC authority record indicates that it is a "corrected" record._)
 
 **13.4.2** Alternately, record the current status of the record using the following terms: draft, finalized, revised, or obsolete.
 

@@ -10,4 +10,4 @@ _MARC 21 encoding indicating that the entry is a family name_
 
 _EAC-CPF encoding indicating that the entry is a corporate body_
 
-**     Type of Entity:** Person
+**Type of Entity:** Person

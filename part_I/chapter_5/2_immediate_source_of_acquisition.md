@@ -22,14 +22,14 @@ Received from Charles Edward Eaton, Chapel Hill, N.C., in a number of installmen
 
 Gifts, 1962-1963.
 
-**5.2.4** Optionally, record the source/donor’s relationship to the materials, and any other information considered relevant (e.g., address of the source/donor, agent, price, source of funding), if this information is not confidential.
+**5.2.4** Optionally, record the source/donor's relationship to the materials, and any other information considered relevant (e.g., address of the source/donor, agent, price, source of funding), if this information is not confidential.
 
-The Yale University Library acquired the Whitney Papers through gifts in 1941 and 1953 from Eli Whitney’s great-granddaughters, Susan Brewster Whitney, Elizabeth Fay Whitney, Henrietta Edwards Whitney Sanford, Anne Farnam Whitney Debevoise, and Frances Pierrepont Whitney Knight.
+The Yale University Library acquired the Whitney Papers through gifts in 1941 and 1953 from Eli Whitney's great-granddaughters, Susan Brewster Whitney, Elizabeth Fay Whitney, Henrietta Edwards Whitney Sanford, Anne Farnam Whitney Debevoise, and Frances Pierrepont Whitney Knight.
 
 ### Identifying Numbers
 
 **5.2.5** Optionally, record identifying number(s) of the acquisitions, such as an accession number or reference code.
 
-This collection was donated by the Michigan Organization for Human Rights in May 1983; material was added in February and September 1994\. The Robert Lundy files were added in 1998\. Donor no. 6933.
+This collection was donated by the Michigan Organization for Human Rights in May 1983; material was added in February and September 1994. The Robert Lundy files were added in 1998. Donor no. 6933.
 
 Gift and purchase, 1996 (G10669, R13821).

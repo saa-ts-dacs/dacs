@@ -24,7 +24,7 @@ Related materials providing visual documentation of racially segregated faciliti
 
 James Gulick was the half brother of Alice Gulick Gooch, the photographer of a small collection of Orange County photographs also held by Special Collections. The Gulick collection also adds family context to materials in the Huntley Family Papers. The Edna Phelps Collection contains photographs, family history, and correspondence on the Gulicks.
 
-The following sources provide additional information on Gordon Gray’s personal and professional life and on the development of the Consolidated University during his tenure as president.
+The following sources provide additional information on Gordon Gray's personal and professional life and on the development of the Consolidated University during his tenure as president.
 
 Southern Historical Collection:
 

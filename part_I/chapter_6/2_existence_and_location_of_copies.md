@@ -42,14 +42,6 @@ Modern silver gelatin print from original negative made 1915.
 
 A microfilm of the Alexander W. Chase Overland Journal is available at the Bancroft Library, University of California, Berkeley.
 
-<div>  
-
 * * *
 
-<div>
-
 [1] If the institution holds both the originals and a copy (or copies), the institution should establish a consistent policy regarding whether it will prepare a separate descriptive record for the copy or whether it will indicate the availability of the copy within the description of the original(s) as instructed in this element.
-
-</div>
-
-</div>

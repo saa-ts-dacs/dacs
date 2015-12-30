@@ -4,7 +4,7 @@
 
 This element provides information that cannot be accommodated in any of the defined elements of description.
 
-Commentary: The use of all notes is optional. They may be used on a case-by-case basis, or an institution may wish to establish a policy regarding what notes to use and how detailed to make them. If it is desirable to provide information on sources of descriptive information, title variations, statements of responsibility, signatures and inscriptions, attributions and conjectures, editions, dates, and publishers’ series, see the appropriate chapter(s) in RDA or other descriptive standards as described in the Overview of Archival Description.
+Commentary: The use of all notes is optional. They may be used on a case-by-case basis, or an institution may wish to establish a policy regarding what notes to use and how detailed to make them. If it is desirable to provide information on sources of descriptive information, title variations, statements of responsibility, signatures and inscriptions, attributions and conjectures, editions, dates, and publishers' series, see the appropriate chapter(s) in RDA or other descriptive standards as described in the Overview of Archival Description.
 
 ## Sources of Information
 
@@ -64,7 +64,7 @@ Plans numbered 4073-52-1 to 4073-52-3.
 
 ### Processing Information
 
-**7.1.8** Provide information about actions of the archivist, custodians, or creators of the records or conventions in the finding aid that may have an impact on a researcher’s interpretation of the records or understanding of the information provided in the finding aid.
+**7.1.8** Provide information about actions of the archivist, custodians, or creators of the records or conventions in the finding aid that may have an impact on a researcher's interpretation of the records or understanding of the information provided in the finding aid.
 
 Actions and conventions include but are not limited to reconstruction of provenance, maintenance, reconstruction, or alteration of original order, devising titles for materials, weeding, and maintenance or provision of control numbers or container numbers.
 
@@ -80,9 +80,9 @@ _Processing information for the_ League of Women Voters (U.S.) records, Library 
 
 Upon arrival in the Library of Congress, the Gifford Pinchot Papers were placed in manuscript containers, with a descriptive container listing providing the only access to the collection. Substantial portions of the papers were reorganized in 1973 into a more coherent arrangement, and new series were created to bring similar material together.
 
-In 1989 the Library of Congress, in conjunction with the United States Forest Service, undertook a cooperative project to organize and describe those portions of the Pinchot Papers that concerned the early period of the conservation movement and the first five years of the Forest Service from 1890 to 1910\. Selected records and files were rearranged to document Pinchot’s contribution to the founding of the conservation movement. Due to the interfiling, transposition, and removal of material that resulted from this reorganization, gaps occurred in the former sequence of arrangement of the manuscript containers. These gaps are identified in the container list by the statement “removed from collection.” Final processing of this segment of the Pinchot Papers was completed in 1991.
+In 1989 the Library of Congress, in conjunction with the United States Forest Service, undertook a cooperative project to organize and describe those portions of the Pinchot Papers that concerned the early period of the conservation movement and the first five years of the Forest Service from 1890 to 1910. Selected records and files were rearranged to document Pinchot's contribution to the founding of the conservation movement. Due to the interfiling, transposition, and removal of material that resulted from this reorganization, gaps occurred in the former sequence of arrangement of the manuscript containers. These gaps are identified in the container list by the statement "removed from collection." Final processing of this segment of the Pinchot Papers was completed in 1991.
 
-In addition to the rearrangement of a portion of the collection between 1989 and 1991, new material was appended in 1985 and 1998\. Other revisions were made in 2007, and the finding aid was revised again in 2011.
+In addition to the rearrangement of a portion of the collection between 1989 and 1991, new material was appended in 1985 and 1998. Other revisions were made in 2007, and the finding aid was revised again in 2011.
 
 _Processing information for the_ Gifford Pinchot papers, Library of Congress
 
@@ -96,7 +96,7 @@ The original arrangement and folder titles were retained in most cases. Exceptio
 
 _Processing information for the_ Papers of George Wald, Harvard University Archives
 
-The original chronological arrangement of the series was maintained during processing. The sole exception to this arrangement is several files of correspondence with physicists that Reines maintained separately from the chronological files, which are arranged alphabetically by the physicists’ surnames at the end of the series.
+The original chronological arrangement of the series was maintained during processing. The sole exception to this arrangement is several files of correspondence with physicists that Reines maintained separately from the chronological files, which are arranged alphabetically by the physicists' surnames at the end of the series.
 
 _Processing information for the_ Frederick Reines papers
 
@@ -106,7 +106,7 @@ These records were previously dispersed, both physically and intellectually, and
 
 _Processing information for the_ Records of early Harvard buildings, Harvard University Archives
 
-This collection was previously listed in the Harvard University Archives shelflist among the records of the Harvard College Library but otherwise uncataloged. It was processed in 2010\. Processing involved a collection survey and arrangement into series and subseries, re-housing in appropriate archival folders and boxes, and the creation of this finding aid.
+This collection was previously listed in the Harvard University Archives shelflist among the records of the Harvard College Library but otherwise uncataloged. It was processed in 2010. Processing involved a collection survey and arrangement into series and subseries, re-housing in appropriate archival folders and boxes, and the creation of this finding aid.
 
 _Processing information for the_ Papers of Samuel Shapleigh, Harvard University Archives
 
@@ -120,13 +120,13 @@ Roger W. Hickman, a member of the department from 1927-1966, gathered these reco
 
 _Processing information for the_ Records of the Harvard University Dept. of Physics, Harvard University Archives
 
-George Wald designated files of correspondence with prominent or famous people as “VIP.” The archivist noted this designation in the folder list.
+George Wald designated files of correspondence with prominent or famous people as "VIP." The archivist noted this designation in the folder list.
 
 _Processing information for the_ Papers of George Wald, Harvard University Archives
 
 Finding aid conventions examples:
 
-Unless otherwise noted, the parenthetical notations of relationship indicate that person’s relationship to Francis Ellingwood Abbot.
+Unless otherwise noted, the parenthetical notations of relationship indicate that person's relationship to Francis Ellingwood Abbot.
 
 _Processing information for the_ Francis Ellingwood Abbot papers, Andover-Harvard Theological Library, Harvard Divinity School
 
@@ -138,7 +138,7 @@ Dates and other information added by the processor are in square brackets.
 
 _Processing information for the_ Dorothy Adlow papers, Schlesinger Library, Radcliffe Institute
 
-The contents of some folders labeled “miscellaneous” were interfiled in this subseries by the archivist. Folder titles enclosed in square brackets were devised by the archivist.
+The contents of some folders labeled "miscellaneous" were interfiled in this subseries by the archivist. Folder titles enclosed in square brackets were devised by the archivist.
 
 _Processing information for the_ Records of the Association of Harvard Chemists, Harvard University Archives
 
@@ -154,10 +154,10 @@ _Processing information for the_ Commencement Theses, Quaestiones, and Orders of
 
 Container number alteration examples:
 
-Material received in 1977 was processed as an addition in 1994\. The finding aid was further revised and containers housing the addition were renumbered in 2010.
+Material received in 1977 was processed as an addition in 1994. The finding aid was further revised and containers housing the addition were renumbered in 2010.
 
 _Processing information for the_ Papers of Kermit and Belle Roosevelt, Library of Congress
 
-These papers of Betty Friedan were previously designated by an accession number range: “71-62--81-M23.” ... The papers arrived in no order; most documents were not in folders. They were roughly sorted and screened so they could be made available for research use. Folder titles were created by the archivist. In 2009, the archivist reboxed the collection, added more description to folder titles and scope and content notes, and intellectually rearranged some folders; the physical arrangement was retained. Basic folder numbers remain the same as in “71-62--81-M23,” but for preservation purposes, many overly full folders have been divided, adding alphabetical designations to the previously assigned numbers (e.g., #149a-149b).
+These papers of Betty Friedan were previously designated by an accession number range: "71-62--81-M23." ... The papers arrived in no order; most documents were not in folders. They were roughly sorted and screened so they could be made available for research use. Folder titles were created by the archivist. In 2009, the archivist reboxed the collection, added more description to folder titles and scope and content notes, and intellectually rearranged some folders; the physical arrangement was retained. Basic folder numbers remain the same as in "71-62--81-M23," but for preservation purposes, many overly full folders have been divided, adding alphabetical designations to the previously assigned numbers (e.g., #149a-149b).
 
 _Processing information for the_ Papers of Betty Friedan, Schlesinger Library, Radcliffe Institute

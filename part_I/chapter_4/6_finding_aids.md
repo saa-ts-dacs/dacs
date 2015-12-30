@@ -4,7 +4,7 @@
 
 This element identifies any other finding aids to the materials being described, particularly if they are available to the user, and provides information about the form and content of those finding aids.
 
-Commentary: Finding aid is a broad term that covers any type of description or means of reference made or received by an archival repository in the course of establishing administrative or intellectual control over archival materials. The term “finding aid” can include a variety of descriptive tools prepared by an archives (e.g., guides, calendars, inventories, box lists, indexes, etc.) or prepared by the creator of the records (e.g., registers, indexes, transfer lists, classification schemes, etc.). Such tools provide a representation of, or a means of access to, the materials being described that enables users to identify material relating to the subject of their inquiries. An archival repository’s descriptive system will likely consist of various types of finding aids, each serving a particular purpose.
+Commentary: Finding aid is a broad term that covers any type of description or means of reference made or received by an archival repository in the course of establishing administrative or intellectual control over archival materials. The term "finding aid" can include a variety of descriptive tools prepared by an archives (e.g., guides, calendars, inventories, box lists, indexes, etc.) or prepared by the creator of the records (e.g., registers, indexes, transfer lists, classification schemes, etc.). Such tools provide a representation of, or a means of access to, the materials being described that enables users to identify material relating to the subject of their inquiries. An archival repository's descriptive system will likely consist of various types of finding aids, each serving a particular purpose.
 
 ## Sources of Information
 
@@ -20,7 +20,7 @@ Electronic finding aid available via the Internet in the Online Archive of Calif
 
 An item list, a file of calendar sheets, and indexes by subject, type of author, and (selectively) place written from are available in the repository; filed under M316.
 
-A Marriage Index database of information from these records is maintained by the Ulster County Clerk’s Office Archives.
+A Marriage Index database of information from these records is maintained by the Ulster County Clerk's Office Archives.
 
 Register of outgoing correspondence in this series found in the first folder.
 
@@ -40,7 +40,7 @@ Unpublished accession inventory for this unprocessed but usable collection is av
 
 **4.6.5** Optionally, where descriptions of the materials or other finding aids (e.g., abstracts, calendars, indexes, etc.) have been published in standard lists or reference works, provide this information in a standard and concise form.
 
-Described in: Library of Congress Acquisitions: Manuscript Division, 1979\. Washington, D.C.: Library of Congress, 1981.
+Described in: Library of Congress Acquisitions: Manuscript Division, 1979. Washington, D.C.: Library of Congress, 1981.
 
 Listed in: Ricci. Census, vol.1, p. 857, no. 4.
 

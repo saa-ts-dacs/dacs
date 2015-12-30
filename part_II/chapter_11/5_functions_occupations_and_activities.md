@@ -6,7 +6,7 @@
 
 Artists (_occupation; from Index terms for Occupations in Archival and Manuscript Collections_)
 
-Farmers’ spouses (_occupation; from_ Register of Australian Archives and Manuscripts Occupation Thesaurus)
+Farmers' spouses (_occupation; from_ Register of Australian Archives and Manuscripts Occupation Thesaurus)
 
 **11.5.3** For corporate bodies, record terms to describe the functions performed by the entity.
 

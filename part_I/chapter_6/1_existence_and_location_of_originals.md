@@ -26,7 +26,7 @@ Original letters in the collection of the Watkinson Library, Trinity College, Ha
 
 **6.1.6** Record any identifying numbers that may help in locating the originals in the cited location.
 
-Original diaries in the James Francis Thaddeus O’Connor Diaries and Correspondence (BANC MSS C-B 549), The Bancroft Library, University of California, Berkeley, CA 94720-6000.
+Original diaries in the James Francis Thaddeus O'Connor Diaries and Correspondence (BANC MSS C-B 549), The Bancroft Library, University of California, Berkeley, CA 94720-6000.
 
 **6.1.7** Optionally, if the location of the originals is unknown, record that information.
 

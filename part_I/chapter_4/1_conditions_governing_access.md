@@ -40,7 +40,7 @@ The records of the president contain personnel and student academic records that
 *   Once a president has left office, files more than ten years old are open to researchers; those less than ten years old are restricted.
 
 For records of the president added to the record group after  
-1 January 2001, the restriction is twenty years from the date of accession in accordance with the University’s policy on the records of executive officers, deans, directors, and their support offices. Records in this category are identified with an “ER restricted” note.
+1 January 2001, the restriction is twenty years from the date of accession in accordance with the University's policy on the records of executive officers, deans, directors, and their support offices. Records in this category are identified with an "ER restricted" note.
 
 ------------------------
 
