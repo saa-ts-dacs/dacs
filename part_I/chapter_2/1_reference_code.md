@@ -23,13 +23,10 @@ Commentary: This typically alphanumeric identifier frequently serves as a succin
 
 **2.1.3** At the highest level of a multilevel description or in a single level description, provide a unique identifier for the materials being described in accordance with the institution's administrative control system. Optionally, devise unique identifiers at lower levels of a multilevel description.
 
-    95-24
-
-    _Records collection identifier, Gay, Lesbian, Bisexual, Transgender Historical Society_
-
-    MC22
-
-    _Personal papers collection identifier, Scripps Institute of Oceanography Archives_
+<p class="dacs-example">95-24</p>
+<p class="dacs-example"><em>Records collection identifier, Gay, Lesbian, Bisexual, Transgender Historical Society</em></p>
+<p class="dacs-example">MC22</p>
+<p class="dacs-example"><em>Personal papers collection identifier, Scripps Institute of Oceanography Archives</em></p>
 
     632
 
