@@ -24,47 +24,41 @@ Commentary: This typically alphanumeric identifier frequently serves as a succin
 **2.1.3** At the highest level of a multilevel description or in a single level description, provide a unique identifier for the materials being described in accordance with the institution's administrative control system. Optionally, devise unique identifiers at lower levels of a multilevel description.
 
 <p class="dacs-example">95-24</p>
+
 <p class="dacs-example"><em>Records collection identifier, Gay, Lesbian, Bisexual, Transgender Historical Society</em></p>
 <p class="dacs-example">MC22</p>
+
 <p class="dacs-example"><em>Personal papers collection identifier, Scripps Institute of Oceanography Archives</em></p>
+<p class="dacs-example">632</p>
 
-    632
+<p class="dacs-example"><em>Manuscript group identifier, Manuscripts and Archives, Yale University Library</em></p>
+<p class="dacs-example">79-GC-2-134</p>
 
-    _Manuscript group identifier, Manuscripts and Archives, Yale University Library_
+<p class="dacs-example"><em>Record group, series, album, and item identifier, National Archives and Records Administration</em></p>
+<p class="dacs-example">UAV 605 (AS81)</p>
 
-    79-GC-2-134
-
-    _Record group, series, album, and item identifier, National Archives and Records Administration_
-
-    UAV 605 (AS81)
-
-    http://nrs.harvard.edu/urn-3:RAD.SCHL.WAX:4740894
-
-    MC 666 E. 1
+<p class="dacs-example">http://nrs.harvard.edu/urn-3:RAD.SCHL.WAX:4740894</p>
+<p class="dacs-example">MC 666 E. 1</p>
 
 ### Repository Identifier
 
 **2.1.4** Provide a repository code assigned by the national organization responsible for assigning and maintaining repository identifiers.<sup>1</sup>
 
-CUI
+<p class="dacs-example">CUI</p>
+<p class="dacs-example"><em>Repository code for the University of California, Irvine Libraries</em></p>
 
-_Repository code for the University of California, Irvine Libraries_
-
-TxU-Hu
-
-_Repository code for the Harry Ransom Humanities Research Center, The University of Texas at Austin_
+<p class="dacs-example">TxU-Hu</p>
+<p class="dacs-example"><em>Repository code for the Harry Ransom Humanities Research Center, The University of Texas at Austin</em></p>
 
 ### Country Identifier
 
 **2.1.5** Provide a country code for the location of the repository as assigned by the International Standards Organization.<sup>2</sup>
 
-US
+<p class="dacs-example">US</p>
+<p class="dacs-example"><em>Code for the United States</em></p>
 
-_Code for the United States_
-
-Ca
-
-_C__ode for Canada_
+<p class="dacs-example">Ca</p>
+<p class="dacs-example"><em>Code for Canada</em></p>
 
 * * *
 
