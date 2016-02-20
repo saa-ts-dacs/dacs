@@ -24,26 +24,19 @@ This element provides information about access restrictions due to any physical 
 
 **4.2.5** Provide information about the physical characteristics or condition of the unit being described that limit access to it or restrict its use.
 
-Records are heavily foxed.
-
-Some of the letters in this series are illegible due to water damage.
-
-The majority of the materials in this file are torn along edges and folds.
-
-Emulsion flaking.
-
-Recorded with a constant audible hum.
+<p class="dacs-example">Records are heavily foxed.</p>
+<p class="dacs-example">Some of the letters in this series are illegible due to water damage.</p>
+<p class="dacs-example">The majority of the materials in this file are torn along edges and folds.</p>
+<p class="dacs-example">Emulsion flaking.</p>
+<p class="dacs-example">Recorded with a constant audible hum.</p>
 
 **4.2.6** Provide information about the location of the unit being described, if that location affects access to it.
 
-The audio cassettes are located in cold vault storage and must be acclimated before delivery to the research room.
-
-Forty-eight hours' advance notice is required for access because materials are stored offsite.
+<p class="dacs-example">The audio cassettes are located in cold vault storage and must be acclimated before delivery to the research room.</p>
+<p class="dacs-example">Forty-eight hours' advance notice is required for access because materials are stored offsite.</p>
 
 **4.2.7** If the original materials may not be used at all for preservation reasons, provide information about the reasons and the availability of reproductions.
 
-As a preservation measure, researchers must view the reference set of color slide reproductions of the posters in this collection rather than the originals.
-
-Originals not available due to fragility. Use microfilm copy.
-
-This film reel has shrunk and may not be viewed.
+<p class="dacs-example">As a preservation measure, researchers must view the reference set of color slide reproductions of the posters in this collection rather than the originals.</p>
+<p class="dacs-example">Originals not available due to fragility. Use microfilm copy.</p>
+<p class="dacs-example">This film reel has shrunk and may not be viewed.</p>
