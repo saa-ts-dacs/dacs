@@ -18,6 +18,6 @@ Commentary: The archivist should determine when it is desirable to create an acc
 
 **5.1.3** Record the successive transfers of ownership, responsibility, or custody or control of the unit being described from the time it left the possession of the creator until its acquisition by the repository, along with the dates thereof, insofar as this information can be ascertained and is significant to the user's understanding of the authenticity.
 
-Franklin Delano Roosevelt's gubernatorial records were initially deposited at the Roosevelt Presidential Library following his death. In 1982 they were returned by the Roosevelt Library to the New York State Archives.
+<p class="dacs-example">Franklin Delano Roosevelt's gubernatorial records were initially deposited at the Roosevelt Presidential Library following his death. In 1982 they were returned by the Roosevelt Library to the New York State Archives.</p>
 
-Many of the records in this series were created or compiled by the U.S. Army before the Japanese invasion of the Philippines. Just before the surrender of U.S. forces, the records were buried to prevent capture and were retrieved after the U.S. forces reoccupied the Philippines in 1945.
+<p class="dacs-example">Many of the records in this series were created or compiled by the U.S. Army before the Japanese invasion of the Philippines. Just before the surrender of U.S. forces, the records were buried to prevent capture and were retrieved after the U.S. forces reoccupied the Philippines in 1945.</p>
