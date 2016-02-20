@@ -31,89 +31,64 @@ Further details about quantity and physical characteristics may also be provided
 
 **2.5.4** Record the quantity of the material in terms of its physical extent as linear or cubic feet, number of items, or number of containers or carriers.<sup>1</sup>
 
-45 linear feet
-
-5,321 items
-
-16 boxes
-
-2 film reels
-
-15 folders
-
-10.0 cubic feet
+<p class="dacs-example">45 linear feet</p>
+<p class="dacs-example">5,321 items</p>
+<p class="dacs-example">16 boxes</p>
+<p class="dacs-example">2 film reels</p>
+<p class="dacs-example">15 folders</p>
+<p class="dacs-example">10.0 cubic feet</p>
 
 **2.5.5** Optionally, record the quantity in terms of material type(s). Material types may be general, such as textual materials,<sup>2</sup> graphic materials, cartographic materials, architectural and technical drawings, moving images, and sound recordings, or more specific types, such as those found in RDA and various thesauri.<sup>3</sup>
 
-10 boxes of textual materials
-
-1,000 photographs
-
-50 technical drawings
-
-800 maps
-
-12 audiocassettes
+<p class="dacs-example">10 boxes of textual materials</p>
+<p class="dacs-example">1,000 photographs</p>
+<p class="dacs-example">50 technical drawings</p>
+<p class="dacs-example">800 maps</p>
+<p class="dacs-example">12 audiocassettes</p>
 
 **2.5.6** Optionally, qualify the statement of physical extent to highlight the existence of material types that are important.
 
-45 linear feet, including 200 photographs and 16 maps
-
-3 boxes, including photographs and audiocassettes
+<p class="dacs-example">45 linear feet, including 200 photographs and 16 maps</p>
+<p class="dacs-example">3 boxes, including photographs and audiocassettes</p>
 
 ## Multiple Statements of Extent
 
 **2.5.7** If a parallel expression of extent is required or desirable, add this information in parentheses.
 
-2,400 photographs (12 linear feet)
-
-89.3 linear feet (150 boxes and 109 oversize folders)
-
-71 maps (3.5 cubic feet)
-
-1 diary (352 pages)
-
-52 megabytes (1,180 computer files)
-
-0.5 linear feet (51 floppy discs, 5 Zip discs, 3 CD-ROMs)
+<p class="dacs-example">2,400 photographs (12 linear feet)</p>
+<p class="dacs-example">89.3 linear feet (150 boxes and 109 oversize folders)</p>
+<p class="dacs-example">71 maps (3.5 cubic feet)</p>
+<p class="dacs-example">1 diary (352 pages)</p>
+<p class="dacs-example">52 megabytes (1,180 computer files)</p>
+<p class="dacs-example">0.5 linear feet (51 floppy discs, 5 Zip discs, 3 CD-ROMs)</p>
 
 **2.5.8** Optionally, provide multiple statements of extent to highlight the existence of material types that are important.
 
-12 linear feet of textual materials, 68 photographs,  
-16 architectural drawings
-
-107 boxes, 4 oversize boxes, 575 oversize folders, 225 rolled drawings
-
-Approximately 390 linear feet
-
-_Two expressions of the extent from the same collection_
+<p class="dacs-example">12 linear feet of textual materials, 68 photographs, 16 architectural drawings</p>
+<p class="dacs-example">107 boxes, 4 oversize boxes, 575 oversize folders, 225 rolled drawings</p>
+<p class="dacs-example">Approximately 390 linear feet</p>
+<p class="dacs-example"><em>Two expressions of the extent from the same collection</em></p>
 
 ## Approximate Statements of Extent
 
 **2.5.9** If parts of the material being described are numerous and the exact number cannot be readily ascertained, record an approximate number and indicate that it is an estimate.
 
-approximately 35 linear feet
-
-about 24,000 maps
-
-circa 11,000 photographs
+<p class="dacs-example">approximately 35 linear feet</p>
+<p class="dacs-example">about 24,000 maps</p>
+<p class="dacs-example">circa 11,000 photographs</p>
 
 ## Statements of Extent for Electronic Records
 
 **2.5.10** Electronic records may be described in terms of size (kilobytes, megabytes, gigabytes) or in terms of structure (digital files, directories, items, etc.). If desired, both may be used.
 
-700 Megabytes
-
-3 file directories containing 48 PDF files
-
-23 digital files (1 Gigabyte)
-
-approximately 275 digital image and audio files (12.4 GB) on  
-1 portable hard drive
+<p class="dacs-example">700 Megabytes</p>
+<p class="dacs-example">3 file directories containing 48 PDF files</p>
+<p class="dacs-example">23 digital files (1 Gigabyte)</p>
+<p class="dacs-example">approximately 275 digital image and audio files (12.4 GB) on 1 portable hard drive</p>
 
 **2.5.11** Optionally, descriptions of electronic records may include file format type as well as size. The file format type is normally the file name extension (.doc, .pdf, .ppt, etc.). This is especially recommended where the description includes a link directly to the record.
 
-PDF (88 Kilobytes)
+<p class="dacs-example">PDF (88 Kilobytes)</p>
 
 * * *
 
