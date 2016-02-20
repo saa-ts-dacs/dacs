@@ -26,99 +26,73 @@ Commentary: When describing the records of a person or family for which there ar
 
 **2.6.4** Record the name(s) of the creator(s) identified in the name element in the devised title of the materials using standardized vocabularies (e.g., _Library of Congress Authorities_) or with rules for formulating standardized names, such as those found in AACR2, ISAAR(CPF), or RDA.
 
-Hamilton, Alexander, 1757-1804
+<p class="dacs-example">Hamilton, Alexander, 1757-1804</p>
+<p class="dacs-example"><em>Title:</em> Alexander Hamilton papers</p>
 
-      _Title:_ Alexander Hamilton papers
+<p class="dacs-example">Lyon, Phyllis</p>
 
-Lyon, Phyllis
+<p class="dacs-example">Martin, Del</p>
+<p class="dacs-example"><em>Title:</em> Phyllis Lyon and Del Martin papers</p>
 
-Martin, Del
+<p class="dacs-example">Richardson, James Burchell</p>
+<p class="dacs-example"><em>Title:</em> James Burchell Richardson family papers</p>
 
-      _Title:_ Phyllis Lyon and Del Martin papers
+<p class="dacs-example">Schramm family</p>
+<p class="dacs-example"><em>Title:</em> Schramm family papers</p>
 
-Richardson, James Burchell
+<p class="dacs-example">Wharton, Edith, 1862-1937</p>
 
-      _Title:_ James Burchell Richardson family papers
+<p class="dacs-example">Fullerton, William Morton, b. 1865</p>
+<p class="dacs-example"><em>Title:</em> Edith Wharton correspondence with Morton Fullerton</p>
 
-Schramm family
+<p class="dacs-example">Bollingen Foundation</p>
+<p class="dacs-example"><em>Title:</em> Bollingen Foundation records</p>
 
-      _Title:_ Schramm family papers
+<p class="dacs-example">United States. Bureau of Insular Affairs</p>
+<p class="dacs-example"><em>Title:</em> United States Bureau of Insular Affairs records</p>
 
-Wharton, Edith, 1862-1937
+<p class="dacs-example">Irvine Company</p>
 
-Fullerton, William Morton, b. 1865
-
-_Title:_ Edith Wharton correspondence with Morton Fullerton
-
-Bollingen Foundation
-
-      _Title:_ Bollingen Foundation records
-
-United States. Bureau of Insular Affairs
-
-      _Title:_ United States Bureau of Insular Affairs records
-
-Irvine Company
-
-University of California (System). Regents.
-
-_Title_: Land agreements between the University of California and the Irvine Company
+<p class="dacs-example">University of California (System). Regents.</p>
+<p class="dacs-example"><em>Title:</em> Land agreements between the University of California and the Irvine Company</p>
 
 **2.6.5** Optionally, describe the nature of the relationship between the entit(ies) named in the creator element and the materials being described (e.g., creator, author, subject, custodian, copyright owner, controller, or owner). Where possible, terms should be applied from a controlled vocabulary (e.g., _Resource Description and Access_, Appendix I, or the _MARC Code List for Relators_).
 
-            Wisdom, William B., 1900-1977, collector
+<p class="dacs-example">Wisdom, William B., 1900-1977, collector</p>
+<p class="dacs-example"><em>Title:</em> William B. Wisdom Collection of Thomas Wolfe</p>
 
-            _Title:_ William B. Wisdom Collection of Thomas Wolfe
-
-Longfellow, Henry Wadsworth, 1807-1882, recipient
-
-            _Title:_ Letters to Henry Wadsworth Longfellow
+<p class="dacs-example">Longfellow, Henry Wadsworth, 1807-1882, recipient</p>
+<p class="dacs-example"><em>Title:</em> Letters to Henry Wadsworth Longfellow</p>
 
 **2.6.6** Optionally, indicate by codes or text whether the entity named is a corporate body, person, or family name.
 
-100 3b ‡a William Smith family
+<p class="dacs-example">100 3b ‡a William Smith family</p>
+<p class="dacs-example"><em>Note: MARC 21 encoding, indicating that the entry is a family name</em></p>
 
-_Note: MARC 21 encoding, indicating that the entry is a family name_
+<p class="dacs-example"><corpname>Hal Leonard Publishing Corporation</corpname></p>
+<p class="dacs-example"><em>Note: EAD encoding, indicating that the entry is a corporate body</em></p>
 
-<corpname>Hal Leonard Publishing Corporation</corpname>
-
-_Note: EAD encoding, indicating that the entry is a corporate body  
-_
-
-Personal name: Norton, Margaret Cross, 1891-1984
-
-_Note: Text label, indicating that the entry is a personal name_
+<p class="dacs-example">Personal name: Norton, Margaret Cross, 1891-1984</p>
+<p class="dacs-example"><em>Note: Text label, indicating that the entry is a personal name</em></p>
 
 **2.6.7** Where the names of all creators are not included in the devised title, in addition to those named in the title, record in the authorized form the names of other persons, families, or corporate bodies identified in the Administrative/Biographical History Element as creators of the materials being described.
 
-_For "Pettigrew family papers" record as creators:_
-
-Pettigrew family
-
-Pettigrew, Charles, 1744–1807
-
-Pettigrew, Charles Lockhart, 1816–1873
-
-Pettigrew, Ebenezer, 1783–1848
-
-Pettigrew, James Johnston, 1828–1863
-
-Pettigrew, William S., 1818–1900
+<p class="dacs-example"><em>For "Pettigrew family papers" record as creators:</em></p>
+<p class="dacs-example">Pettigrew family</p>
+<p class="dacs-example">Pettigrew, Charles, 1744–1807</p>
+<p class="dacs-example">Pettigrew, Charles Lockhart, 1816–1873</p>
+<p class="dacs-example">Pettigrew, Ebenezer, 1783–1848</p>
+<p class="dacs-example">Pettigrew, James Johnston, 1828–1863</p>
+<p class="dacs-example">Pettigrew, William S., 1818–1900</p>
 
 **2.6.8** Optionally, if the name(s) of the creator(s) of series, files, or items is included in the devised title for that level or in an Administrative/Biographical History Element, record a creator element for it at that level of description.
 
- Collection title: Eugene Loring papers
+<p class="dacs-example">Collection title: Eugene Loring papers</p>
+<p class="dacs-example"><em>Series title:</em> H. N. Clugston and Mary Ann Maudlin dance scrapbooks</p>
+<p class="dacs-example">(<em>Record in creator element at the collection level:</em> Loring, Eugene, 1914-1982)</p>
+<p class="dacs-example">(<em>Optionally, record in a creator element at the series level:</em> Clugston, H. N. and Maudlin, Mary Ann)</p>
 
-_Series title_: H. N. Clugston and Mary Ann Maudlin dance scrapbooks
-
-(_Record in creator element at the collection level:_ Loring, Eugene, 1914-1982)
-
-(_Optionally, record in a creator element at the series level:_ Clugston, H. N. and Maudlin, Mary Ann)
-
-Collection title: Alexander Graham Bell family papers, 1834-1970
-
-_Item title_: Biography of Gardiner Greene Hubbard
-
-(_Record in the creator element at the collection level:_ Bell family)
-
-(_Optionally, record in a creator element at the item level:_ Hubbard, Gardiner Greene)
+<p class="dacs-example">Collection title: Alexander Graham Bell family papers, 1834-1970</p>
+<p class="dacs-example"><em>Item title:</em> Biography of Gardiner Greene Hubbard</p>
+<p class="dacs-example">(<em>Record in the creator element at the collection level:</em> Bell family)</p>
+<p class="dacs-example">(<em>Optionally, record in a creator element at the item level:</em> Hubbard, Gardiner Greene)</p>
