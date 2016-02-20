@@ -22,12 +22,10 @@ Commentary: Special equipment may be required to view or access some material, p
 
 **4.3.5** Provide information about any special equipment required to view or access the unit being described, if it is not clear from the Extent Element (2.5).
 
-Parade recorded on Super8 film.
-
-Membership files are in an Access database.
+<p class="dacs-example">Parade recorded on Super8 film.</p>
+<p class="dacs-example">Membership files are in an Access database.</p>
 
 **4.3.6** Record information about the technical requirements for access to records in electronic form. Give the following characteristics in any appropriate order: make and model of the computer(s) on which the records are designed to run, amount of memory required, name of the operating system, software requirements, and kind and characteristics of any required or recommended peripherals.
 
-The Personnel Master File contains fourteen rectangular flat files stored in standard label EBCDIC. The files contain numeric and character data. The files are stored on fourteen reels of tape at 6250 bpi. The data can be manipulated using a common statistical package. Tape copies are in standard label EBCDIC format. Floppy disk copies are in ASCII format.
-
-System requirements: 48K RAM; Apple Disk II with controller; color monitor required to view this file.
+<p class="dacs-example">The Personnel Master File contains fourteen rectangular flat files stored in standard label EBCDIC. The files contain numeric and character data. The files are stored on fourteen reels of tape at 6250 bpi. The data can be manipulated using a common statistical package. Tape copies are in standard label EBCDIC format. Floppy disk copies are in ASCII format.</p>
+<p class="dacs-example">System requirements: 48K RAM; Apple Disk II with controller; color monitor required to view this file.</p>
