@@ -16,24 +16,17 @@ Language and script information may also be represented as codes for machine pro
 
 **4.5.2** Record the language(s) of the materials being described.
 
-Materials entirely in English.
-
-Collection is predominantly in Vietnamese; materials in English are indicated at the file level.
-
-Most of the material in this series is in Finnish. Some correspondence in English, French, and Swedish.
-
-All records are in Latvian unless otherwise noted.
-
-In Dakota, with partial English translation.
-
-Captions on photographs are in English, French, and Spanish.
-
-Japanese film subtitled in English and dubbed in French.
+<p class="dacs-example">Materials entirely in English.</p>
+<p class="dacs-example">Collection is predominantly in Vietnamese; materials in English are indicated at the file level.</p>
+<p class="dacs-example">Most of the material in this series is in Finnish. Some correspondence in English, French, and Swedish.</p>
+<p class="dacs-example">All records are in Latvian unless otherwise noted.</p>
+<p class="dacs-example">In Dakota, with partial English translation.</p>
+<p class="dacs-example">Captions on photographs are in English, French, and Spanish.</p>
+<p class="dacs-example">Japanese film subtitled in English and dubbed in French.</p>
 
 **4.5.3** Record information about any distinctive alphabets, scripts, symbol systems, or abbreviations employed.
 
-Later additions are in a seventeenth-century hand.
-
-Several pamphlets in this series are in German Fraktur.
+<p class="dacs-example">Later additions are in a seventeenth-century hand.</p>
+<p class="dacs-example">Several pamphlets in this series are in German Fraktur.</p>
 
 **4.5.4** If there is no language content, record "no linguistic content."
