@@ -32,21 +32,17 @@ When dates of creation and dates of record-keeping activity are the same, record
 
 **2.4.5** Record the year(s) in Western-style Arabic numerals. If the date found in or on the unit being described is not of the Gregorian or Julian calendar, record the date as found in a note, specifying the name of the calendar, such as Republican, Jewish, Chinese, in a note (see Rule 7.1.2).
 
-1968
+<p class="dacs-example">1968</p>
+<p class="dacs-example"><em>Note: Date on item is 2628, which is dated in accordance with the Chinese calendar.</em></p>
 
-_Note: Date on item is 2628, which is dated in accordance with the Chinese calendar._
-
-1805
-
-_Note: Date on item is an 14, which is dated in accordance with the French Republican calendar._
+<p class="dacs-example">1805</p>
+<p class="dacs-example"><em>Note: Date on item is an 14, which is dated in accordance with the French Republican calendar.</em></p>
 
 **2.4.6** Record the date(s) of the unit being described either as a range, series, or a single date.
 
-1801,1929
-
-1980-2001
-
-1776
+<p class="dacs-example">1801,1929</p>
+<p class="dacs-example">1980-2001</p>
+<p class="dacs-example">1776</p>
 
 ## Date Ranges
 
@@ -54,83 +50,68 @@ _Note: Date on item is an 14, which is dated in accordance with the French Repub
 
 **2.4.7** If the materials in the unit or the record-keeping activity relating to the unit being described span a period of time, always record the inclusive dates, that is, the earliest and latest dates of the materials or activity in question.
 
-1849-1851
+<p class="dacs-example">1849-1851</p>
 
 **2.4.8** When further accruals are expected, record the inclusive dates pertaining to the holdings currently in the custody of the repository. Record information about expected accruals in the Accruals Element (5.4). When the accruals are received, revise the date information accordingly.
 
-1979-1993
-
-_not_1979-
-
-_not_1979-(ongoing)_
+<p class="dacs-example">1979-1993</p>
+<p class="dacs-example"><em>not</em>1979-</p>
+<p class="dacs-example"><em>not</em>1979-(ongoing)</p>
 
 **2.4.9** The date(s) of a unit being described must fall within the range of dates of the unit of which it forms a part. This rule applies to both dates of creation and dates of record-keeping activity.
 
-1934-1985
+<p class="dacs-example">1934-1985</p>
+<p class="dacs-example"><em>Dates of record-keeping activity for a body of corporate records</em></p>
 
-_Dates of record-keeping activity for a body of corporate records_
+<p class="dacs-example">1945-1960</p>
+<p class="dacs-example"><em>Dates of record-keeping activity for a series within the above</em></p>
 
-1945-1960
-
-_Dates of record-keeping activity for a series within the above_
-
-1950-1955
-
-_Dates of record-keeping activity for a file within the above_
+<p class="dacs-example">1950-1955</p>
+<p class="dacs-example"><em>Dates of record-keeping activity for a file within the above</em></p>
 
 ### Predominant or Bulk Dates
 
 **2.4.10** Optionally, where the dates pertaining to the majority of the documents in the unit being described differ significantly from the inclusive dates, provide predominant or bulk dates. Specify them as such, preceded by the word _predominant_ or _bulk_. Never provide predominant or bulk dates without also providing inclusive dates.
 
-1785-1960, bulk 1916-1958
-
-1942-1998, predominant 1975-1991
+<p class="dacs-example">1785-1960, bulk 1916-1958</p>
+<p class="dacs-example">1942-1998, predominant 1975-1991</p>
 
 **2.4.11** Optionally, if there is a significant gap in the chronological sequence of the documents in the unit being described, where providing predominant/bulk dates would be misleading, record the anomalous date(s) separated by commas.<sup>2</sup> Explain significant chronological gaps in the materials in the Scope and Content Element (3.1).
 
-1827, 1952-1978
-
-1975, 2002
+<p class="dacs-example">1827, 1952-1978</p>
+<p class="dacs-example">1975, 2002</p>
 
 ### Estimated Date Ranges
 
 **2.4.12** At all levels of description, where the earliest or latest dates pertaining to the unit being described are estimates, indicate the estimated dates in a clear and consistent fashion.<sup>3</sup>
 
-approximately 1952-1978
-
-circa 1870-1879
+<p class="dacs-example">approximately 1952-1978</p>
+<p class="dacs-example">circa 1870-1879</p>
 
 ## Single Dates
 
 **2.4.13** If the materials fall within a single year, record that date or a more specific date therein.
 
-1975
-
-1975 March-August
+<p class="dacs-example">1975</p>
+<p class="dacs-example">1975 March-August</p>
 
 ### Exact Single Dates
 
 **2.4.14** For descriptions of a single item, record exact dates in a consistent and unambiguous fashion, preferably expressed as year-month-day.<sup>4</sup>
 
-1906 March 17
+<p class="dacs-example">1906 March 17</p>
 
 ### Estimated Single Dates
 
 **2.4.15** If no date can be found on or in the material itself or determined from any other source, estimate the nearest year, decade, century, or other interval as precisely as possible. Record estimated dates in a consistent fashion.
 
-probably 1867
-
-approximately 1925
-
-before 1867
-
-after 1867 January 5
-
-1892 or 1893
-
-1890s
-
-circa August 1975
+<p class="dacs-example">probably 1867</p>
+<p class="dacs-example">approximately 1925</p>
+<p class="dacs-example">before 1867</p>
+<p class="dacs-example">after 1867 January 5</p>
+<p class="dacs-example">1892 or 1893</p>
+<p class="dacs-example">1890s</p>
+<p class="dacs-example">circa August 1975</p>
 
 ## No Dates
 
