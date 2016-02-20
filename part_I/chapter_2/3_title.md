@@ -35,45 +35,33 @@ Commentary:
 
 **2.3.4** Record the name(s) of the person(s), family (families), or corporate body<sup>3</sup> predominantly responsible for the creation, assembly, accumulation, and/or maintenance of the materials.
 
-Graciany Miranda Archilla
-
-Bacot family
-
-Bank of Cape Fear (Wilmington, N.C.) Hillsboro Branch
-
-Wisconsin Environmental Policy Act
-
-Cameron family
-
-Caroline and Erwin Swann
-
-University of California, Santa Barbara Office of Public Information
-
-Oregon Dept. of Fish and Wildlife Northeast Region
+<p class="dacs-example">Graciany Miranda Archilla</p>
+<p class="dacs-example">Bacot family</p>
+<p class="dacs-example">Bank of Cape Fear (Wilmington, N.C.) Hillsboro Branch</p>
+<p class="dacs-example">Wisconsin Environmental Policy Act</p>
+<p class="dacs-example">Cameron family</p>
+<p class="dacs-example">Caroline and Erwin Swann</p>
+<p class="dacs-example">University of California, Santa Barbara Office of Public Information</p>
+<p class="dacs-example">Oregon Dept. of Fish and Wildlife Northeast Region</p>
 
 **2.3.5** Record the name(s) in the form by which the creator or collector is generally known.<sup>4</sup> Record the name(s) in the natural language order of the language of the person's or corporate body's country of residence or activity or the official language of the corporate body. The name may be abbreviated if a fuller form of the name appears elsewhere in the descriptive record (e.g., in the administrative/biographical history) or as an access point.
 
-Bessye J. Bearden
-
-_as opposed to the controlled form, "_Bearden, Bessye J."
-
-WAPOR
-
-_The controlled form_ World Association for Public Opinion Research _appears in the Name of Creator(s) Element._
+<p class="dacs-example">Bessye J. Bearden</p>
+<p class="dacs-example"><em>as opposed to the controlled form,</em> "Bearden, Bessye J."</p>
+<p class="dacs-example">WAPOR</p>
+<p class="dacs-example"><em>The controlled form</em> World Association for Public Opinion Research <em>appears in the Name of Creator(s) Element.</em></p>
 
 **2.3.6** If the name of the creator, assembler, or collector is not known, do not record a name. In such cases, devise the nature of the archival materials for the title as instructed in rules 2.3.18–2.3.20 and 2.3.22.
 
-Collection of San Francisco Graft Prosecution Records
-
-Performing Arts publications collection
+<p class="dacs-example">Collection of San Francisco Graft Prosecution Records</p>
+<p class="dacs-example">Performing Arts publications collection</p>
 
 ### Name Segment for More Than One Person
 
 **2.3.7** If three or fewer persons are credited with, or predominantly responsible for, the creation of the materials as a whole, record their names in direct order. The person who was responsible for the creation of the greatest part of the materials should be listed first. If no such determination can be made, the names should be listed in alphabetical order.
 
-John and Leni Sinclair papers
-
-Eugenia Rawls and Donald Seawell theater collection
+<p class="dacs-example">John and Leni Sinclair papers</p>
+<p class="dacs-example">Eugenia Rawls and Donald Seawell theater collection</p>
 
 **2.3.8** If responsibility for the creation of the materials is dispersed among more than three persons, record the name of the individual whose material predominates. If this does not apply, choose the name considered most appropriate.
 
@@ -83,33 +71,31 @@ Eugenia Rawls and Donald Seawell theater collection
 
 **2.3.10** If the materials were created, assembled, accumulated, and/or used in the context of familial relations by individuals who share a common surname, record that name followed by the word _family_.
 
-Harvey family papers
-
-Grieg family photographs
+<p class="dacs-example">Harvey family papers</p>
+<p class="dacs-example">Grieg family photographs</p>
 
 **2.3.11** If the materials were created, assembled, accumulated, and/or used in the context of familial relations by individuals who do not share a common surname, record all their names followed by the word _family_.
 
-Paul Hibbet Clyde and Mary Kestler family papers
+<p class="dacs-example">Paul Hibbet Clyde and Mary Kestler family papers</p>
 
 **2.3.12** Optionally, if the materials were created, assembled, accumulated, and/or used in the context of familial relations but one person's material predominates, record that person's full name followed by the word _family_.
 
-Andrew Swanson family papers
+<p class="dacs-example">Andrew Swanson family papers</p>
 
 **2.3.13** If two or three families are credited with, or predominantly responsible for, the creation of the materials, record all the family names followed by the word _families_.
 
-Short, Harrison, and Symmes families papers
+<p class="dacs-example">Short, Harrison, and Symmes families papers</p>
 
 **2.3.14** If responsibility for the creation of the materials is dispersed among more than three families, record only the name of the family whose material predominates. If no one family's material predominates, choose the name considered most appropriate.
 
-Young family papers
+<p class="dacs-example">Young family papers</p>
 
-_Collection material predominantly from the Young family of Paw Paw, Michigan, but also relates to Butler, Carpenter, Comstock, and Goodrich families. Example from the Department of Special Collections, Davidson Library, University of California, Santa Barbara._
+<p class="dacs-example"><em>Collection material predominantly from the Young family of Paw Paw, Michigan, but also relates to Butler, Carpenter, Comstock, and Goodrich families. Example from the Department of Special Collections, Davidson Library, University of California, Santa Barbara.</em></p>
 
 **2.3.15** Optionally,include all the names of the families who are credited with, or predominantly responsible for, the creation of the materials.
 
-Clement, Balinger, Logan, and Stiles family papers
-
-_Collection title from the Camden County Historical Society._
+<p class="dacs-example">Clement, Balinger, Logan, and Stiles family papers</p>
+<p class="dacs-example"><em>Collection title from the Camden County Historical Society.</em></p>
 
 ### Name Segment for Corporate Bodies
 
@@ -119,21 +105,18 @@ _Collection title from the Camden County Historical Society._
 
 **2.3.16** If the records of more than one corporate body are included in the materials, record only one name in the title. Establish a consistent policy for selecting the name of the corporate body to be used in the title. While the name of only one corporate body can be included in the title, names of other corporate bodies whose records are included in the materials may be recorded in the Name of Creator(s) Element as specified in Rule 2.6.7.
 
-British American Tobacco Company records
-
-_This body of corporate records includes records of_ Cameron and Cameron, D. B. Tennant and Company, David Dunlop, Export Leaf Tobacco Company, and T. C. Williams Company, _all of which were tobacco exporting companies acquired by British American Tobacco Company_.
+<p class="dacs-example">British American Tobacco Company records</p>
+<p class="dacs-example"><em>This body of corporate records includes records of</em> Cameron and Cameron, D. B. Tennant and Company, David Dunlop, Export Leaf Tobacco Company, and T. C. Williams Company, <em>all of which were tobacco exporting companies acquired by British American Tobacco Company</em>.</p>
 
 **Corporate body whose name has changed**
 
 **2.3.17** Where the name of the corporate body has changed, use the last (latest) name of the corporate body represented in the materials being described. Predecessor names of the corporate body may be recorded in the Name of Creator(s) Element as specified in Rule 2.6.7.
 
-University of California, Irvine, Office of Research and Graduate Studies records
+<p class="dacs-example">University of California, Irvine, Office of Research and Graduate Studies records</p>
+<p class="dacs-example"><em>These records include those from this same body under two previous names,</em> Graduate Division (1964–1981) <em>and</em> Division of Graduate Studies and Research(1981–1987).</p>
 
-_These records include those from this same body under two previous names,_ Graduate Division (1964–1981) _and_ Division of Graduate Studies and Research(1981–1987).
-
-Allied Theatres of Michigan records
-
-_These materials include records of this same body under its earlier name,_ Motion Picture Theatre Owners of Michigan _(name changed in 1931).
+<p class="dacs-example">Allied Theatres of Michigan records</p>
+<p class="dacs-example"><em>These materials include records of this same body under its earlier name,</em> Motion Picture Theatre Owners of Michigan <em>(name changed in 1931)</em>.</p>
 _
 
 **2.3.18** Optionally, where the name of the corporate body has changed, use the name under which the bulk of the material was created.
@@ -142,95 +125,61 @@ _
 
 **2.3.19** Archival materials are frequently described by devised aggregate terms such as _papers_ (for personal materials), _records_ (for organizational materials), or _collection_ (for topical aggregations). However, other terms are also used. The term(s) used to describe the nature of archival materials should be comprehensible to the institution's patrons. Titles should be constructed in a coherent and consistent format according to the rules of the individual institution.
 
-Coalition to Stop Trident records
-
-St. Paul African Methodist Episcopal Zion Church records
-
-Mortimer Jerome Adler papers
-
-Allyn Kellogg Ford collection of historical manuscripts
-
-Semans family papers
+<p class="dacs-example">Coalition to Stop Trident records</p>
+<p class="dacs-example">St. Paul African Methodist Episcopal Zion Church records</p>
+<p class="dacs-example">Mortimer Jerome Adler papers</p>
+<p class="dacs-example">Allyn Kellogg Ford collection of historical manuscripts</p>
+<p class="dacs-example">Semans family papers</p>
 
 **2.3.20** Where the materials being described consist solely of one or two specific forms, supply those form(s)<sup>5</sup> for the nature of the archival unit. Express the forms in their order of predominance.
 
-English Stage Company at the Royal Court Theatre correspondence
-
-John E. Brennan outdoor advertising survey reports
-
-William Gedney photographs and writings
-
-Troy Kinney etchings and engravings
-
-Sarah Dyer zine collection
-
-Andrew Jackson letter
-
-John Kenyon Chapman files
-
-Speeches
-
-_Devised title for a series within the_ Bessye J. Bearden papers
-
-Audio and video recordings
-
-_Devised title for a series within the_ Jacques Derrida papers
-
-National Academy of Sciences correspondence
-
-_Devised title for a file within the_ Frederick Reines papers
-
-Council for Refugee Rights correspondence and reports
-
-_Devised title for a file within the_ Project Ngoc records
+<p class="dacs-example">English Stage Company at the Royal Court Theatre correspondence</p>
+<p class="dacs-example">John E. Brennan outdoor advertising survey reports</p>
+<p class="dacs-example">William Gedney photographs and writings</p>
+<p class="dacs-example">Troy Kinney etchings and engravings</p>
+<p class="dacs-example">Sarah Dyer zine collection</p>
+<p class="dacs-example">Andrew Jackson letter</p>
+<p class="dacs-example">John Kenyon Chapman files</p>
+<p class="dacs-example">Speeches</p>
+<p class="dacs-example"><em>Devised title for a series within the</em> Bessye J. Bearden papers</p>
+<p class="dacs-example">Audio and video recordings</p>
+<p class="dacs-example"><em>Devised title for a series within the</em> Jacques Derrida papers</p>
+<p class="dacs-example">National Academy of Sciences correspondence</p>
+<p class="dacs-example"><em>Devised title for a file within the</em> Frederick Reines papers</p>
+<p class="dacs-example">Council for Refugee Rights correspondence and reports</p>
+<p class="dacs-example"><em>Devised title for a file within the</em> Project Ngoc records</p>
 
 **2.3.21** Optionally, if one or two specific forms predominate but there are also other material types present, record the one or two most predominant forms followed by the phrase "and other material" in the devised title and indicate the specific forms of material in the Scope and Content Element.
 
-James M. Woodbury diary, letters, and other material
-
-Sociedad Amigos de Arteaga, Inc., correspondence, flyers, and other material
-
-_Devised title for a file within the_ Genoveva de Arteaga papers
+<p class="dacs-example">James M. Woodbury diary, letters, and other material</p>
+<p class="dacs-example">Sociedad Amigos de Arteaga, Inc., correspondence, flyers, and other material</p>
+<p class="dacs-example"><em>Devised title for a file within the</em> Genoveva de Arteaga papers</p>
 
 ### Topic of the Archival Unit
 
 **2.3.22** Optionally, devise a brief term or phrase that most precisely and concisely characterizes the unit being described. The term or phrase should incorporate the form(s) of material that typifies the unit and reflects the function, activity, transaction, subject, individuals, or organizations that were the basis of its creation or use.
 
-Clarence McGehee collection on Ruth St. Denis
-
-Catherine Clarke civil rights collection
-
-Collection of California vacation albums
-
-_Devised title for a collection of purchased vacation albums assembled by Special Collections and Archives, University of California, Irvine_
-
-Russian referendum collection
-
-_Devised title for a collection of materials on the 1993 Russian referendum in support of the policies of Boris Yeltsin that was assembled by Manuscripts and Archives, Yale University_
-
-Land agreements between the University of California and the Irvine Company
-
-Edith Wharton correspondence with Morton Fullerton
-
-Oneida Nation petition to Jasper Parrish
-
-Frank and Frances Robinson files on Upper Newport Bay
-
-Correspondence regarding graduate assistantships
-
-James Joyce letter to Maurice Saillet
-
-Richard Nixon letter to H. R. Haldeman regarding the Watergate break-in
+<p class="dacs-example">Clarence McGehee collection on Ruth St. Denis</p>
+<p class="dacs-example">Catherine Clarke civil rights collection</p>
+<p class="dacs-example">Collection of California vacation albums</p>
+<p class="dacs-example"><em>Devised title for a collection of purchased vacation albums assembled by Special Collections and Archives, University of California, Irvine</em></p>
+<p class="dacs-example">Russian referendum collection</p>
+<p class="dacs-example"><em>Devised title for a collection of materials on the 1993 Russian referendum in support of the policies of Boris Yeltsin that was assembled by Manuscripts and Archives, Yale University</em></p>
+<p class="dacs-example">Land agreements between the University of California and the Irvine Company</p>
+<p class="dacs-example">Edith Wharton correspondence with Morton Fullerton</p>
+<p class="dacs-example">Oneida Nation petition to Jasper Parrish</p>
+<p class="dacs-example">Frank and Frances Robinson files on Upper Newport Bay</p>
+<p class="dacs-example">Correspondence regarding graduate assistantships</p>
+<p class="dacs-example">James Joyce letter to Maurice Saillet</p>
+<p class="dacs-example">Richard Nixon letter to H. R. Haldeman regarding the Watergate break-in</p>
 
 **2.3.23** When the subject of the collection is a person, and if no name has been recorded because the repository is the collector, express the title of the collection in a way that clearly indicates that the subject of the collection is not the collector.
 
-Collection on Isadora Duncan
+<p class="dacs-example">Collection on Isadora Duncan</p>
+<p class="dacs-example"><em>The collection is about Isadora Duncan; she is not the collector.</em></p>
 
-_The collection is about Isadora Duncan; she is not the collector._
-
-Collection of Robert Browning materials
-
-_The collection comprises materials by Robert Browning; he is not the collector._
+<p class="dacs-example">Collection of Robert Browning materials</p>
+<p class="dacs-example"><em>The collection comprises materials by Robert Browning; he is not the collector.</em></p>
 
 * * *
 
