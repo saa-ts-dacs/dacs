@@ -18,6 +18,5 @@ This element identifies any publications that are about or are based on the use,
 
 **6.4.4** Record a citation to, or information about, a publication that is about or is based on the use, study, or analysis of the materials being described. Provide sufficient information to indicate the relationship between the publication and the unit being described. This includes annotated editions.
 
-Arctic field notebooks cited in: Day, Harold. "Statistical Methods for Population Transport estimation." _Journal of Ecological Studies_ 7(1974): 187.
-
-An annotated edition of the letters in this collection was published in _Montana: The Magazine of Western History_ 37, no. 1 (Winter 1987): 14-33.
+<p class="dacs-example">Arctic field notebooks cited in: Day, Harold. "Statistical Methods for Population Transport estimation." <em>Journal of Ecological Studies</em> 7(1974): 187.</p>
+<p class="dacs-example">An annotated edition of the letters in this collection was published in <em>Montana: The Magazine of Western History</em> 37, no. 1 (Winter 1987): 14-33.</p>
