@@ -18,16 +18,15 @@ This element indicates the existence, location, and availability of originals wh
 
 **6.1.4** If the materials being described are reproductions and the originals are located elsewhere, give the location of the originals.
 
-Originals are in the Minnesota Historical Society.
-
-Original letters in the collection of the Watkinson Library, Trinity College, Hartford, CT.
+<p class="dacs-example">Originals are in the Minnesota Historical Society.</p>
+<p class="dacs-example">Original letters in the collection of the Watkinson Library, Trinity College, Hartford, CT.</p>
 
 **6.1.5** Optionally, record the address and other contact information for the individual or institution holding the originals, if it is not confidential.
 
 **6.1.6** Record any identifying numbers that may help in locating the originals in the cited location.
 
-Original diaries in the James Francis Thaddeus O'Connor Diaries and Correspondence (BANC MSS C-B 549), The Bancroft Library, University of California, Berkeley, CA 94720-6000.
+<p class="dacs-example">Original diaries in the James Francis Thaddeus O'Connor Diaries and Correspondence (BANC MSS C-B 549), The Bancroft Library, University of California, Berkeley, CA 94720-6000.</p>
 
 **6.1.7** Optionally, if the location of the originals is unknown, record that information.
 
-Location of the original is unknown.
+<p class="dacs-example">Location of the original is unknown.</p>
