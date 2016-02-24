@@ -20,24 +20,17 @@ This element indicates the existence and location of archival materials that are
 
 **6.3.5** If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
 
-Related materials providing visual documentation of racially segregated facilities may be found in the following collections in this repository: Birmingfind Project Photographs and Common Bonds Project Photographs.
+<p class="dacs-example">Related materials providing visual documentation of racially segregated facilities may be found in the following collections in this repository: Birmingfind Project Photographs and Common Bonds Project Photographs.</p>
 
-James Gulick was the half brother of Alice Gulick Gooch, the photographer of a small collection of Orange County photographs also held by Special Collections. The Gulick collection also adds family context to materials in the Huntley Family Papers. The Edna Phelps Collection contains photographs, family history, and correspondence on the Gulicks.
+<p class="dacs-example">James Gulick was the half brother of Alice Gulick Gooch, the photographer of a small collection of Orange County photographs also held by Special Collections. The Gulick collection also adds family context to materials in the Huntley Family Papers. The Edna Phelps Collection contains photographs, family history, and correspondence on the Gulicks.</p>
 
-The following sources provide additional information on Gordon Gray's personal and professional life and on the development of the Consolidated University during his tenure as president.
+<p class="dacs-example">The following sources provide additional information on Gordon Gray's personal and professional life and on the development of the Consolidated University during his tenure as president.</p>
+<p class="dacs-example">Southern Historical Collection:</p>
+<p class="dacs-example">GORDON GRAY PAPERS #3824</p>
+<p class="dacs-example">University Archives:</p>
+<p class="dacs-example">RECORDS OF THE BOARD OF TRUSTEES</p>
+<p class="dacs-example">RECORDS OF THE VICE PRESIDENT FOR FINANCE</p>
+<p class="dacs-example">RECORDS OF THE VICE PRESIDENT FOR ACADEMIC AFFAIRS</p>
+<p class="dacs-example">RECORDS OF THE OFFICE OF CHANCELLOR: R. B. HOUSE SERIES</p>
 
-Southern Historical Collection:
-
-GORDON GRAY PAPERS #3824
-
-University Archives:
-
-RECORDS OF THE BOARD OF TRUSTEES
-
-RECORDS OF THE VICE PRESIDENT FOR FINANCE
-
-RECORDS OF THE VICE PRESIDENT FOR ACADEMIC AFFAIRS
-
-RECORDS OF THE OFFICE OF CHANCELLOR: R. B. HOUSE SERIES
-
-Motion picture films and sound and video recordings transferred to Library of Congress Motion Picture, Broadcasting and Recorded Sound Division.
+<p class="dacs-example">Motion picture films and sound and video recordings transferred to Library of Congress Motion Picture, Broadcasting and Recorded Sound Division.</p>
