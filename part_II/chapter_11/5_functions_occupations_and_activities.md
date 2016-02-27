@@ -4,12 +4,12 @@
 
 **11.5.2** For persons, record terms to describe the occupations or activities in which the entity has been engaged.
 
-Artists (_occupation; from Index terms for Occupations in Archival and Manuscript Collections_)
+<p class="dacs-example">Artists (<em>occupation; from Index terms for Occupations in Archival and Manuscript Collections</em>)</p>
 
-Farmers' spouses (_occupation; from_ Register of Australian Archives and Manuscripts Occupation Thesaurus)
+<p class="dacs-example">Farmers' spouses (<em>occupation; from Register of Australian Archives and Manuscripts Occupation Thesaurus</em>)</p>
 
 **11.5.3** For corporate bodies, record terms to describe the functions performed by the entity.
 
-Structural analysis (_function; from_ Art & Architecture Thesaurus)
+<p class="dacs-example">Structural analysis (<em>function; from Art & Architecture Thesaurus</em>)</p>
 
-Zoning (_function; from_ Art & Architecture Thesaurus)
+<p class="dacs-example">Zoning (<em>function; from Art & Architecture Thesaurus</em>)</p>
