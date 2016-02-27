@@ -2,16 +2,16 @@
 
 **14.2.1** Identify the type of related resources, such as archival materials, finding aid, or other archival description, monograph, journal article, website, photograph, museum collection, documentary film, or oral history recording using terms prescribed in appropriate companion standards or provided in controlled vocabularies.
 
- <resourceRelation xlink:role="archivalRecords">
+<p class="dacs-example">&lt;resourceRelation xlink:role="archivalRecords"&gt;</p>
 
-<relationEntry>G. Hubert Smith papers</relationEntry>
+<p class="dacs-example">&lt;relationEntry&gt;G. Hubert Smith papers&lt;/relationEntry&gt;</p>
 
-</resourceRelation>
+<p class="dacs-example">&lt;/resourceRelation&gt;</p>
 
-_EAC-CPF encoding in which the value for the xlink:role attribute indicates that the related resource, G. Hubert Smith papers, is archival records_
+<p class="dacs-example"><em>EAC-CPF encoding in which the value for the xlink:role attribute indicates that the related resource, G. Hubert Smith papers, is archival records</em></p>
 
 **14.2.2** Optionally, include a brief description of the related resource.
 
-Autograph File: G (_related resource_)
+<p class="dacs-example">Autograph File: G (<em>related resource</em>)</p>
 
-Contains receipt for the profits from the first and second editions of Edward Gibbon's _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell
+<p class="dacs-example">Contains receipt for the profits from the first and second editions of Edward Gibbon's <em>History of the Decline and Fall of the Roman Empire</em>; also signed by Thomas Cadell</p>
