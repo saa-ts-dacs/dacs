@@ -2,12 +2,12 @@
 
 **10.2.1** Indicate by codes or text whether the entity named in the authority record is a corporate body, a person, or a family.
 
-100 3b ‡a McArthur (Family: McArthur, Duncan, 1796-1864)
+<p class="dacs-example">100 3b ‡a McArthur (Family: McArthur, Duncan, 1796-1864)</p>
 
-_MARC 21 encoding indicating that the entry is a family name_
+<p class="dacs-example"><em>MARC 21 encoding indicating that the entry is a family name</em></p>
 
-<entityType>corporateBody</entityType>
+<p class="dacs-example"><entityType>corporateBody</entityType></p>
 
-_EAC-CPF encoding indicating that the entry is a corporate body_
+<p class="dacs-example"><em>EAC-CPF encoding indicating that the entry is a corporate body</em></p>
 
 **Type of Entity:** Person
