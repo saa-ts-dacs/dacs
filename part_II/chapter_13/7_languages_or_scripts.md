@@ -2,4 +2,4 @@
 
 **13.7.1** Record the language or script of the archival authority record.
 
-            English
+<p class="dacs-example">English</p>
