@@ -33,21 +33,21 @@ Commentary: Variant names are created to help users discover materials that have
 
 <p class="dacs-example"><em>Variant name(s):</em>: Clark, Charles Joseph</p>
 
-              <p class="dacs-example">Clark, C. J.</p>
+<p class="dacs-example">Clark, C. J.</p>
 
 <p class="dacs-example">Prichard, Robert <em>(authorized name)</em></p>
 
 <p class="dacs-example"><em>Variant name(s):</em> Prichard, John Robert Stobo</p>
 
-              <p class="dacs-example">Prichard, J. Robert S.</p>
+<p class="dacs-example">Prichard, J. Robert S.</p>
 
-              <p class="dacs-example">Prichard, Rob</p>
+<p class="dacs-example">Prichard, Rob</p>
 
 <p class="dacs-example">World Health Organization <em>(authorized name)</em></p>
 
 <p class="dacs-example"><em>Variant name(s):</em> W.H.O.</p>
 
-              <p class="dacs-example">Organisation de la Santé Mondiale</p>
+<p class="dacs-example">Organisation de la Santé Mondiale</p>
 
 <p class="dacs-example">Massachusetts <em>(authorized name)</em></p>
 
@@ -57,19 +57,19 @@ Commentary: Variant names are created to help users discover materials that have
 
 <p class="dacs-example"><em>Variant name(s):</em> Montgomery, Lucy Maud</p>
 
-              <p class="dacs-example">MacDonald, Lucy Maud Montgomery</p>
+<p class="dacs-example">MacDonald, Lucy Maud Montgomery</p>
 
 <p class="dacs-example">Society of American Archivists. National Information Systems Task Force <em>(authorized name)</em></p>
 
 <p class="dacs-example"><em>Variant name(s):</em> National Information Systems Task Force</p>
 
-               <p class="dacs-example">NISTF</p>
+<p class="dacs-example">NISTF</p>
 
 <p class="dacs-example">Cadell, T. (Thomas), 1742-1802 <em>(authorized name)</em></p>
 
 <p class="dacs-example"><em>Variant name(s):</em> Cadell, Thomas, 1742-1802</p>
 
-       <p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
+<p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
 
 **10.3.4** Optionally, record pseudonyms and other identities assumed by a person as variant names.</p>
 
@@ -77,6 +77,6 @@ Commentary: Variant names are created to help users discover materials that have
 
 <p class="dacs-example"><em>Variant name(s):</em> Twain, Mark, 1835-1910</p>
 
-      <p class="dacs-example">Snodgrass, Quintus Curtius, 1835-1910</p>
+<p class="dacs-example">Snodgrass, Quintus Curtius, 1835-1910</p>
 
-      <p class="dacs-example">Conte, Louis de, 1835-1910</p>
+<p class="dacs-example">Conte, Louis de, 1835-1910</p>
