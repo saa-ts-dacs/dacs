@@ -2,22 +2,22 @@
 
 **10.4.1** Record where possible an official or other identifier for the corporate body and the jurisdiction that assigned it.
 
-Registered company 01003142 (Companies House, England)
+<p class="dacs-example">Registered company 01003142 (Companies House, England)</p>
 
-_For the corporate body_ Rolls Royce PLC
+<p class="dacs-example"><em>For the corporate body</em> Rolls Royce PLC</p>
 
 ## Example Form of the Name Area of an Archival Authority Record
 
-**Authorized Form of the Name _(10.1.1)_:** Cadell T., (Thomas), 1742-1802
+<p class="dacs-example"><strong>Authorized Form of the Name <em>(10.1.1)</em>:</strong> Cadell T., (Thomas), 1742-1802</p>
 
-**Type of Entity _(10.2.1)_:** Person
+<p class="dacs-example"><strong>Type of Entity <em>(10.2.1)</em>:</strong> Person</p>
 
-**Variant Names _(10.3.3)_:**
+<p class="dacs-example"><strong>Variant Names <em>(10.3.3)</em>:</strong></p>
 
-Cadell, Thomas, 1742-1802
+<p class="dacs-example">Cadell, Thomas, 1742-1802</p>
 
-Cadel, T.(Thomas),1742-1802
+<p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
 
-_Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example._
+<em>Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example.</em>
 
-_For an example archival authority record showing all five areas, see page 134–136._
+<em>For an example archival authority record showing all five areas, see page 134–136.</em>
