@@ -2,82 +2,82 @@
 
 **12.4.1** Record when relevant the commencement date of the relationship or succession date and, when relevant, the cessation date of the relationship. Dates should be recorded as described in rules 11.1.4–11.1.5.
 
-Minnesota. Dept. of Game and Fish (_entity described in archival authority record_)
+<p class="dacs-example">Minnesota. Dept. of Game and Fish (<em>entity described in archival authority record</em>)</p>
 
-Minnesota. Division of Game and Fish (_related entity_)
+<p class="dacs-example">Minnesota. Division of Game and Fish (<em>related entity</em>)</p>
 
-1931 (_date of succession_)
+<p class="dacs-example">1931 (<em>date of succession</em>)</p>
 
-Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
+<p class="dacs-example">Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (<em>entity described in archival authority record</em>)</p>
 
-Brown, Muriel Buck Humphrey (_related entity_)
+<p class="dacs-example">Brown, Muriel Buck Humphrey (<em>related entity</em>)</p>
 
-1936 September 3–1978 January 13 (_dates of the relationship's existence_)
+<p class="dacs-example">1936 September 3–1978 January 13 (<em>dates of the relationship's existence</em>)</p>
 
 ##  Example Related Persons, Families, and Corporate Bodies Area of an Archival Authority Record
 
-**Related Entity 1**
+<p class="dacs-example"><strong>Related Entity 1</strong></p>
 
-**Name/Identifier _(12.1.1)_:**
+<p class="dacs-example"><strong>Name/Identifier <em>(12.1.1)</em>:</strong></p>
 
-Cadell & Davies
+<p class="dacs-example">Cadell &amp; Davies</p>
 
-n 81066332
+<p class="dacs-example">n 81066332</p>
 
-**Type of Related Entity _(12.2.1)_:** Corporate body
+<p class="dacs-example"><strong>Type of Related Entity <em>(12.2.1)</em>:</strong> Corporate body</p>
 
-**Category of Relationship _(12.3.1)_:** Associative
+<p class="dacs-example"><strong>Category of Relationship <em>(12.3.1)</em>:</strong> Associative</p>
 
-**Description of Relationship _(12.3.2)_:** Firm began when Cadell bequeathed his business to his son Thomas Cadell the younger (1773-1836) and assistant, William Davies (d. 1820)
+<p class="dacs-example"><strong>Description of Relationship <em>(12.3.2)</em>:</strong> Firm began when Cadell bequeathed his business to his son Thomas Cadell the younger (1773-1836) and assistant, William Davies (d. 1820)</p>
 
-**Dates of Relationship _(12.4.1)_:** 1793-1802
+<p class="dacs-example"><strong>Dates of Relationship <em>(12.4.1)</em>:</strong> 1793-1802</p>
 
-**Related Entity 2**
+<p class="dacs-example"><strong>Related Entity 2</strong></p>
 
-**Name/Identifier _(12.1.1)_:**
+<p class="dacs-example"><strong>Name/Identifier <em>(12.1.1)</em>:</strong></p>
 
-Gibbon, Edward, 1737-1794
+<p class="dacs-example">Gibbon, Edward, 1737-1794</p>
 
-n 80005416
+<p class="dacs-example">n 80005416</p>
 
-**Type of Related Entity _(12.2.1)_:** Person
+<p class="dacs-example"><strong>Type of Related Entity <em>(12.2.1)</em>:</strong> Person</p>
 
-**Category of Relationship _(12.3.1)_:** Associative
+<p class="dacs-example"><strong>Category of Relationship <em>(12.3.1)</em>:</strong> Associative</p>
 
-**Description of Relationship _(12.3.2)_:** Published Gibbon's _The History of the_ _Decline and Fall of the Roman Empire_, giving him nearly two-thirds of profits from sales
+<p class="dacs-example"><strong>Description of Relationship <em>(12.3.2)</em>:</strong> Published Gibbon's <em>The History of the Decline and Fall of the Roman Empire</em>, giving him nearly two-thirds of profits from sales</p>
 
-**Dates of Relationship _(12.4.1)_:** 1776-1788
+<p class="dacs-example"><strong>Dates of Relationship <em>(12.4.1)</em>:</strong> 1776-1788</p>
 
-**Related Entity 3**
+<p class="dacs-example"><strong>Related Entity 3</strong></p>
 
-**Name/Identifier _(12.1.1)_:**
+<p class="dacs-example"><strong>Name/Identifier <em>(12.1.1)</em>:</strong></p>
 
-Johnson, Samuel, 1709-1784
+<p class="dacs-example">Johnson, Samuel, 1709-1784</p>
 
-n 78095825
+<p class="dacs-example">n 78095825</p>
 
-**Type of Related Entity _(12.2.1)_:** Person
+<p class="dacs-example"><strong>Type of Related Entity <em>(12.2.1)</em>:</strong> Person</p>
 
-**Category of Relationship _(12.3.1)_:** Associative
+<p class="dacs-example"><strong>Category of Relationship <em>(12.3.1)</em>:</strong> Associative</p>
 
-**Description of Relationship _(12.3.2)_:** Friend and publisher of Johnson
+<p class="dacs-example"><strong>Description of Relationship <em>(12.3.2)</em>:</strong> Friend and publisher of Johnson</p>
 
-**Dates of Relationship _(12.4.1)_:** 1770-1781
+<p class="dacs-example"><strong>Dates of Relationship <em>(12.4.1)</em>:</strong> 1770-1781</p>
 
-**Related Entity 4**
+<p class="dacs-example"><strong>Related Entity 4</strong></p>
 
-**Name/Identifier _(12.1.1)_:**
+<p class="dacs-example"><strong>Name/Identifier <em>(12.1.1)</em>:</strong></p>
 
-Millar, Andrew, 1707-1768
+<p class="dacs-example">Millar, Andrew, 1707-1768</p>
 
-n 50033644
+<p class="dacs-example">n 50033644</p>
 
-**Type of Related Entity _(12.2.1)_:** Person
+<p class="dacs-example"><strong>Type of Related Entity <em>(12.2.1)</em>:</strong> Person</p>
 
-**Category of Relationship _(12.3.1)_:** Associative
+<p class="dacs-example"><strong>Category of Relationship <em>(12.3.1)</em>:</strong> Associative</p>
 
-**Description of Relationship _(12.3.2)_:** First an apprentice to and later a business partner to Millar: named an executor when Millar died in 1768
+<p class="dacs-example"><strong>Description of Relationship <em>(12.3.2)</em>:</strong> First an apprentice to and later a business partner to Millar: named an executor when Millar died in 1768</p>
 
-**Dates of Relationship _(12.4.1)_:** 1758-1768
+<p class="dacs-example"><strong>Dates of Relationship <em>(12.4.1)</em>:</strong> 1758-1768</p>
 
 _For an example archival authority record showing all five areas, see page 134–136._
