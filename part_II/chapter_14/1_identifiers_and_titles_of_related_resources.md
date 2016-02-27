@@ -4,32 +4,32 @@ Commentary: While authority records are created to document the context in which
 
 **14.1.1** Provide the unique identifiers/reference codes or titles for the related resources necessary to establish a connection between the entity and the related resource.
 
-Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
+<p class="dacs-example">Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (<em>entity described in archival authority record</em>)</p>
 
-Hubert H. Humphrey papers: a summary guide, including the papers of Muriel Buck Humphrey Brown. St. Paul, Minnesota. Minnesota Historical Society, 1983. (_related resource_)
+<p class="dacs-example">Hubert H. Humphrey papers: a summary guide, including the papers of Muriel Buck Humphrey Brown. St. Paul, Minnesota. Minnesota Historical Society, 1983. (<em>related resource</em>)</p>
 
-Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (_entity described in archival authority record_)
+<p class="dacs-example">Humphrey, Hubert H. (Hubert Horatio), 1911-1978 (<em>entity described in archival authority record</em>)</p>
 
-A biography of Vice President Humphrey is available at http://gi.grolier.com/presidents/ea/vp/vphumph.html (_related resource_)
+<p class="dacs-example">A biography of Vice President Humphrey is available at http://gi.grolier.com/presidents/ea/vp/vphumph.html (<em>related resource</em>)</p>
 
-Peace Corps (U.S.) (_entity described in archival authority record_)
+<p class="dacs-example">Peace Corps (U.S.) (<em>entity described in archival authority record</em>)</p>
 
-National Archives Identifier: 558686
+<p class="dacs-example">National Archives Identifier: 558686</p>
 
-Photographs of Arts and Culture in Ghana
+<p class="dacs-example">Photographs of Arts and Culture in Ghana</p>
 
-Still Picture Records Section, Special Media Archives Services Division (NWCS-S), National Archives at College Park (_related resource_)
+<p class="dacs-example">Still Picture Records Section, Special Media Archives Services Division (NWCS-S), National Archives at College Park (<em>related resource</em>)</p>
 
-Boston School of Occupational Therapy (_entity described in an archival authority record_)
+<p class="dacs-example">Boston School of Occupational Therapy (<em>entity described in archival authority record</em>)</p>
 
-US MMeT-C UA032
+<p class="dacs-example">US MMeT-C UA032</p>
 
-Boston School of Occupational Therapy, records
+<p class="dacs-example">Boston School of Occupational Therapy, records</p>
 
-Tufts University Digital Collections and Archives (_related resource_)
+<p class="dacs-example">Tufts University Digital Collections and Archives (<em>related resource</em>)</p>
 
-Cadell, T. (Thomas), 1742-1802 (_entity described in archival authority record_)
+<p class="dacs-example">Cadell, T. (Thomas), 1742-1802 (<em>entity described in archival authority record</em>)</p>
 
-http://hdl.handle.net/10079/fa/beinecke.cadell
+<p class="dacs-example">http://hdl.handle.net/10079/fa/beinecke.cadell</p>
 
-Cadell & Davies records (_related resource_)
+<p class="dacs-example">Cadell & Davies records (<em>related resource</em>)</p>
