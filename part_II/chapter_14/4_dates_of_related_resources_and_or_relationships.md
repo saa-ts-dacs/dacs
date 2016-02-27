@@ -1,57 +1,57 @@
 **14.4.1** Provide any relevant dates for the related resources or the relationship between the corporate body, person, or family and the related resource, and describe the significance of those dates.
 
-Photographs of Arts and Culture in Ghana (_related resource_)
+<p class="dacs-example">Photographs of Arts and Culture in Ghana (<em>related resource</em>)</p>
 
-circa 1970 (_date of related resource_)
+<p class="dacs-example">circa 1970 (<em>date of related resource</em>)</p>
 
-Remarks to Peace Corps Trainees (_related resource_)
+<p class="dacs-example">Remarks to Peace Corps Trainees (<em>related resource</em>)</p>
 
-8 September 1962 (_date of related resource_)
+<p class="dacs-example">8 September 1962 (<em>date of related resource</em>)</p>
 
 ## Example Related Archival Materials and Other Resources Area of an Archival Authority Record
 
-**Related Resource 1**
+<p class="dacs-example"><strong>Related Resource 1</strong></p>
 
-**Identifier and title _(14.1.1)_:**
+<p class="dacs-example"><strong>Identifier and title <em>(14.1.1)</em>:</strong></p>
 
-http://hdl.handle.net/10079/fa/beinecke.cadell
+<p class="dacs-example">http://hdl.handle.net/10079/fa/beinecke.cadell</p>
 
-Cadell & Davies records
+<p class="dacs-example">Cadell & Davies records</p>
 
-**Type of related resource _(14.2.1)_**: Archival materials
+<p class="dacs-example"><strong>Type of related resource <em>(14.2.1)</em>:</strong> Archival materials</p>
 
-**Nature of Relationship to Resource _(14.3.1)_**: Creator
+<p class="dacs-example"><strong>Nature of Relationship to Resource <em>(14.3.1)</em>:</strong> Creator</p>
 
-**Date of Related Resource _(14.4.1)_:** 1767-1831
+<p class="dacs-example"><strong>Date of Related Resource <em>(14.4.1)</em>:</strong> 1767-1831</p>
 
-**Related Resource 2**
+<p class="dacs-example"><strong>Related Resource 2</strong></p>
 
-**Identifier and title _(14.1.1)_:**
+<p class="dacs-example"><strong>Identifier and title <em>(14.1.1)</em>:</strong></p>
 
-http://hdl.handle.net/10079/fa/beinecke.osbmss
+<p class="dacs-example">http://hdl.handle.net/10079/fa/beinecke.osbmss</p>
 
-Manuscripts Bound in Printed Books in the Osborn Collection
+<p class="dacs-example">Manuscripts Bound in Printed Books in the Osborn Collection</p>
 
-**Type of related resource _(14.2.1)_:** Archival materials
+<p class="dacs-example"><strong>Type of related resource <em>(14.2.1)</em>:</strong> Archival materials</p>
 
-**Nature of Relationship to Resource _(14.3.1)_:** Creator
+<p class="dacs-example"><strong>Nature of Relationship to Resource <em>(14.3.1)</em>:</strong> Creator</p>
 
-**Date of Related Resource _(14.4.1)_:** Approximately 1786
+<p class="dacs-example"><strong>Date of Related Resource <em>(14.4.1)</em>:</strong> Approximately 1786</p>
 
-**Related Resource 3**
+<p class="dacs-example"><strong>Related Resource 3</strong></p>
 
-**Identifier and title _(14.1.1)_:**
+<p class="dacs-example"><strong>Identifier and title <em>(14.1.1)</em>:</strong></p>
 
-http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01430
+<p class="dacs-example">http://nrs.harvard.edu/urn-3:FHCL.Hough:hou01430</p>
 
-Autograph File: G
+<p class="dacs-example">Autograph File: G</p>
 
-**Type of related resource _(14.2.1)_:** Archival Materials
+<p class="dacs-example"><strong>Type of related resource <em>(14.2.1)</em>:</strong> Archival Materials</p>
 
-**Nature of Relationship to Resource _(14.3.1)_:** Creator
+<p class="dacs-example"><strong>Nature of Relationship to Resource <em>(14.3.1)</em>:</strong> Creator</p>
 
-**Description of Related Resource _(14.2.2)_:** Contains receipt for the profits from the first and second editions of Edward Gibbon's _History of the Decline and Fall of the Roman Empire_; also signed by Thomas Cadell.
+<p class="dacs-example"><strong>Description of Related Resource <em>(14.2.2)</em>:</strong> Contains receipt for the profits from the first and second editions of Edward Gibbon's <em>History of the Decline and Fall of the Roman Empire</em>; also signed by Thomas Cadell.</p>
 
-**Date of Related Resource _(14.4.1)_:** 1776
+<p class="dacs-example"><strong>Date of Related Resource <em>(14.4.1)</em>:</strong> 1776</p>
 
 _For an example archival authority record showing all five areas, see page 132–134._
