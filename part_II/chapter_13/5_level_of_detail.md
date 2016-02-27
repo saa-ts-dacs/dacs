@@ -2,14 +2,14 @@
 
 **13.5.1** Indicate whether the record contains minimal, partial, or full information. This data may be recorded as text or codes.
 
-006521nz_2200067n
+<p class="dacs-example">006521nz_2200067n</p>
 
-_(The character_ n _in the seventeenth position of the leader of this MARC authority record indicates that it meets "national level record requirements.")_
+<p class="dacs-example"><em>(The character</em> n <em>in the seventeenth position of the leader of this MARC authority record indicates that it meets "national level record requirements.")</em></p>
 
-<localControl localType="detailLevel">
+<p class="dacs-example">&lt;localControl localType="detailLevel"&gt;</p>
 
-<term>minimal</term>
+<p class="dacs-example">&lt;term&gt;minimal&lt;/term&gt;</p>
 
-</localControl>
+<p class="dacs-example">&lt;/localControl&gt;</p>
 
-_(EAC-CPF encoding indicating that the record contains minimal information)_
+<p class="dacs-example"><em>(EAC-CPF encoding indicating that the record contains minimal information)</em></p>
