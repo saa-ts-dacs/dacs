@@ -18,6 +18,6 @@
 
 <p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
 
-<em>Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example.</em>
+_Note: Element 10.4, Identifiers for Corporate Bodies, is not applicable in this example._
 
-<em>For an example archival authority record showing all five areas, see page 134–136.</em>
+_For an example archival authority record showing all five areas, see page 134–136._
