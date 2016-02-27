@@ -69,7 +69,7 @@ Commentary: When describing the records of a person or family for which there ar
 <p class="dacs-example">100 3b ‡a William Smith family</p>
 <p class="dacs-example"><em>Note: MARC 21 encoding, indicating that the entry is a family name</em></p>
 
-<p class="dacs-example"><corpname>Hal Leonard Publishing Corporation</corpname></p>
+<p class="dacs-example">&lt;corpname&gt;Hal Leonard Publishing Corporation&lt;/corpname&gt;</p>
 <p class="dacs-example"><em>Note: EAD encoding, indicating that the entry is a corporate body</em></p>
 
 <p class="dacs-example">Personal name: Norton, Margaret Cross, 1891-1984</p>
