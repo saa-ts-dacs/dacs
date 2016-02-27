@@ -4,10 +4,10 @@ Commentary: In describing the parties that created, assembled, accumulated, and/
 
 **12.1.1** Record the authorized names and any relevant unique identifiers, including the authority record identifier, of corporate bodies, persons, or families that have a significant relationship with the entity named in the authority record.
 
-Minnesota. Division of Game and Fish
+<p class="dacs-example">Minnesota. Division of Game and Fish</p>
 
-n 79066215 _(Library of Congress authority record control number)_
+<p class="dacs-example">n 79066215 <em>(Library of Congress authority record control number)</em></p>
 
-Brown, Muriel Buck Humphrey
+<p class="dacs-example">Brown, Muriel Buck Humphrey</p>
 
-n 83312367 _(Library of Congress authority record control number)_
+<p class="dacs-example">n 83312367 <em>(Library of Congress authority record control number)</em></p>
