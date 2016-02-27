@@ -2,30 +2,30 @@
 
 **13.9.1** Record the name(s) of the person(s) who prepared or revised the authority record and any other information pertinent to its creation or maintenance.
 
-Biographical data assembled by Lael Ramaley.
+<p class="dacs-example">Biographical data assembled by Lael Ramaley.</p>
 
-Occupations revised by Lina Bountouri.
+<p class="dacs-example">Occupations revised by Lina Bountouri.</p>
 
-Created by M. K. K. Yearl
+<p class="dacs-example">Created by M. K. K. Yearl</p>
 
 ## Example Authority Record Management Area of an Archival Authority Record
 
-**Repository Code (13.1.1):** US-CtY-BR
+<p class="dacs-example"><strong>Repository Code (13.1.1):</strong> US-CtY-BR</p>
 
-**Authority Record Identifier (13.2.1):** beinecke.j0zpcks
+<p class="dacs-example"><strong>Authority Record Identifier (13.2.1):</strong> beinecke.j0zpcks</p>
 
-**Rules or Conventions (13.3.1, 13.3.2):** Records were created following DACS conventions.
+<p class="dacs-example"><strong>Rules or Conventions (13.3.1, 13.3.2):</strong> Records were created following DACS conventions.</p>
 
-**Status (13.4.2):** Authority record is finalized.
+<p class="dacs-example"><strong>Status (13.4.2):</strong> Authority record is finalized.</p>
 
-**Level of Detail (13.5.1):** Full
+<p class="dacs-example"><strong>Level of Detail (13.5.1):</strong> Full</p>
 
-**Date(s) of Authority Record Creation and Revision (13.6.1):** Created 2012 May 24
+<p class="dacs-example"><strong>Date(s) of Authority Record Creation and Revision (13.6.1):</strong> Created 2012 May 24</p>
 
-**Language or Scripts (13.7.1):** English, Latin
+<p class="dacs-example"><strong>Language or Scripts (13.7.1):</strong> English, Latin</p>
 
-**Sources (13.8.1):** _Oxford Dictionary of National Biography_
+<p class="dacs-example"><strong>Sources (13.8.1):</strong> <em>Oxford Dictionary of National Biography</em></p>
 
-**Maintenance Information _(13.9.1)_:** Created by M. K. K. Yearl
+<p class="dacs-example"><strong>Maintenance Information <em>(13.9.1)</em>:</strong> Created by M. K. K. Yearl</p>
 
 _For an example archival authority record showing all five areas, see page 134–136._
