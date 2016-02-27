@@ -6,7 +6,7 @@
 
 <p class="dacs-example"><em>MARC 21 encoding indicating that the entry is a family name</em></p>
 
-<p class="dacs-example"><entityType>corporateBody</entityType></p>
+<p class="dacs-example">&lt;entityType&gt;corporateBody&lt;/entityType&gt;</p>
 
 <p class="dacs-example"><em>EAC-CPF encoding indicating that the entry is a corporate body</em></p>
 
