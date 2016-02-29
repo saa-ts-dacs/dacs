@@ -7,23 +7,19 @@ DACS is an output-neutral set of rules for describing archives, personal papers,
 
 ## Converting to other formats
 
-The documentation on this site is written in Markdown.  To convert to other formats, you can use the command-line application [Pandoc][p], which works on all operating systems. Pandoc can be downloaded [from their website][p-d] or [from Github][p-g].
-
-  [p]: http://pandoc.org
-  [p-d]: http://pandoc.org/installing.html
-  [p-g]: https://github.com/jgm/pandoc/releases
+The documentation on this site is written in Markdown.  To convert to other formats, you can use the command-line application [Pandoc](http://pandoc.org), which works on all operating systems. Pandoc can be downloaded [from their website](http://pandoc.org/installing.html) or [from Github](https://github.com/jgm/pandoc/releases).
 
 Common commands:
-In general, the command is pandoc FiletoConvert -o FileNameforResult
+In general, the command is formatted `pandoc FiletoConvert -o FileNameforResult`
 
   _Markdown to HTML:_  
-  pandoc pandoc-example.markdown -o pandoc-example.html
+  `pandoc pandoc-example.markdown -o pandoc-example.html`
 
   _Markdown to DOCX:_  
-  pandoc pandoc-example.markdown -o pandoc-example.docx
+  `pandoc pandoc-example.markdown -o pandoc-example.docx`
 
   _Markdown to PDF:_  
-  pandoc pandoc-example.markdown -o pandoc-example.pdf
+  `pandoc pandoc-example.markdown -o pandoc-example.pdf`
 
 
 ## Revision Process
