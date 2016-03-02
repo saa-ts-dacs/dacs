@@ -927,7 +927,7 @@
     <tr>
       <td>8.1.4 Rules or conventions</td>
       <td><code>&lt;descrules&gt;</code></td>
-      <td><code>&lt;conventiondeclaration&gt; or &lt;localtypedeclaration&gt;</td>
+      <td><code>&lt;conventiondeclaration&gt;</code> or <code>&lt;localtypedeclaration&gt;</code></td>
       <td><code>040$e</code></td>
     </tr>
     <tr>
