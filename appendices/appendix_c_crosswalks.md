@@ -731,17 +731,19 @@
   </tbody>
 </table>
 
-##  DACS to EAD and MARC
+##  DACS to EAD 2002, EAD3, and MARC
 
 <table border="1">
   <tbody>
     <tr>
       <td><strong>DACS</strong></td>
-      <td><strong>EAD</strong></td>
+      <td><strong>EAD 2002</strong></td>
+      <td><strong>EAD3 (draft)</strong></td>
       <td><strong>MARC</strong></td>
     </tr>
     <tr>
       <td><em>1 Level of Description</em></td>
+      <td><code>&lt;archdesc&gt;</code> and <code>&lt;c&gt;</code> level attribute</td>
       <td><code>&lt;archdesc&gt;</code> and <code>&lt;c&gt;</code> level attribute</td>
       <td><code>351$c</code></td>
     </tr>
@@ -751,45 +753,54 @@
     <tr>
       <td>2.1.3 Local identifier</td>
       <td><code>&lt;unitid&gt;</code></td>
+      <td><code>&lt;unitid&gt;</code></td>
       <td><code>099</code>, <code>090</code></td>
     </tr>
     <tr>
       <td>2.1.4 Repository identifier</td>
+      <td><code>&lt;unitid&gt;</code> repositorycode attribute</code></td>
       <td><code>&lt;unitid&gt;</code> repositorycode attribute</code></td>
       <td><code>040$a</code></td>
     </tr>
     <tr>
       <td>2.1.5 Country identifier</td>
       <td><code>&lt;unitid&gt;</code> countrycode attribute</code></td>
+      <td><code>&lt;unitid&gt;</code> countrycode attribute</code></td>
       <td>The MARC21 format does not contain a straightforward mapping for this DACS subelement value.</td>
     </tr>
     <tr>
       <td>2.2 Name and Location of Repository</td>
+      <td><code>&lt;repository&gt;</code></td>
       <td><code>&lt;repository&gt;</code></td>
       <td><code>852</code>, <code>524</code> (if the preferred citation indicates both the name and location of the repository)</td>
     </tr>
     <tr>
       <td>2.3 Title</td>
       <td><code>&lt;unittitle&gt;</code></td>
+      <td><code>&lt;unittitle&gt;</code></td>
       <td><code>245$a</code></td>
     </tr>
     <tr>
       <td>2.4 Date</td>
       <td><code>&lt;unitdate&gt;</code></td>
+      <td><code>&lt;unitdate&gt;</code> or <code>&lt;unitdatestructured&gt;</code></td>
       <td><code>264 _0 $c</code></td>
     </tr>
     <tr>
       <td>2.5 Extent</td>
       <td><code>&lt;physdesc&gt;</code> and subelements <code>&lt;extent&gt;</code>, <code>&lt;dimensions&gt;</code>, <code>&lt;genreform&gt;</code>, <code>&lt;physfacet&gt;</code></td>
+      <td><code>&lt;physdesc&gt;</code> (text or basic formatting elements) or <code>&lt;physdescstructured&gt;</code> and subelements <code>&lt;quantity&gt;</code>, <code>&lt;unittype&gt;</code>, <code>&lt;physfacet&gt;</code> and <code>&lt;dimensions&gt;</code></td>
       <td><code>300$a</code> and potentially other subfields</td>
     </tr>
     <tr>
       <td>2.6 Name of Creator(s)</td>
       <td><code>&lt;origination&gt;</code></td>
+      <td><code>&lt;origination&gt;</code></td>
       <td><code>100</code>, <code>110</code>, or <code>111</code>; <code>700</code>, <code>710</code>, or <code>711</code> for names in addition to that of the predominant creator</td>
     </tr>
     <tr>
       <td>2.7 Admininstrative/Biographical History</td>
+      <td><code>&lt;bioghist&gt;</code></td>
       <td><code>&lt;bioghist&gt;</code></td>
       <td><code>545</code></td>
     </tr>
@@ -799,10 +810,12 @@
     <tr>
       <td>3.1 Scope and Content</td>
       <td><code>&lt;scopecontent&gt;</code></td>
+      <td><code>&lt;scopecontent&gt;</code></td>
       <td><code>520</code></td>
     </tr>
     <tr>
       <td>3.2 System of Arrangement</td>
+      <td><code>&lt;arrangement&gt;</code></td>
       <td><code>&lt;arrangement&gt;</code></td>
       <td><code>351</code></td>
     </tr>
@@ -812,31 +825,37 @@
     <tr>
       <td>4.1 Conditions Governing Access</td>
       <td><code>&lt;accessrestrict&gt;</code></td>
+      <td><code>&lt;accessrestrict&gt;</code></td>
       <td><code>506</code></td>
     </tr>
     <tr>
       <td>4.2 Physical Access</td>
+      <td><code>&lt;accessrestrict&gt;</code>, <code>&lt;phystech&gt;</code>, <code>&lt;physloc&gt;</code></td>
       <td><code>&lt;accessrestrict&gt;</code>, <code>&lt;phystech&gt;</code>, <code>&lt;physloc&gt;</code></td>
       <td><code>340</code>, <code>506</code></td>
     </tr>
     <tr>
       <td>4.3 Technical Access</td>
       <td><code>&lt;phystech&gt;</code></td>
+      <td><code>&lt;phystech&gt;</code></td>
       <td><code>340</code>, <code>538</code></td>
     </tr>
     <tr>
       <td>4.4 Conditions Governing Reproduction and Use</td>
+      <td><code>&lt;userestrict&gt;</code></td>
       <td><code>&lt;userestrict&gt;</code></td>
       <td><code>540</code></td>
     </tr>
     <tr>
       <td>4.5 Languages and Scripts of the Material</td>
       <td><code>&lt;langmaterial&gt;</code></td>
+      <td><code>&lt;langmaterial&gt;</code></td>
       <td><code>546</code></td>
     </tr>
     <tr>
       <td>4.6 Finding Aids</td>
       <td><code>&lt;otherfindaid&gt;</code></td>
+      <td><code>&lt;recordid&gt;</code> instanceurl attribute, <code>&lt;representation&gt;</code>, <code>&lt;otherfindaid&gt;</code></td>
       <td><code>555</code></td>
     </tr>
     <tr>
@@ -845,20 +864,24 @@
     <tr>
       <td>5.1 Custodial History</td>
       <td><code>&lt;custodhist&gt;</code></td>
+      <td><code>&lt;custodhist&gt;</code></td>
       <td><code>561</code></td>
     </tr>
     <tr>
       <td>5.2 Immediate Source of Acquisition</td>
+      <td><code>&lt;acqinfo&gt;</code></td>
       <td><code>&lt;acqinfo&gt;</code></td>
       <td><code>541</code></td>
     </tr>
     <tr>
       <td>5.3 Appraisal, Destruction, and Scheduling Information</td>
       <td><code>&lt;appraisal&gt;</code></td>
+      <td><code>&lt;appraisal&gt;</code></td>
       <td><code>583</code></td>
     </tr>
     <tr>
       <td>5.4 Accruals</td>
+      <td><code>&lt;accruals&gt;</code></td>
       <td><code>&lt;accruals&gt;</code></td>
       <td><code>584</code></td>
     </tr>
@@ -868,41 +891,49 @@
     <tr>
       <td>6.1 Existence and Location of Originals</td>
       <td><code>&lt;originalsloc&gt;</code></td>
+      <td><code>&lt;originalsloc&gt;</code></td>
       <td><code>535</code></td>
     </tr>
     <tr>
       <td>6.2 Existence and Location of Copies</td>
+      <td><code>&lt;altformavail&gt;</code></td>
       <td><code>&lt;altformavail&gt;</code></td>
       <td><code>530</code>, <code>533</code></td>
     </tr>
     <tr>
       <td>6.3 Related Archival Materials</td>
       <td><code>&lt;relatedmaterial&gt;</code> or <code>&lt;separatedmaterial&gt;</code></td>
+      <td><code>&lt;relatedmaterial&gt;</code> or <code>&lt;separatedmaterial&gt;</code></td>
       <td><code>544</code></td>
     </tr>
     <tr>
       <td>6.4 Publication Note</td>
+      <td><code>&lt;bibliography&gt;&lt;p&gt;</code> or <code>&lt;bibliography&gt;&lt;bibref&gt;</code></td>
       <td><code>&lt;bibliography&gt;&lt;p&gt;</code> or <code>&lt;bibliography&gt;&lt;bibref&gt;</code></td>
       <td><code>581</code></td>
     </tr>
     <tr>
       <td><em>7 Notes</em><sup>1</sup></td>
       <td><code>&lt;odd&gt;</code>, <code>&lt;note&gt;</code></td>
+      <td><code>&lt;controlnote&gt;</code>, <code>&lt;didnote&gt;</code>, <code>&lt;descriptivenote&gt;</code>, <code>&lt;footnote&gt;</code>, <code>&lt;odd&gt;</code></td>
       <td><code>500</code></td>
     </tr>
     <tr>
       <td><em>8 Description Control</em></td>
+      <td><code>&lt;processinfo&gt;</code></td>
       <td><code>&lt;processinfo&gt;</code></td>
       <td><code>583</code></td>
     </tr>
     <tr>
       <td>8.1.4 Rules or conventions</td>
       <td><code>&lt;descrules&gt;</code></td>
+      <td><code>&lt;conventiondeclaration&gt; or &lt;localtypedeclaration&gt;</td>
       <td><code>040$e</code></td>
     </tr>
     <tr>
       <td>8.1.5 Archivist and date</td>
-      <td><code>&lt;processinfo><p><date&gt;</code></td>
+      <td><code>&lt;processinfo&gt;&lt;p&gt;&lt;date&gt;</code></td>
+      <td><code>&lt;processinfo&gt;&lt;p&gt;&lt;date&gt;</code></td>
       <td><code>583</code></td>
     </tr>
   </tbody>
