@@ -302,10 +302,11 @@
     </tr>
     <tr>
       <td>2.1 Reference Code</td>
-      <td>2.15 Manifestations; 2.19 Item-level (They have an archival example here.)</td>
+      <td>2.15 Manifestations; 2.20 Item-level (They have an archival example here.)</td>
     </tr>
     <tr>
       <td>2.2 Name and Location of Repository</td>
+	  <td>4.3.1.4</td>
     </tr>
     <tr>
       <td>2.3 Title</td>
@@ -321,89 +322,11 @@
     </tr>
     <tr>
       <td>2.6 Name of Creator(s)</td>
-      <td>19, 21, 22</td>
+      <td>19.2</td>
     </tr>
     <tr>
       <td>2.7 Administrative/Biographical History</td>
-      <td>9.17</td>
-    </tr>
-    <tr>
-      <td>2.7.13 Names</td>
-      <td>9.2</td>
-    </tr>
-    <tr>
-      <td>2.7.14 Family information</td>
-      <td>9.17</td>
-    </tr>
-    <tr>
-      <td>2.7.15 Dates</td>
-      <td>9.8-9.9</td>
-    </tr>
-    <tr>
-      <td>2.7.16 Place of residence</td>
-      <td>9.11; 9.8-9.9</td>
-    </tr>
-    <tr>
-      <td>2.7.17 Education</td>
-      <td>9.17</td>
-    </tr>
-    <tr>
-      <td>2.7.18 Occupation, life, and activities</td>
-      <td>9.15–9.16</td>
-    </tr>
-    <tr>
-      <td>2.7.19 Relationships</td>
-      <td>30 (Persons); 31 (Families); 32 (Corporations)</td>
-    </tr>
-    <tr>
-      <td>2.7.20 Family relationships</td>
-      <td>31 (Families)</td>
-    </tr>
-    <tr>
-      <td>2.7.21 Other information</td>
-      <td>9.17</td>
-    </tr>
-    <tr>
-      <td>2.7.22–2.7.23 Administrative history</td>
-      <td>11.11</td>
-    </tr>
-    <tr>
-      <td>2.7.24 Dates of founding and/or dissolution</td>
-      <td>11.4.3; 11.4.4</td>
-    </tr>
-    <tr>
-      <td>2.7.25 Geographical areas</td>
-      <td>11.3</td>
-    </tr>
-    <tr>
-      <td>2.7.26 Mandate</td>
-      <td>11.11</td>
-    </tr>
-    <tr>
-      <td>2.7.27 Functions</td>
-      <td>11.10</td>
-    </tr>
-    <tr>
-      <td>2.7.28 Administrative Structure</td>
-      <td>No RDA equivalent</td>
-    </tr>
-    <tr>
-      <td>2.7.29 Predecessor and successor bodies</td>
-      <td>32 (related bodies)</td>
-    </tr>
-    <tr>
-      <td>2.7.30 Amalgamations and mergers</td>
-    </tr>
-    <tr>
-      <td>2.7.31 Name changes</td>
-      <td>RDA wants you to create a separate record for each name.</td>
-    </tr>
-    <tr>
-      <td>2.7.32 Chief Officers</td>
-      <td>30 (related persons)</td>
-    </tr>
-    <tr>
-      <td>2.7.33 Other significant information</td>
+      <td>9.17 (Persons), 10.9 (Families), 11.11 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>3.1 Scope and Content</td>
@@ -419,7 +342,7 @@
     </tr>
     <tr>
       <td>4.2 Physical Access</td>
-      <td>No RDA equivalent (perhaps 3.21)</td>
+      <td>No RDA equivalent (perhaps 4.4 and 3.22)</td>
     </tr>
     <tr>
       <td>4.3 Technical Access</td>
@@ -435,15 +358,15 @@
     </tr>
     <tr>
       <td>4.6 Finding Aids</td>
-      <td>25.1 (related work)</td>
+      <td>25.1 (Related work)</td>
     </tr>
     <tr>
       <td>5.1 Custodial History</td>
-      <td>2.17</td>
+      <td>2.18</td>
     </tr>
     <tr>
       <td>5.2 Immediate Source of Acquisition</td>
-      <td>2.18</td>
+      <td>2.19</td>
     </tr>
     <tr>
       <td>5.3 Appraisal, Destruction, and Scheduling Information</td>
@@ -455,7 +378,7 @@
     </tr>
     <tr>
       <td>6.1 Existence and Location of Originals</td>
-      <td>28.1 (related manifestations)</td>
+      <td>28.1 (Related manifestations)</td>
     </tr>
     <tr>
       <td>6.2 Existence and Location of Copies</td>
@@ -463,41 +386,42 @@
     </tr>
     <tr>
       <td>6.3 Related Archival Materials</td>
-      <td>24.4.3 b (related works unstructured description)</td>
+      <td>24.4 (Related works unstructured description)</td>
     </tr>
     <tr>
       <td>6.4 Publication Note</td>
-      <td>25 (related work)</td>
+      <td>25.1 (Related work)</td>
     </tr>
     <tr>
       <td>7.1 Notes</td>
-      <td>2.20 (manifestations/items)</td>
+      <td>2.17 (Manifestations), 2.21 (Items)</td>
     </tr>
     <tr>
       <td>8.1 Description Control</td>
-      <td>5.7 (work)</td>
+      <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td colspan="2"><em>Part II</em></td>
     </tr>
     <tr>
       <td>9 Archival Authority Records</td>
-      <td>19.2; 19.3</td>
+      <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>10.1 Authorized Form of the Name</td>
-      <td>9.19 (Person); 10.10 (Families); 11.13 (Corporate bodies)</td>
+      <td>9.19.1 (Persons); 10.11.1 (Families); 11.13.1 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>10.2 Type of Entity</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>10.3.1 Parallel forms of name</td>
-      <td>8.7 (variant forms)</td>
+      <td>8.7 (variant forms). Additional instructions at 9.19.2 (Persons), 10.11.2 (Families), and 11.13.2 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>10.3.2 Standardized form of the name according to other rules</td>
-      <td>9.19.2</td>
+      <td>9.19.2 (Persons), 10.11.2 (Families), 11.13.2 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>10.3.3 Other forms of name</td>
@@ -509,37 +433,39 @@
     </tr>
     <tr>
       <td>11.1 Dates of Existence</td>
-      <td>9.3 (Person); 10.4 (Family); 11.4 (Corporate bodies)</td>
+      <td>9.3 (Persons); 10.4 (Families); 11.4 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>11.2 Historical Summary</td>
-      <td>9.17 (Person); 10.8 (Family); 11.11 (Corporate body)</td>
+      <td>9.17 (Persons); 10.9 (Families); 11.11 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>11.3 Places</td>
-      <td>9.8–9.12 (Person); 10.5 (Family); 11.3 (Corporate body)</td>
+      <td>9.8–9.12 (Persons); 10.5 (Families); 11.3 (Corporate body)</td>
     </tr>
     <tr>
       <td>11.4 Legal Status</td>
-      <td>11.7</td>
+      <td>11.7 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>11.5 Functions, Occupations, and Activities</td>
-      <td>9.15–9.16 (Person); 11.10 (Corporate body)</td>
+      <td>9.15–9.16 (Persons); 11.10 (Corporate body)</td>
     </tr>
     <tr>
       <td>11.6 Mandates/Sources of Authority</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>11.7 Internal Structure/Genealogy</td>
-      <td>10.8 (Family); 11.11 (Corporate body)</td>
+      <td>10.9 (Families); 11.11 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>12.1 Names/Identifiers of Related Corporate Bodies, Persons, or Families</td>
-      <td>30 (Person); 31 (Families); 32 (Corporate body)</td>
+      <td>30 (Persons); 31 (Families); 32 (Corporate bodies)</td>
     </tr>
     <tr>
       <td>12.2 Type of Related Entity</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>12.3 Nature of Relationship</td>
@@ -547,15 +473,19 @@
     </tr>
     <tr>
       <td>12.4 Dates of the Relationship</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.1 Repository Code</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.2 Authority Record Identifier</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.3 Rules or Conventions</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.4 Status</td>
@@ -563,9 +493,11 @@
     </tr>
     <tr>
       <td>13.5 Level of Detail</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.6 Date(s) of Authority Record Creation and Revision</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>13.7 Languages or Scripts</td>
@@ -577,20 +509,23 @@
     </tr>
     <tr>
       <td>13.9 Maintenance Information</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>14.1 Identifiers and Titles of Related Resources</td>
-      <td>18–22</td>
+      <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>14.2 Types of Related Resources</td>
+	  <td>No RDA equivalent</td>
     </tr>
     <tr>
       <td>14.3 Nature of Relationship to Related Resources</td>
-      <td>K, Relationship designators</td>
+      <td>Appendix K, Relationship designators</td>
     </tr>
     <tr>
       <td>14.4 Dates of Related Resources and/or Relationships</td>
+	  <td>No RDA equivalent</td>
     </tr>
   </tbody>
 </table>
