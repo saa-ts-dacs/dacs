@@ -80,11 +80,13 @@ There are multiple ways you can interact with Github to propose a revision, incl
  
  4. Suggest your changes to the DACS repository, which is called a "[pull request](https://help.github.com/articles/using-pull-requests/)".
  
-      a. Select your branch and click "New pull request."
+      a. Go back to the main page of your copy of the repository by clicking on "dacs" in the breadcrumb trail in the upper left.
 
-      b. Give the request a title that explains the change. In the description, including your justification for the change and its impact.
+      b. Select your branch with the edits and click "New pull request."
 
-      c. Click "Create pull request" which will alert TS-DACS that your change has been suggested.
+      c. Give the request a title that explains the change. In the description, including your justification for the change and its impact.
+
+      d. Click "Create pull request" which will alert TS-DACS that your change has been suggested.
 
 ## Authors
 
