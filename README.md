@@ -57,6 +57,36 @@ TS-DACS began using Github in March 2016 to manage and document the revision pro
 
   4. Generate HTML of the revised DACS for SAA’s website.
 
+###Getting started with Github
+There are multiple ways you can interact with Github to propose a revision, including using their [desktop application](https://guides.github.com/activities/forking/) or [the command line](http://kbroman.org/github_tutorial/pages/fork.html). The instructions below show you how to do it staying in [the web interface](https://help.github.com/articles/github-flow-in-the-browser/).
+
+ 1. Create a [Github account](https://github.com/join).
+ 
+ 2. Make a copy of the DACS repository to work on, which is called "creating a fork."
+ 
+      a. Log in  to your Github account.
+      
+      b. Go to the [DACS repository](https://github.com/saa-ts-dacs/dacs).
+
+      c. Click "Fork" in the upper right.
+
+ 3. Make the changes in your copy of the repository.
+
+      a. In your copy, [create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) to make the changes in.
+
+      b. To edit, click on a document and then click the pencil icon in the upper right. This will give you a text editor. Formatting can be added using the [markdown syntax](https://daringfireball.net/projects/markdown/).
+
+      c. When the editing is complete, give the edit a title and description in the Commit changes box, which is below the editing screen. Commit the change directly to your new branch.
+ 
+ 4. Suggest your changes to the DACS repository, which is called a "[pull request](https://help.github.com/articles/using-pull-requests/)".
+ 
+      a. Go back to the main page of your copy of the repository by clicking on "dacs" in the breadcrumb trail in the upper left.
+
+      b. Select your branch with the edits and click "New pull request."
+
+      c. Give the request a title that explains the change. In the description, including your justification for the change and its impact.
+
+      d. Click "Create pull request" which will alert TS-DACS that your change has been suggested.
 
 ## Authors
 
