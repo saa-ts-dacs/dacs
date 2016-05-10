@@ -8,6 +8,8 @@ DACS is a standard that is independent of particular forms of output in given in
 
 When descriptive information is managed in a locally developed database or presented as entries in a card catalog or as a typescript inventory, local decisions must be made about database design and presentation or the layout of data on the card or printed inventory. When descriptions are recorded in a standard electronic format—MARC 21, EAD, or both—an archivist will have to master the encoding scheme in which the data is stored electronically. Various publications are instructive in the application of these two standards, while the official documentation for each is available in print and online and is cited in Appendix B.<sup>1</sup>
 
+ADRIEN's trying to use git for the second time. 
+
 Beyond the details of their respective encoding protocols, both MARC 21 and EAD require the inclusion of data that supplements the information specified in DACS. MARC 21 includes a series of fields of coded information that assist in machine processing of data, such as the dates of the material. The structure of and permissible values for these codes may be found in the MARC 21 documentation. In EAD, the EAD Header element contains information about the electronic file. Its formulation is described in the _Encoded Archival Description Tag Library_.
 
 ## Access Points

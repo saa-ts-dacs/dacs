@@ -2,6 +2,8 @@
 
 This site is maintained to facilitate an open and transparent revision process of DACS and to document a record of all changes made to the standard. The site includes the full text of the standard and a record of all proposed and accepted revisions since March 2016.
 
+Adrien's test to try instructions. 
+
 DACS is an output-neutral set of rules for describing archives, personal papers, and manuscript collections, and can be applied to all material types. DACS is compatible with ISAD(G): General International Standard Archival Description, 2nd ed. (International Council on Archives, 1999) and ISAAR(CPF): International Standard Archival Authority Records for Corporate Bodies, Persons and Families, 2nd ed. (International Council on Archives, 2003).
 
 
