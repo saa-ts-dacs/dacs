@@ -1,3 +1,5 @@
+## 14.4 Dates of Related Resources and/or Relationships
+
 **14.4.1** Provide any relevant dates for the related resources or the relationship between the corporate body, person, or family and the related resource, and describe the significance of those dates.
 
 <p class="dacs-example">Photographs of Arts and Culture in Ghana (<em>related resource</em>)</p>
