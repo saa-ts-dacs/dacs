@@ -54,17 +54,12 @@ sources of information.
 ## Options and Alternatives
 
 Some rules are designated as optional; others are designated as
-alternative rules*.*
+alternative rules.
 
--   Where a rule represents an instruction that may or may not be used,
-    > it is introduced by the word *optionally*. A repository may use it
-    > or not as a matter of institutional policy or on a case-by-case
-    > basis at the discretion of the archivist.
+-   Where a rule represents an instruction that may or may not be used, it is introduced by the word *optionally*. A repository may use     it or not as a matter of institutional policy or on a case-by-case basis at the discretion of the archivist.
 
--   Where a rule represents an alternative equal in status and value to
-    > another rule, it is introduced by the word *alternatively*. A
-    > repository must use one or other as a matter of institutional
-    > policy or on a case-by-case basis.
+-   Where a rule represents an alternative equal in status and value to another rule, it is introduced by the word *alternatively*. A
+    repository must use one or other as a matter of institutional policy or on a case-by-case basis.
 
 These provisions arise from the recognition that different solutions to
 a problem and differing levels of detail and specificity are appropriate
@@ -103,14 +98,11 @@ followed:
 
 -   Internal consistency should be maintained.
 
--   Square brackets, as prescribed by cataloging convention to indicate
-    > information supplied from other sources, are not required in
-    > archival description.
+-   Square brackets, as prescribed by cataloging convention to indicate information supplied from other sources, are not required in    archival description.
 
     -   Abbreviations are discouraged.
 
-    -   Acronyms should be spelled out completely at least once in the
-        > text of any descriptive document.
+    -   Acronyms should be spelled out completely at least once in the text of any descriptive document.
 
 ## Descriptive Outputs
 
