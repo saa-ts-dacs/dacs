@@ -35,7 +35,7 @@ Access points fall into six broad categories:
 *   Occupations
 *   Functions
 
-Each category is described below and contains a discussion of the parts of the descriptive record in which the concepts that are rendered as access points may be found. The standard format of such terms can be developed locally but preferably will be taken from standard thesauri such as those in Appendix B or will be recorded following the rules in Part III.
+Each category is described below and contains a discussion of the parts of the descriptive record in which the concepts that are rendered as access points may be found. The standard format of such terms can be developed locally but preferably will be taken from standard thesauri such as those in Appendix B.
 
 ### Names
 
