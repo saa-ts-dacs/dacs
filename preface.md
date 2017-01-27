@@ -50,7 +50,7 @@ The decision to make Part II into rules for archival authority records also nece
 
 Perhaps the single area that received the most comments from community members was the need to make DACS more relevant to modern records, which increasingly include or consist exclusively of born-digital formats. Of particular concern were rules prescribing _papers, records,_ and _collections_ as the collective terms describing the nature of the archival unit. Commenters felt that these terms did not adequately convey the increasingly digital format of the records. However, there was no community consensus as to what terms should be used instead. Subcommittee members considered this issue in depth and decided to revise the corresponding rule in DACS to permit local practices for new collective terms (such as _personal archives_ or _personal records_). TS-DACS recommends that this issue be readdressed during the next revision of DACS.
 
-In response to community members' requests for electronic records examples in DACS, a few such examples were added to Part I. These examples are meant to be illustrative of a growing presence of digital records in archival collections. They will be more widely represented on the companion website to DACS, which is described below.
+In response to community members' requests for electronic records examples in DACS, a few such examples were added to Part I. These examples are meant to be illustrative of a growing presence of digital records in archival collections.
 
 ## Examples
 
@@ -125,7 +125,7 @@ Those accustomed to using DACS 2004 will have little difficulty continuing to ut
       <td>Crosswalks in Appendix C</td>
     </tr>
     <tr>
-      <td>Appendix D removed in favor of expanded examples on the companion website</td>
+      <td>Appendix D removed with emphasis reoriented to DACS educational offerings</td>
       <td>Appendix D included full encoding examples</td>
     </tr>
   </tbody>
