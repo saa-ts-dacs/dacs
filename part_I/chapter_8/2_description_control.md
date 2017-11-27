@@ -1,4 +1,4 @@
-# 8.1 Description Control (Added Value)
+# 8.2 Description Control (Added Value)
 
 ## Purpose and Scope
 
@@ -6,23 +6,23 @@ The purpose of this element is to document the creation and revision of archival
 
 ## Exclusions
 
-**8.1.1** Rules for documenting the creation and maintenance of an authority record are found in Chapter 11.
+**8.2.1** Rules for documenting the creation and maintenance of an authority record are found in Chapter 11.
 
 ## Sources of Information
 
-**8.1.2** Take the information from institutional policies and procedures.
+**8.2.2** Take the information from institutional policies and procedures.
 
 ## General Rules
 
 ### Sources Used
 
-**8.1.3** Record relevant information about sources consulted in establishing or revising the description.
+**8.2.3** Record relevant information about sources consulted in establishing or revising the description.
 
 <p class="dacs-example"><em>Dictionary of North Carolina Biography</em> (vol. 4, 1991) consulted during preparation of biographical note.</p>
 
 ### Rules or Conventions
 
-**8.1.4** Record the international, national, or local rules or conventions followed in preparing the description.
+**8.2.4** Record the international, national, or local rules or conventions followed in preparing the description.
 
 <p class="dacs-example">Description based on DACS</p>
 
@@ -32,7 +32,7 @@ The purpose of this element is to document the creation and revision of archival
 
 ### Archivist and Date
 
-**8.1.5** Record the name(s) of the person(s) who created or revised the description, as well as the creation or revision date.
+**8.2.5** Record the name(s) of the person(s) who created or revised the description, as well as the creation or revision date.
 
 <p class="dacs-example">Created 6 May 1985</p>
 
