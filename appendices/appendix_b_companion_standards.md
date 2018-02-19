@@ -94,7 +94,7 @@ _Library of Congress Authorities_. Library of Congress. http://authorities.loc.g
 *   LC Name Authority File
 *   LC Title Authority File
 
-Library of Congress Linked Data Service: Authorities and Vocabularies. Library of Congress. http://id.loc.gov/. This resource covers the following authorities:
+_Library of Congress Linked Data Service: Authorities and Vocabularies_. Library of Congress. http://id.loc.gov/. This resource covers the following authorities:
 
 *   LC Subject Headings
 *   LC Name Authority File
