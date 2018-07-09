@@ -12,7 +12,7 @@ Porter, Vicki, and Robin Thornes. _A Guide to the Description of Architectural D
 
 ### Cartographic Materials
 
-_Descriptive Cataloging of Rare Materials (Graphics)_. Association of College and Research Libraries, Rare Books and Manuscripts Section. http://rbms.info/dcrm/dcrmc/.
+_Descriptive Cataloging of Rare Materials (Cartographic)_. Association of College and Research Libraries, Rare Books and Manuscripts Section. http://rbms.info/dcrm/dcrmc/.
 
 ### Datasets
 
@@ -56,7 +56,7 @@ _RDA: Resource Description and Access_. RDA Steering Committee. http://rda-rsc.o
 
 _Descriptive Cataloging of Rare Materials (Books)_. Association of College and Research Libraries, Rare Books and Manuscripts Section. http://rbms.info/dcrm/dcrmb/.
 
-### Serials
+### Rare Serials
 
 _Descriptive Cataloging of Rare Materials (Serials)_. Association of College and Research Libraries, Rare Books and Manuscripts Section. http://rbms.info/dcrm/dcrms/.
 
