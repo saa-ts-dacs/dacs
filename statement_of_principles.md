@@ -1,83 +1,174 @@
 # Statement of Principles
 
-The following statement of principles forms the basis for the rules in this standard. It is a recapitulation of generally accepted archival principles as derived from theoretical works and a variety of other sources. These include earlier statements about description and descriptive standards found in the reports of working groups commissioned to investigate aspects of archival description,<sup>1</sup> national rules for description,<sup>2</sup> and statements of the ICA Committee on Descriptive Standards.<sup>3</sup> In recognizing the disparate nature of archival holdings, the statement is also grounded in accepted professional practice in the United States.
+## Introduction
 
-Holdings of archival repositories represent every possible type of material acquired from a wide variety of sources. How archives manage and describe their holdings is rooted in the nature of the materials, the context of their creation, and two hundred years of archival theory. Archival descriptive practices have increasingly been applied to all of the materials held by archives, regardless of their provenance or method of acquisition. These principles examine the nature of archival materials and their context and reflect how those aspects are made apparent in description.
+### What is archival description and what should it do? 
 
-## The Nature of Archival Holdings
+Archival description exists to facilitate the use of archives by people in order to understand the past through traces in records. Its efficacy can be measured by how well it achieves that goal. *Describing Archives: A Content Standard* provides a set of principles for archivists to consider when conducting the work of a descriptive program, and a set of elements (and rules for creating these elements) for archivists to use when creating archival description. 
 
-Archival collections are the natural result of the activities of individuals and organizations and serve as the recorded memory thereof. This distinctive relationship between records and the activities that generated them differentiates archives from other documentary resources.
+Archival description enables archivists to distill masses of information about records into a small set of characteristics describing aggregations of records. Archivists do this work because it would often be impractical to fully represent the entirety of each record in a repository and because it would be difficult for a user to make sense of masses of records without a guide to what they *are*, what they *mean* and the historical *process* by which they were created and maintained.<sup>[1](#myfootnote1)</sup> For this distillation to be intelligible, archivists must understand the evidence of people, places, ideas and activities provided by records so that they can adequately represent the records to users and communicate their nature, value, and significance. Good archival description cannot just depict the physical and intellectual characteristics of documents. It must communicate how the accumulation of documents in a collection represents and provides evidence of the major functions of an organization or individual. This contextual description is key to meaning-making and gives users the tools necessary to effectively evaluate the value of records as evidence and information.
 
-**Principle 1:** **Records in archives possess unique characteristics.**
+Archivists describe information about the lifecycle and administration of records that may not be present in the records themselves. Information about appraisal, custodial history, administrative interventions, restrictions, reformatting, or any other activity that has the power to change users’ understanding of records’ content or context should be faithfully documented and presented to the user. Without this information, the user may not be able to make a reliable determination about the historical events, ideas, places and people that records document. Descriptive work should document a program of archival administration that maintains the authenticity, integrity, and reliability of records.
 
-Archival materials have traditionally been understood to consist of the documents organically created, accumulated, and/or used by a person or organization in the course of the conduct of affairs and preserved because of their continuing value. They most often consist of aggregations of documents (largely unpublished) and are managed as such, though archival institutions frequently hold discrete items that must also be treated consistently within the institution's descriptive system. In the course of their regular activities, individuals, archival repositories, and other institutions may also consciously acquire and assemble records that do not share a common provenance or origin but that reflect some common characteristic, such as a particular subject, theme, or form. Such collections are part of the holdings in most institutions and must be described in a way that is consistent with the rest of the holdings. All of these materials may be described using this standard.
+### User-centered archival description
 
-**Principle 2: The principle of _respect des fonds_ is the basis of archival arrangement and description.**
+Because it facilitates use, archival description is a user-centered product and process. This approach to archival description helps archivists remain connected to communities of users throughout the entire lifecycle of archives administration, dynamically and iteratively adjusting to new understanding of users and their needs. 
 
-The records created, assembled, accumulated, and/or maintained and used by an organization or individual must be kept together (i.e., identified as belonging to the same aggregation) in their original order, if such order exists or has been maintained. They ought not to be mixed or combined with the records of another individual or corporate body. This dictum is the natural and logical consequence of the organic nature of archival materials.<sup>4</sup> Inherent in the overarching principle of _respect des fonds_ are two sub-principles—provenance and original order. The principle of provenance means that the records that were created, assembled, accumulated, and/or maintained by an organization or individual must be represented together, distinguishable from the records of any other organization or individual. The principle of original order means that the order of the records that was established by the creator should be maintained by physical and/or intellectual means whenever possible to preserve existing relationships between the documents and the evidential value inherent in their order. Together, these principles form the basis of archival arrangement and description.
+Uses for and users of records should be considered comprehensively, and will vary from repository to repository. Users include not only those outside the repository, but the repository’s own staff. It is imperative that repositories identify, engage and seek to understand the motivations and needs of *their* users, which may include but are not limited to scholarly production, collection care and control, institutional knowledge, connection to family ties, artistic endeavors, government accountability, justice-seeking endeavors, and symbolic purposes of holding records.
 
-In the context of this standard, the principle of provenance requires further elaboration. The statement that the records of one creator must be represented together does not mean that it is necessary (or even possible) to keep the records of one creator physically together. It does, however, mean that the provenance of the records must be clearly reflected in the description, that the description must enable retrieval by provenance, and that a descriptive system must be capable of representing together all the records of a single creator held by a single repository.
+### Identifying aggregations of records
 
-## The Relationship Between Arrangement and Description
+When describing archives, archivists provide a sensemaking function -- they help the user understand, at deepening levels of granularity, what these records are, who created them, what events they represent, and what they mean. 
 
-If the archival functions of arrangement and description are based on the principle of _respect des fonds_, what is the relationship between arrangement and description? While the two are intimately intertwined, it is possible to distinguish between them in the following way. _Arrangement_ is the intellectual and/or physical processes of organizing documents in accordance with accepted archival principles, as well as the results of these processes. _Description_ is the creation of an accurate representation of the archival material by the process of capturing, collating, analyzing, and organizing information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these processes.
+In order to do this, they must first identify aggregations of records. This is a core added value of archival labor -- the ability to explain masses of information to users in a manner that is both insightful and succinct.<sup>[2](#myfootnote2)</sup> It is also a site of archives power, where the archivist has the opportunity to declare what is important and what is not.<sup>[3](#myfootnote3)</sup>
 
-**Principle 3:** **Arrangement involves the identification of groupings within the material.**
+Archival theory and tradition privileges description of the relationship between creators of records and the traces they leave behind as a result of events and activities in their lives. Records are often produced and kept according to these qualities, and where common aggregations are discovered, it is useful to maintain them. It is less useful for an archivist to aggregate resources by their common subject, particularly because doing so often results in the loss of information about how and by whom records were created.
 
-Arrangement is the process of identifying the logical groupings of materials within the whole as they were established by the creator, of constructing a new organization when the original ordering has been lost, or of establishing an order when one never existed. The archivist then identifies further sub-groupings within each unit down to the level of granularity that is feasible or desirable, even to the individual item. This process creates hierarchical groupings of material, with each step in the hierarchy described as a level. By custom, archivists have assigned names to some, but not all, levels of arrangement. The most commonly identified are collection, record group, series, file (or filing unit), and item. A large or complex body of material may have many more levels. The archivist must determine for practical reasons which groupings will be treated as a unit for purposes of description. These may be defined as the entire corpus of material of the creator (papers, records, or collection), a convenient administrative grouping (record and manuscript groups), or a reflection of administrative record-keeping systems (series and filing units).
+### Provenance
 
-**Principle 4:** **Description reflects arrangement.**
+To achieve the goal of faithfully documenting and maintaining information about how individuals and groups created and maintained records, archival practice has relied on the guidance of *respect des fonds* for more than 150 years.<sup>[4](#myfootnote4)</sup> Keeping the records of a given creator separate from other records (physically, intellectually, and in descriptive systems) has been an excellent mechanism to ensure that contexts of creation and maintenance are maintained. 
 
-Archival repositories must be able to describe holdings ranging from thousands of linear feet to a single item. The amount of description and level of detail will depend on the importance of the material, management needs and resources of the repository, and access requirements of the users. That being the case, an archival description may consist of a multilevel structure that begins with a description of the whole and proceeds through increasingly more detailed descriptions of the parts, or it may consist only of a description of the whole. Within a given body of material, the repository may choose to describe some parts at a greater level of detail than others. A single item may be described in minute detail, whether or not it is part of a larger body of material.
+However, the application of *respect des fonds* can often flatten existing complexity by obscuring the ways in which human inter-connections, disruptions, false starts and confusing circumstances produced records in the first place. Users benefit from understanding the ways that records are created, collected, and distributed by multiple agents, beyond the bare details of their shared provenance.
 
-## The Nature of Archival Description
+All records within a fonds rarely come from the same creator, even if they are from the same collector and share provenance. In modern organizations, while it is undoubtedly useful to document the person or organization who brought together the group of records given to a repository, it would be even more useful to document the web of activities by which records are collected and created, and by whom, from within and outside of the organization and how structures of power and control brought records into existence. Because information systems have the power to document relationships and contexts between and across records and creators, *respect des fonds* should be considered one articulation of a method for documenting archival content and context, rather than a principle of archival description. One could imagine technical mechanisms by which this web of contexts, records and creators could be represented in the entirety of its complexity, beyond the directive toward administrative separation that *respect des fonds* demands. 
 
-Archival holdings are varied in their nature and provenance, and archival description reflects this fact. If archival materials are to be described consistently within an institutional, regional, or national descriptive system, the rules must apply to a variety of forms and media created by, and acquired from, a variety of sources.
+This should not be taken as permission for archivists to create their own physical or intellectual order by subject, genre, form, or other facet -- doing so often destroys context. Instead, archivists should embrace the best information technologies available to them to document and represent records over time as they are understood to the archivist. 
 
-**Principle 5:** **The rules of description apply to all archival materials, regardless of form or medium.**
+### Original order and arrangement as archival context
 
-It is acknowledged that archival materials come in a variety of forms and media, and rules for archival description must therefore accommodate all forms and media (and the relationships between them). Inherent in the principle of provenance—that the records created, assembled, accumulated, and/or maintained and used by an organization or individual must be kept together—is the assumption that no records are excluded from the description because of their particular form or medium. Different media of course require different rules to describe their particular characteristics; for example, sound recordings may require some indication of playing speed and photographs may require some indication of polarity and color.
+The concept of original order has long been privileged in archival description as representing a state of arrangement with special significance in revealing the context underlying the creation of records. The principle of respect for original order derives from this interpretation. Recent theory and practice have shown this to be much more complex.<sup>[5](#myfootnote5)</sup> For instance, there are many arrangements by which a creator may have maintained and used records over time. The order in which records are received by a repository may not match the order in which they were last used or maintained by their creator(s), further complicating the very concept of “originality” and the narrative of authenticity it supports. Similarly, electronic records complicate the idea of a fixed, canonical order because they are commonly moved and maintained in a file system over the course of their life cycles.<sup>[6](#myfootnote6)</sup>
 
-**Principle 6: The principles of archival description apply equally to records created by corporate bodies, individuals, or families.**
+Rather than a privileged physical sequence of records, original order is best thought of as an intellectual construct that communicates important activities and relationships inhering in records through identifying key groupings that reflect the main activities and functions of the record creators.<sup>[7](#myfootnote7)</sup>
 
-The documents that are the product of the functions and activities of organizations may differ in extent, arrangement, subject matter, and so on, from those that result from the activities of individuals or families. While there may be valid reasons to distinguish between them in the workflow of a repository, the principles of archival arrangement and description should be applied equally to materials created by individuals, families, or organizations.
+The principle of original order advises archivists to determine and preserve those groupings, and then to describe records, agents, activities, and the relationships between them in a way that illuminates how creators kept their records and how they were sent to the archives. They should never disrupt or obscure evidence of recordkeeping practices through their own interventions; for instance, it is inadvisable to alter the received order of collection material without a compelling, user-driven need to do so. 
 
-**Principle 7: Archival descriptions may be presented at varying levels of detail to produce a variety of outputs.**
+By not elevating original order to the place of descriptive principle, DACS acknowledges that arrangement consists of a multitude of intellectual and physical relationships over time, and that arrangement itself is but one among many instances of archival context(s) to be documented.
 
-The nature and origins of a body of archival materials may be summarized in their entirety in a single collective description. However, the extent and complexity of archival materials may require a more detailed description of their various components as well. The resulting technique of multilevel description is "the preparation of descriptions that are related to one another in a part-to-whole relationship and that need complete identification of both parts and the comprehensive whole in multiple descriptive records."<sup>5</sup> This requires some elucidation regarding the order in which such information is presented and the relationships between description(s) of the parts and the description of the whole.<sup>6</sup>
+## Principles of Archival Description
 
-**Principle 7.1:** **Levels of description correspond to levels of arrangement.**
+### 1. Archival description expresses professional ethics and values.
 
-The levels of arrangement determine the levels of description. However, because not all levels of arrangement are required or possible in all cases, it follows that not all levels of description are required. It is understood that description is an iterative and dynamic process; that is, descriptive information is recorded, reused, and enhanced at many stages in the management of archival holdings. For example, basic information is recorded when incoming material is accessioned, well before the material is arranged. Furthermore, arrangement can change, particularly when a repository receives regular accruals of records from an ongoing organization. In that situation, the arrangement will not be complete until the organization ceases to exist. Thus, it is more appropriate to say that description reflects the current state of arrangement (whatever that may be) and can (and does) change as a result of further arrangement activities.<sup>7</sup>
+Professional values and ethics drive archival work, including descriptive practice.<sup>[8](#myfootnote8)</sup> Archival description is an iterative, ethical practice that requires continual engagement with core values. Rooting standards in values helps archivists enact these values consistently and makes them explicit to our user communities. 
 
-**Principle 7.2:** **Relationships between levels of description must be clearly indicated.**
+Archival description that is rooted in ethics will produce a richer researcher experience because it: 
+ - produces trust in and between users, archivists, and repositories
+ - encourages a diverse archival record
+ - promotes responsible and responsive descriptive practices
+ - holds archivists accountable to users and to each other
+ - privileges equitable access and accessibility 
 
-While the actual work of arrangement and description can proceed in any order that makes sense to the archivist, a descriptive system must be able to represent and maintain the relationships among the various parts of the hierarchy. Depending on the point at which the descriptive system is entered, an end user must be able to navigate to higher or lower levels of description.
+### 2. Users are the fundamental reason for archival description. 
 
-**Principle 7.3:** **Information provided at each level of description must be appropriate to that level.**
+Archivists make descriptive choices that impact how users find, identify, select, and use archival records. To make wise choices about descriptive practices, archivists must develop and maintain an awareness of user needs and behaviors.
 
-When a multilevel description is created, the information provided at each level of description must be relevant to the material being described at that level. This means that it is inappropriate to provide detailed information about the contents of files in a description of a higher level. Similarly, archivists should provide administrative or biographical information appropriate to the materials being described at a given level (e.g., a series). This principle also implies that it is undesirable to repeat information recorded at higher levels of description. Information that is common to the component parts should be provided at the highest appropriate level.
+### 3. Because archival description privileges intellectual content in context, descriptive rules apply equally to all records, regardless of format or carrier type. 
 
-## The Creators of Archival Material
+Descriptive standards must recognize that not all cultures and communities document in the same ways, and our descriptive standards must be flexible enough to accommodate all the ways that human experience is recorded.
 
-An important aspect of understanding archival materials is the description of the context in which they were created.
+Archivists must adapt and respond to changing recordkeeping practices and technologies. Applying a common set of descriptive rules allows archivists to create consistent descriptions. It encourages confidence in professional judgment and gives archivists the flexibility to apply standards judiciously and thoughtfully.
 
-**Principle 8:** **The creators of archival materials, as well as the materials themselves, must be described.**
+Consistent description across formats: 
+ - supports universal description and access 
+ - lowers cognitive load for users
+ - maintains records’ contexts as well as intellectual content 
 
-Because the principle of provenance is fundamental to the arrangement and description of archival materials, it follows that the provenance, or the creator(s), of archival materials must be described as well. Except in cases in which the creator or collector is truly unknown, this means that the creator or collector of the materials must be identified and included in (or linked to) the description of the materials. In addition, the functions or activities of the creator(s) that produced the archival materials must be described. Finally, standardized access points must be provided that indicate not just the primary creator but also the relationships between successive creators, for example, the parts of a corporate body that has undergone reorganization(s). DACS includes rules for providing all of this information in a consistent way. The repository as collector does not need to be described.
+### 4. Records, agents, activities, and the relationships between them are the four fundamental concepts that constitute archival description.
 
-* * *
+Meaning in archival records is revealed through their contexts as much as through their contents. Archivists expose contextual significance by describing records, agents, activities, and the relationships between them. 
 
-[1] Working Group on Standards for Archival Description, "Archival Description Standards: Establishing a Process for their Development and Implementation," _American Archivist_ 52, no. 4 (Fall 1989):440–443 (source hereinafter cited as the WGSAD Report); _Toward Descriptive Standards: Report and Recommendations of the Canadian Working Group on Archival Descriptive Standards_ (Ottawa: Bureau of Canadian Archivists, 1985), 6–9, 55–59, 63–64; Wendy M. Duff and Kent M. Haworth, "Advancing Archival Description: A Model for Rationalizing North American Descriptive Standards," _Archives and Manuscripts_ 25, no. 2 (1997):198–199, 203–204 (source hereinafter cited as the Bentley Report).
+ - **Records must be described in aggregate and may be described in parts.**
+ 
+The whole gives meaning and coherence to the parts. Description of the aggregate is therefore an indispensable component of establishing context and must be provided before proceeding with the description of component parts.
 
-[2] _Rules for Archival Description_ (Ottawa: Bureau of Canadian Archivists, 1990), xi–xvi, rules 0.1, 0.2, 0.22, 1.0A1, 1.0A2 (source hereinafter cited as _RAD_); Hensen, _Archives, Personal Papers, and Manuscripts_, rules 0.3, 0.9, 0.10, 0.12, 1.0A (source hereinafter cited as _APPM_).
+ - **Record creators and other agents must be described sufficiently to understand the meaning of records.**
 
-[3] International Council on Archives "Statement of Principles," _Archivaria_ 34 (1992): 8–16; ICA Committee on Descriptive Standards, _ISAD(G): General International Standard Archival Description_, 2nd ed. (Ottawa: International Council on Archives, 1999), 7–12 (source hereinafter cited as _ISAD[G]_).
+Agents act on records or interact with other agents across time. Agents may be human or machine. 
 
-[4] S. Muller, J. A. Feith, and R. Fruin, _Manual for the Arrangement and Description of Archives,_ translation of 2nd edition (Chicago: Society of American Archivists, 2002), 19. "An archival collection is an organic whole."
+A category of agents, those responsible for the creation, compilation, and maintenance of the records is particularly important and must be described. Describing these agents requires archivists to document agents’ roles, functions, occupations, and activities.
 
-[5] _RAD_, p. D-5.
+Archivists must be transparent about the sources of their description and recognize that agents have the right to define their identities, which may change over time.
 
-[6] The rules for multilevel description are found in _RAD_, rule 1.0A2, and in _ISAD(G),_ p. 12.
+ - **Activities that are essential to understanding records must be described.**
 
-[7] _ISAD(G)_, Statement I-3, p. 7.
+Activities, whether biographical, historical, or administrative, provide important contextual information. Describing biographical and historical activities adds information that may be absent from the records themselves. Describing administrative activities helps users understand how the records were affected over time by the actions of various agents following their creation. 
+
+ - **The relationships among records, agents, and activities are essential to understanding archives and must be described.**
+ 
+Relationships, which connect agents, records, and activities, convey meaning that may not be apparent from the contents of records alone. Relationships may be simple or may comprise a complex network of interactions among multiple records, agents, and activities.
+
+### 5. Archival description must be clear about what archivists know, what they don’t know, and how they know it.
+
+Archivists must always provide honest description that mitigates human bias and limitations through open reference to their sources of knowledge. Citation in archival description builds a culture of accountability and trust. 
+
+Honest description:
+ - acknowledges archivists’ expertise in records, recordkeeping systems and documentary forms
+ - delineates the limitations of archivists’ knowledge and authority
+ - acknowledges that archivists are people, and people are biased
+
+### 6. Archivists must document and make discoverable the actions they take on records.
+
+Archivists and archival repositories are agents whose actions affect records and the ways that all users can access and interact with those records. 
+
+Archivists have an obligation based in professional values of accountability and responsible custody to thoroughly and transparently describe their own interventions in the course of their work. These interventions may potentially affect users’ understandings of records and are an essential part of archival description. 
+
+### 7. Archival description is accessible.
+
+Users of archives encounter barriers to accessing archival description. Typical barriers may be physical, technological, linguistic or geographic. Archivists must limit or remove these barriers to finding and interacting with description.
+
+Accessible archival description engages creators and communities being documented to reflect their complexity, nuance, and fluidity. Archivists must be respectful of the knowledge they hold in trust and the norms of the communities from which they collect, particularly when collecting from communities that have been historically marginalized. 
+
+Accessible and respectful description builds trust between archives, users of archives, and those being documented.
+
+### 8. Archival description should be easy to use, re-use, and share.
+
+Archival description is a form of data, consisting of discrete data elements that can be expressed in a variety of useful outputs.
+
+Users are best able to use, re-use and share archival description when:
+ - it is discoverable
+ - it is structured
+ - it is machine-readable
+ - it is machine-actionable
+ - it is available under an open license
+
+Archivists must understand the ways that their data can be consumed by a broad range of users, including people and machines.
+
+### 9. Each collection within a repository must have an archival description.
+
+The absence of archival description is a barrier to users and good stewardship. In order to access archival collections, users must know which collections a repository holds. No matter how basic a description may be, it is more advantageous to users than no description at all. 
+
+Creating these archival descriptions helps archivists meet stewardship needs. This results in:
+ - access to a better, broader sense of the scope of our holdings
+ - the ability for archivists to gather information about how collections are used
+ - guidance for future appraisal and acquisition choices
+
+Archival repositories must deploy their resources in a way that permits them to describe all of their collections as part of their normal business operations.
+
+### 10. Archivists must have a user-driven reason to enhance existing archival description. 
+
+When deciding how comprehensively to describe a collection, the goal should be to maximize the availability of all collection materials to users.
+
+Once all collections in a repository have been described at a minimum level,<sup>[9](#myfootnote9)</sup> archivists may choose to add more description. This choice must be based on demonstrated user needs or the mission of the repository. 
+
+### 11.  Archival description is a continuous intellectual endeavor. 
+
+Description must be iterative. It continually reflects deeper understandings of agents, records, activities, and the relationships between them. It is responsive to users. It is flexible, reflecting changes in knowledge, practice, and values.
+
+***
+
+<a name="myfootnote1">[1]</a>: For a literary example of the nature of representation and modelling see Jorge Luis Borges, “On Exactitude in Science,” in *Collected Fictions*, trans. Andrew Hurley (Penguin, 2000).
+
+<a name="myfootnote2">[2]</a>: As Jennifer Meehan notes, this kind of sensemaking is only as good as the archivist’s judgment, and is itself an act of research and use. Jennifer Meehan, “Making the Leap from Parts to Whole: Evidence and Inference in Archival Arrangement and Description,” *The American Archivist* 72, no. 1 (April 1, 2009): 72–90, https://doi.org/10.17723/aarc.72.1.kj672v4907m11x66.
+
+<a name="myfootnote3">[3]</a>: As the anthropologist Michel-Rolph Trouillot noted, we all make meaning of historical events through our observation of them and the power and background we bring to our work. We must acknowledge our power and biases as archivists and never pretend to be impartial stenographers of records. Michel-Rolph Trouillot, *Silencing the Past: Power and the Production of History* (Beacon Press, 1995). Rand Jimerson makes a similar (and domain-specific) argument in *Archives Power*. Randall C. Jimerson, *Archives Power: Memory, Accountability, and Social Justice* (Society of American Archivists Chicago, 2009).
+
+<a name="myfootnote4">[4]</a>: Nancy Bartlett, “Respect Des Fonds: The Origins of the Modern Archival Principle of Provenance,” *Primary Sources & Original Works* 1, no. 1–2 (1992): 107–115.
+
+<a name="myfootnote5">[5]</a>: Terry Cook, “What is Past is Prologue: A History of Archival Ideas Since 1898, and the Future Paradigm Shift,” *Archivaria* 43 (Spring 1997), 17-63.
+
+<a name="myfootnote6">[6]</a>: Jefferson Bailey, “Disrespect des Fonds: Rethinking Arrangement and Description in Born-Digital Archives,” *Archive Journal* (June 2013), http://www.archivejournal.net/essays/disrespect-des-fonds-rethinking-arrangement-and-description-in-born-digital-archives/.
+
+<a name="myfootnote7">[7]</a>: Jennifer Meehan, “Rethinking Original Order and Personal Records,” *Archivaria* 70 (Fall 2010), 27. As Terry Eastwood insists, “archival arrangement is essentially a process of identifying relationships, not a process of physically ordering and storing documents” Terry Eastwood, “Putting the Parts of the Whole Together: Systematic Arrangement of Archives,” *Archivaria* 50 (Fall 2000): 93–94.
+
+<a name="myfootnote8">[8]</a>: In the United States context, archivists are guided by the Society of American Archivists’ [Core Values Statement and Code of Ethics](https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics). Archivists are also encouraged to consult and follow affiliated ethics and principles statements, including the [Protocols for Native American Archival Materials](https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page), the International Council on Archives’ [Principles for Access to Archives](https://www.ica.org/sites/default/files/ICA_Access-principles_EN.pdf) and [Code of Ethics](https://www.ica.org/en/ica-code-ethics).
+
+<a name="myfootnote9">[9]</a>: Chapter 1 of DACS, *Levels of Description*, provides guidance on which elements must be included for description to meet minimum requirements.
