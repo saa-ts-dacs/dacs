@@ -48,7 +48,7 @@ By not elevating original order to the place of descriptive principle, DACS ackn
 
 ### 1. Archival description expresses professional ethics and values.
 
-Professional values and ethics drive archival work, including descriptive practice.<sup>[8](#myfootnote8)</sup> Archival description is an iterative, ethical practice that requires continual engagement with core values. Rooting standards in values helps archivists enact these values consistently and makes them explicit to our user communities. 
+   Professional values and ethics drive archival work, including descriptive practice.<sup>[8](#myfootnote8)</sup> Archival description is an iterative, ethical practice that requires continual engagement with core values. Rooting standards in values helps archivists enact these values consistently and makes them explicit to our user communities. 
 
 Archival description that is rooted in ethics will produce a richer researcher experience because it: 
  - produces trust in and between users, archivists, and repositories
