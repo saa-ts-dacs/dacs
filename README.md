@@ -46,7 +46,7 @@ TS-DACS will also monitor changes to companion standards and evaluate whether DA
 
   5. TS-DACS notifies community of the revision through listservs.
 
-###Using Github to track revisions
+### Using Github to track revisions
 TS-DACS began using Github in March 2016 to manage and document the revision process. Revisions are tracked in Github with the following procedure:
 
   1. Create Github pull request with the proposed revision, including the justification and impact statements.
@@ -57,7 +57,7 @@ TS-DACS began using Github in March 2016 to manage and document the revision pro
 
   4. Generate HTML of the revised DACS for SAA’s website.
 
-###Getting started with Github
+### Getting started with Github
 There are multiple ways you can interact with Github to propose a revision, including using their [desktop application](https://guides.github.com/activities/forking/) or [the command line](http://kbroman.org/github_tutorial/pages/fork.html). The instructions below show you how to do it staying in [the web interface](https://help.github.com/articles/github-flow-in-the-browser/).
 
  1. Create a [Github account](https://github.com/join).
