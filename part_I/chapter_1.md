@@ -38,6 +38,7 @@ A single-level description with the minimum number of DACS elements includes:
 *   Scope and Content Element (3.1)
 *   Conditions Governing Access Element (4.1)
 *   Languages and Scripts of the Material Element (4.5)
+*   Rights Statements for Archival Description (8.2)
 
 ### Single-level Optimum
 
