@@ -1,17 +1,17 @@
-13.10 Rights Statement for Archival Authority Records (Single-Level Optimum)
+# 13.10 Rights Statement for Archival Authority Records (Single-Level Optimum)
 
-Purpose and Scope
+## Purpose and Scope
 This element identifies the conditions under which archival authority records are available for use and reuse.  Repositories should establish a consistent policy about the rights granted.
 
 If a formal license is used, this element should include both the source of the license and the institutional policies governing the type of license chosen.  Repositories should establish a consistent policy regarding the type of license chosen and its format.
 
 If an institution wishes to claim rights on archival authority records outside of a specific license, the repository should create explicit and consistent rights statements.
 
-Sources of Information
+## Sources of Information
 **13.10.1**
 Take the information from institutional policies and if applicable, the rules governing the licensing source.
 
-General Rules
+## General Rules
 Except where otherwise noted, record the necessary information documented by the selected license.
 
 <p class="dacs-example">100 Adams, Lillian, 1914-1934 $a Person.
