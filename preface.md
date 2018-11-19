@@ -32,7 +32,7 @@ The review of the ICA descriptive standards and the development and adoption of 
 
 #### Other Companion Standards
 
-Archivists should look to DACS for guidance about how to describe the qualities of archives as records -- their creation, provenance, maintenance and relationship to other records and creators. Archivists should consult companion standards for guidance on creating authorized forms of names and portraying the particular artifactual characteristics of specialized materials (like music, archived websites, or any example of the vast variety of other materials that may be found in an archive’s holdings).<sup>[9](#myfootnote9)</sup>
+Archivists should look to DACS for guidance about how to describe the qualities of archives as records -- their creation, provenance, maintenance, and relationship to other records and creators. Archivists should consult companion standards for guidance on creating authorized forms of names and portraying the particular artifactual characteristics of specialized materials (like music, archived websites, or any example of the vast variety of other materials that may be found in an archive’s holdings).<sup>[9](#myfootnote9)</sup>
 
 ## Implementation Neutrality
 
