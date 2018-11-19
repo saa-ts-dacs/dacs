@@ -16,12 +16,6 @@ The subcommittee continues to monitor the development of other descriptive stand
 
 As a content standard, DACS is part of an ecosystem of interrelated and, in some cases, interdependent standards which support the process of archival description. Sometimes referred to as “companion standards,” these include structure standards, other content standards, and communication standards.
 
-### Records in Contexts (RiC)
-
-Following the draft release of its conceptual model in 2016, DACS and Records in Contexts (RiC) are now entering a period of coevolution. DACS provides supplemental and interpretive rules aimed at assembling the descriptive record from the data elements defined by RiC. These include the prescriptive aggregation of individual data elements (relating to the records and their creators both directly or indirectly) into fully descriptive records; specifying types of element aggregations to construct levels and modes of description; and rules on supplying accurate and consistent values including the use of external value standards such as controlled vocabularies and identities.
-
-Much of the 2018 revision of the Statement of Principles on Archival Description attempts to bring DACS in closer alignment with RiC. Of particular importance is the structuring of Principle 4, which outlines three entities that must be described: records, agents, and activities, as well as the relationships between them. This structure allows archivists to create more complex and networked representation of records, including both their content and context(s). As opposed to archival description represented as hierarchy, this network of linked entities and the relationships between them will allow for deeper understanding and discovery of records and their creators.
-
 ### Relationship to Other Descriptive Standards
 
 #### ISAD(G) and ISAAR(CPF)
@@ -29,6 +23,12 @@ Much of the 2018 revision of the Statement of Principles on Archival Description
 DACS relies on two international content standards for archival description: *International Standard Archival Description-General (ISAD(G))*<sup>[6](#myfootnote6)</sup> and the *International Standard Archival Authority Record for Corporate Bodies, Persons, and Families (ISAAR(CPF))*.<sup>[7](#myfootnote7)</sup> All of the data elements of ISAD(G) and ISAAR(CPF) are incorporated into DACS—in some cases, virtually verbatim. Part I of DACS was initially developed to mirror the components of ISAD(G) and Part II was designed to mirror ISAAR(CPF). This structure and concordance is maintained in the revised version of DACS.
 
 The review of the ICA descriptive standards and the development and adoption of the Encoded Archival Context encoding standard by the Society of American Archivists led TS-DACS to heavily revise Part II of DACS in 2013. Part II of DACS contains rules for the creation of archival authority records and is broken into six chapters to align with ISAAR(CPF).<sup>[8](#myfootnote8)</sup>
+
+#### Records in Contexts (RiC)
+
+Following the draft release of its conceptual model in 2016, DACS and Records in Contexts (RiC) are now entering a period of coevolution. DACS provides supplemental and interpretive rules aimed at assembling the descriptive record from the data elements defined by RiC. These include the prescriptive aggregation of individual data elements (relating to the records and their creators both directly or indirectly) into fully descriptive records; specifying types of element aggregations to construct levels and modes of description; and rules on supplying accurate and consistent values including the use of external value standards such as controlled vocabularies and identities.
+
+Much of the 2018 revision of the Statement of Principles on Archival Description attempts to bring DACS in closer alignment with RiC. Of particular importance is the structuring of Principle 4, which outlines three entities that must be described: records, agents, and activities, as well as the relationships between them. This structure allows archivists to create more complex and networked representation of records, including both their content and context(s). As opposed to archival description represented as hierarchy, this network of linked entities and the relationships between them will allow for deeper understanding and discovery of records and their creators.
 
 #### Other Companion Standards
 
