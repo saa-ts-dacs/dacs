@@ -68,7 +68,7 @@ Descriptive standards must recognize that not all cultures and communities docum
 Archivists must adapt and respond to changing recordkeeping practices and technologies. Applying a common set of descriptive rules allows archivists to create consistent descriptions. It encourages confidence in professional judgment and gives archivists the flexibility to apply standards judiciously and thoughtfully.
 
 Consistent description across formats: 
- - supports universal description and access 
+ - supports broad description and access 
  - lowers cognitive load for users
  - maintains records’ contexts as well as intellectual content 
 
