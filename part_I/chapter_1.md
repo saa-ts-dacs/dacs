@@ -1,6 +1,6 @@
 # Chapter 1 Levels of Description
 
-Archival material can be described at many different levels (see Statement of Principles: Principle 3).
+Archival material can be described at many different levels.
 
 A finding aid may consist of only one level of description (single-level descriptions), or it may include many different levels of description (multilevel descriptions). A finding aid that consists of multiple levels of description may provide information at successively narrower levels of arrangement (such as subseries, files, and even items) for some series while confining information to a single level of hierarchy for others.<sup>1</sup>
 
