@@ -1,6 +1,6 @@
 # Introduction to Archival Authority Records
 
-The structure and content of archival materials cannot be completely understood without some knowledge of the context in which they were created. It is insufficient for the archivist simply to include the name of the creator in the title of the description of the materials. Additional information is required regarding the corporate bodies, persons, and families responsible for the creation, assembly, accumulation, and/or maintenance and use of the archival materials being described. Part II describes the information that is required to establish this context. It is the logical outcome of Principle 8 in the Statement of Principles: that the creators of archival materials, as well as the materials themselves, must be described.
+The structure and content of archival materials cannot be completely understood without some knowledge of the context in which they were created. It is insufficient for the archivist simply to include the name of the creator in the title of the description of the materials. Additional information is required regarding the corporate bodies, persons, and families responsible for the creation, assembly, accumulation, and/or maintenance and use of the archival materials being described. Part II describes the information that is required to establish this context. It is the logical outcome of Principle 4 in the Statement of Principles: that the creators of archival materials, as well as the materials themselves, must be described.
 
 **Definition of Terms**
 
