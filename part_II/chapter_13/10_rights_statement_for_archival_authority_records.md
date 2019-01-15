@@ -1,4 +1,4 @@
-# 13.10 Rights Statement for Archival Authority Records
+# 13.10 Rights Statement for Archival Authority Records (Single-Level Minimum Required)
 
 ## Purpose and Scope
 This element identifies the conditions under which archival authority records are available for use and reuse.  Repositories should establish a consistent policy about the rights granted.
