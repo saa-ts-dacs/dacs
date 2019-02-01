@@ -24,6 +24,10 @@ In order to do this, they must first identify aggregations of records. This is a
 
 Archival theory and tradition privileges description of the relationship between creators of records and the traces they leave behind as a result of events and activities in their lives. Records are often produced and kept according to these qualities, and where common aggregations are discovered, it is useful to maintain them. It is less useful for an archivist to aggregate resources by their common subject, particularly because doing so often results in the loss of information about how and by whom records were created.
 
+### Describing aggregations of records
+
+Once an archivist has identified a meaningful aggregation of records, they may avail themselves of any relevant elements within the DACS element set in order to describe characteristics particular and appropriate to that aggregation. As described in Chapter 1, in the section on *Requirements for Multilevel Descriptions*, descriptions of a particular aggregation may (implicitly or explicitly) inherit characteristics from the more general aggregation of which it is a part. Furthermore, each aggregation should include all DACS single-level minimum elements, either described explicitly at that aggregation or inherited from associated archival description.
+
 ### Provenance
 
 To achieve the goal of faithfully documenting and maintaining information about how individuals and groups created and maintained records, archival practice has relied on the guidance of *respect des fonds* for more than 150 years.<sup>[4](#myfootnote4)</sup> Keeping the records of a given creator separate from other records (physically, intellectually, and in descriptive systems) has been an excellent mechanism to ensure that contexts of creation and maintenance are maintained. 
@@ -78,7 +82,7 @@ Meaning in archival records is revealed through their contexts as much as throug
 
  - **Records must be described in aggregate and may be described in parts.**
  
-The whole gives meaning and coherence to the parts. Description of the aggregate is therefore an indispensable component of establishing context and must be provided before proceeding with the description of component parts.
+The whole gives meaning and coherence to the parts. Description of the aggregate is therefore an indispensable component of establishing context and must be provided before proceeding with the description of component parts. Archival description must be appropriate, relevant, and specific to a particular aggregation of records.
 
  - **Record creators and other agents must be described sufficiently to understand the meaning of records.**
 
