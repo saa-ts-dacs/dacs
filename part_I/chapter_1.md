@@ -2,7 +2,7 @@
 
 Archival material can be described at many different levels.
 
-A finding aid may consist of only one level of description (single-level descriptions), or it may include many different levels of description (multilevel descriptions). A finding aid that consists of multiple levels of description may provide information at successively narrower levels of arrangement (such as subseries, files, and even items) for some series while confining information to a single level of hierarchy for others.<sup>1</sup>
+A finding aid may consist of only one level of description (single-level descriptions), or it may include many different levels of description (multilevel descriptions). A finding aid that consists of multiple levels of description may provide information at successively narrower levels of arrangement (such as subseries, files, and even items) for some series while confining information to a single level of hierarchy for others.<sup>[1](#myfootnote1)</sup>
 
 DACS does not attempt to define the proper level of description for any set of archival materials. Archivists should follow the prescriptions of their institutions and apply their own judgment in making such determinations.
 
@@ -21,7 +21,7 @@ Following are examples of single-level descriptions:
 *   A preliminary accession record
 *   A MARC 21 record not linked to other MARC 21 records
 *   A database record in a repository's collections management database that describes archival materials only at a single level
-*   A METS (Metadata Encoding and Transmission Standard)<sup>2</sup> record for a description of archival materials
+*   A METS (Metadata Encoding and Transmission Standard)<sup>[2](#myfootnote2)</sup> record for a description of archival materials
 
 Single-level descriptions can describe archival materials at _any level_, from large accumulations commonly referred to by archivists as collections, record groups, fonds, or record series, to single items and any level in between. They can, however, only describe that material at one level.
 
@@ -50,7 +50,7 @@ A single-level description with the optimum number of DACS elements has all of t
 
 A single-level description using DACS elements to provide added value for researchers includes all of the elements in Single-level Optimum above, plus any other relevant elements the repository wishes to include.
 
-### Requirements for Multilevel Descriptions
+## Requirements for Multilevel Descriptions
 
 Following are examples of multilevel descriptions:
 
@@ -60,6 +60,10 @@ Following are examples of multilevel descriptions:
 *   A database record in a repository's collections management database that describes archival materials at more than one level
 
 Multilevel descriptions can describe archival materials beginning at any level (e.g., collection level, series level) and must include at least one sublevel. Typical multilevel descriptions begin with large accumulations commonly referred to by archivists as collections, record groups, fonds, or record series. ISAD(G) envisions a descriptive framework that recognizes four levels: fonds, series, file, and item; however, DACS elements can be used to describe materials arranged according to this or any other scheme of articulating levels of arrangement of archival materials.
+
+Within systems that communicate archival description to users, it is often the case that descriptive elements may be shared, inherited, or otherwise linked across and between entities. Traditionally, inheritance has been implicitly presented as hierarchy within the idiom of the print finding aid where frontmatter (collection-level descriptive notes, creator elements, conditions governing access and use, repository information, etc.) applies to archival descriptions on subsequent pages. However, in modern networked archival information systems (relational databases, linked data systems, etc.) linkages, relationships, and inheritances can be non-hierarchical. This makes it particularly important for outputs from these systems to clearly explain relationships so that a user understands which records, agents, or activities an archival description governs.
+
+When a multilevel description is created, the information provided at each descriptive aggregate must be relevant to the material being described within that group.<sup>[3](#myfootnote3)</sup> For instance, archivists should provide administrative and biographical information appropriate and specific to the records being described within that aggregation. Information that is common to component parts should be provided where most generally appropriate and should not be repeated within component parts unless doing so would provide clarity. 
 
 ### Multilevel Required
 
@@ -113,6 +117,8 @@ Each _subsequent_ level of that multilevel description should include:
 
 * * *
 
-[1] For more information, refer to International Council on Archives, _ISAD(G): General International Standard Archival Description,_ 2nd ed., adopted by the Committee on Descriptive Standards, Stockholm, Sweden, September 19–22, 1999, accessed February 19, 2013, [http://www.icacds.org.uk/eng/ISAD(G).pdf](http://www.icacds.org.uk/eng/ISAD(G).pdf).
+<a name="myfootnote1">[1]</a>: For more information, refer to International Council on Archives, _ISAD(G): General International Standard Archival Description,_ 2nd ed., adopted by the Committee on Descriptive Standards, Stockholm, Sweden, September 19–22, 1999, accessed February 19, 2013, [http://www.icacds.org.uk/eng/ISAD(G).pdf](http://www.icacds.org.uk/eng/ISAD(G).pdf).
 
-[2] The METS standard is an XML schema for encoding descriptive, administrative, and structural metadata for objects within a digital library. It is an initiative of the Digital Library Federation and is maintained by the Library of Congress. Information is available at http://www.loc.gov/standards/mets/.
+<a name="myfootnote2">[2]</a>: The METS standard is an XML schema for encoding descriptive, administrative, and structural metadata for objects within a digital library. It is an initiative of the Digital Library Federation and is maintained by the Library of Congress. Information is available at http://www.loc.gov/standards/mets/.
+
+<a name="myfootnote3">[3]</a>:  In the voluminous papers of a prominent family, there may be one letter from George Washington within a small cache of a distant cousin’s correspondence. It would be inaccurate and inappropriate to say that the collection is about George Washington, although an archivist may include this kind of description within the series or file that includes that letter. Similarly, if part of a collection has specific conditions governing access, it is useful to provide an overview of all access restriction types at the collection level but it is also important to provide specific conditions governing access at the more granular level where this information would be relevant.
