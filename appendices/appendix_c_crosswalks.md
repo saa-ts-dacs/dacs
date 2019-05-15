@@ -771,7 +771,7 @@
     <tr>
       <td>2.2 Name and Location of Repository</td>
       <td><code>&lt;repository&gt;</code></td>
-      <td><code>&lt;repository&gt;</code> or <code>&lt;relation&gr;</code></td>
+      <td><code>&lt;repository&gt;</code> or <code>&lt;relation&gt;</code></td>
       <td><code>852</code>, <code>524</code> (if the preferred citation indicates both the name and location of the repository)</td>
     </tr>
     <tr>
@@ -795,7 +795,7 @@
     <tr>
       <td>2.6 Name of Creator(s)</td>
       <td><code>&lt;origination&gt;</code></td>
-      <td><code>&lt;origination&gt;</code> or <code>&lt;relation&gr;</code> (if using &lt;relation&gt;, specify appropriate @arcrole, e.g. http://purl.org/dc/elements/1.1/creator)</td>
+      <td><code>&lt;origination&gt;</code> or <code>&lt;relation&gt;</code> (if using &lt;relation&gt;, specify appropriate @arcrole, e.g. http://purl.org/dc/elements/1.1/creator)</td>
       <td><code>100</code>, <code>110</code>, or <code>111</code>; <code>700</code>, <code>710</code>, or <code>711</code> for names in addition to that of the predominant creator</td>
     </tr>
     <tr>
@@ -855,7 +855,7 @@
     <tr>
       <td>4.6 Finding Aids</td>
       <td><code>&lt;otherfindaid&gt;</code></td>
-      <td><code>&lt;recordid&gt;</code> instanceurl attribute, <code>&lt;representation&gt;</code>, <code>&lt;otherfindaid&gt;</code>, or <code>&lt;relation&gr;</code></td>
+      <td><code>&lt;recordid&gt;</code> instanceurl attribute, <code>&lt;representation&gt;</code>, <code>&lt;otherfindaid&gt;</code>, or <code>&lt;relation&gt;</code></td>
       <td><code>555</code></td>
     </tr>
     <tr>
@@ -864,13 +864,13 @@
     <tr>
       <td>5.1 Custodial History</td>
       <td><code>&lt;custodhist&gt;</code></td>
-      <td><code>&lt;custodhist&gt; or <code>&lt;relation&gr;</code></code></td>
+      <td><code>&lt;custodhist&gt; or <code>&lt;relation&gt;</code></code></td>
       <td><code>561</code></td>
     </tr>
     <tr>
       <td>5.2 Immediate Source of Acquisition</td>
       <td><code>&lt;acqinfo&gt;</code></td>
-      <td><code>&lt;acqinfo&gt;</code> or <code>&lt;relation&gr;</code></td>
+      <td><code>&lt;acqinfo&gt;</code> or <code>&lt;relation&gt;</code></td>
       <td><code>541</code></td>
     </tr>
     <tr>
@@ -891,25 +891,25 @@
     <tr>
       <td>6.1 Existence and Location of Originals</td>
       <td><code>&lt;originalsloc&gt;</code></td>
-      <td><code>&lt;originalsloc&gt; or <code>&lt;relation&gr;</code></code></td>
+      <td><code>&lt;originalsloc&gt; or <code>&lt;relation&gt;</code></code></td>
       <td><code>535</code></td>
     </tr>
     <tr>
       <td>6.2 Existence and Location of Copies</td>
       <td><code>&lt;altformavail&gt;</code></td>
-      <td><code>&lt;altformavail&gt; or <code>&lt;relation&gr;</code></code></td>
+      <td><code>&lt;altformavail&gt; or <code>&lt;relation&gt;</code></code></td>
       <td><code>530</code>, <code>533</code></td>
     </tr>
     <tr>
       <td>6.3 Related Archival Materials</td>
       <td><code>&lt;relatedmaterial&gt;</code> or <code>&lt;separatedmaterial&gt;</code></td>
-      <td><code>&lt;relatedmaterial&gt;</code>, <code>&lt;separatedmaterial&gt;</code>, or <code>&lt;relation&gr;</code></td>
+      <td><code>&lt;relatedmaterial&gt;</code>, <code>&lt;separatedmaterial&gt;</code>, or <code>&lt;relation&gt;</code></td>
       <td><code>544</code></td>
     </tr>
     <tr>
       <td>6.4 Publication Note</td>
       <td><code>&lt;bibliography&gt;&lt;p&gt;</code> or <code>&lt;bibliography&gt;&lt;bibref&gt;</code></td>
-      <td><code>&lt;bibliography&gt;&lt;p&gt;</code>, <code>&lt;bibliography&gt;&lt;bibref&gt;</code>, or <code>&lt;relation&gr;</code></td>
+      <td><code>&lt;bibliography&gt;&lt;p&gt;</code>, <code>&lt;bibliography&gt;&lt;bibref&gt;</code>, or <code>&lt;relation&gt;</code></td>
       <td><code>581</code></td>
     </tr>
     <tr>
