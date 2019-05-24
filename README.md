@@ -12,7 +12,7 @@ According to the subcommittee's charge, "The Technical Subcommittee for Describi
 
 The subcommittee is responsible for maintaining the standard, tracking its revisions, and communicating information about the standard to the archival community. Once changes to the standard are approved by council, it the subcommittee's responsibility to ensure that these changes are communicated to all relevant bodies, including the membership as a whole, but also to SAA staff who maintain the DACS website and SAA publications in particular. 
 
-Converting the most up-to-date version of DACS into a given serialization (HTML, a typeset document, et cetera) is beyond the scope of responsibilities of the subcommittee. However, because the standard is maintained in Markdown, converting to other formats for a variety of publication purposes is a straightforward task and can be done by whatever person or body whishes to further publish DACS.
+Converting the most up-to-date version of DACS into a given serialization (HTML, a typeset document, et cetera) is beyond the scope of responsibilities of the subcommittee. However, because the standard is maintained in Markdown, converting to other formats for a variety of publication purposes is a straightforward task and can be done by whatever person or body wishes to further publish DACS.
 
 ## Converting to other formats
 
