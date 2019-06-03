@@ -4,6 +4,15 @@ This site is maintained to facilitate an open and transparent revision process o
 
 DACS is an output-neutral set of rules for describing archives, personal papers, and manuscript collections, and can be applied to all material types. DACS is compatible with ISAD(G): General International Standard Archival Description, 2nd ed. (International Council on Archives, 1999) and ISAAR(CPF): International Standard Archival Authority Records for Corporate Bodies, Persons and Families, 2nd ed. (International Council on Archives, 2003).
 
+## Scope and governance
+
+This site will always include the most up-to-date version of DACS as approved by SAA Council. 
+
+According to the subcommittee's charge, "The Technical Subcommittee for Describing Archives: A Content Standard (TS-DACS) of the SAA Standards Committee is responsible for overseeing the timely and ongoing intellectual and technical maintenance and development of _Describing Archives: A Content Standard (DACS)_."
+
+The subcommittee is responsible for maintaining the standard, tracking its revisions, and communicating information about the standard to the archival community. Once changes to the standard are approved by council, it the subcommittee's responsibility to ensure that these changes are communicated to all relevant bodies, including the membership as a whole, but also to SAA staff who maintain the DACS website and SAA publications in particular. 
+
+The subcommittee is responsible for maintaining the standard in an open and structured format that can be reasonably converted to formats using open tools for publication. Converting the most up-to-date version of DACS into a given serialization (HTML, a typeset document, et cetera) is beyond the scope of responsibilities of the subcommittee. However, because the standard is maintained in Markdown, converting to other formats for a variety of publication purposes is a straightforward task and can be done by whatever person or body wishes to further publish DACS.
 
 ## Converting to other formats
 
@@ -42,7 +51,7 @@ TS-DACS will also monitor changes to companion standards and evaluate whether DA
 
   3. After receiving Standards Committee approval, TS-DACS submits the revision to SAA Council for final approval.
 
-  4. DACS is updated with the revised text on Github and the SAA website, and in publications if necessary.
+  4. TS-DACS will update the revised text of DACS on Github. SAA staff will push these changes to the SAA website. At their discretion, SAA publications may issue a new print edition of DACS.
 
   5. TS-DACS notifies community of the revision through listservs.
 
