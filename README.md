@@ -18,17 +18,20 @@ The subcommittee is responsible for maintaining the standard in an open and stru
 
 The documentation on this site is written in Markdown.  To convert to other formats, you can use the command-line application [Pandoc](http://pandoc.org), which works on all operating systems. Pandoc can be downloaded [from their website](http://pandoc.org/installing.html) or [from Github](https://github.com/jgm/pandoc/releases).
 
+Command to combine markdown into a single file for publication:
+	`find . -name '*.md' ! -path '*README.md*' -exec cat {} \; > dacs.md`
+
 Common commands:
 In general, the command is formatted `pandoc FiletoConvert -o FileNameforResult`
 
   _Markdown to HTML:_  
-  `pandoc pandoc-example.markdown -o pandoc-example.html`
+  `pandoc dacs.md -o pandoc-example.html`
 
   _Markdown to DOCX:_  
-  `pandoc pandoc-example.markdown -o pandoc-example.docx`
+  `pandoc dacs.md -o pandoc-example.docx`
 
   _Markdown to PDF:_  
-  `pandoc pandoc-example.markdown -o pandoc-example.pdf`
+  `pandoc dacs.md -o pandoc-example.pdf`
 
 
 ## Revision Process
@@ -70,9 +73,9 @@ TS-DACS began using Github in March 2016 to manage and document the revision pro
 There are multiple ways you can interact with Github to propose a revision, including using their [desktop application](https://guides.github.com/activities/forking/) or [the command line](http://kbroman.org/github_tutorial/pages/fork.html). The instructions below show you how to do it staying in [the web interface](https://help.github.com/articles/github-flow-in-the-browser/).
 
  1. Create a [Github account](https://github.com/join).
- 
+
  2. Make a copy of the DACS repository to work on, which is called "creating a fork."
- 
+
       a. Log in  to your Github account.
       
       b. Go to the [DACS repository](https://github.com/saa-ts-dacs/dacs).
@@ -86,9 +89,9 @@ There are multiple ways you can interact with Github to propose a revision, incl
       b. To edit, click on a document and then click the pencil icon in the upper right. This will give you a text editor. Formatting can be added using the [markdown syntax](https://daringfireball.net/projects/markdown/).
 
       c. When the editing is complete, give the edit a title and description in the Commit changes box, which is below the editing screen. Commit the change directly to your new branch.
- 
+
  4. Suggest your changes to the DACS repository, which is called a "[pull request](https://help.github.com/articles/using-pull-requests/)".
- 
+
       a. Go back to the main page of your copy of the repository by clicking on "dacs" in the breadcrumb trail in the upper left.
 
       b. Select your branch with the edits and click "New pull request."
