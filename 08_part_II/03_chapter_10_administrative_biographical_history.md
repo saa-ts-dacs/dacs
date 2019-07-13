@@ -39,7 +39,7 @@ There may be instances in describing collections where providing information abo
 **10.12.**  When primary responsibility for the creation, assembly, accumulation, and/or maintenance and use of the materials is shared between two or more members of a family, create separate biographical histories for the family and for each person.
 
 ## Selection of the Sub-Elements
-**10.13.**  Include in the Administrative/Biographical History all of the following sub-elements that are relevant to the corporate body, family, or person being described and that provide the information necessary to explain the context in which the materials were created, assembled, accumulated, and/or maintained and used.
+**10.13.**  Include in the Administrative/Biographical History all of the following sub-elements<sup>[1](#footnote1)</sup> that are relevant to the corporate body, family, or person being described and that provide the information necessary to explain the context in which the materials were created, assembled, accumulated, and/or maintained and used.
 
 ### Biographical History of Individuals or Families
 **10.14.**  Record information relevant to the understanding of the life, activities, and relationships of the person or family, applying rules 10.15-10.24 as necessary.
@@ -114,7 +114,7 @@ The Ker family was related to the Baker and other families of Mississippi and Lo
 *Biographical sketch for the Ker family papers*
 
 ### Dates
-**10.18.**  For persons, record the dates or approximate dates of birth and death.
+**10.18.**  For persons, record the dates or approximate dates of birth and death. <sup>[2](#footnote2)</sup>
 
 `Charles Bishop Kuralt, 1934-1997, was a newspaper, radio, and television journalist and author.`
 *Biographical sketch for the Charles Kuralt papers*
@@ -297,3 +297,9 @@ Frank Porter Graham (1886-1972) was the first president, 1932-1949, of the Conso
 
 ### Other Significant Information
 **10.36.**  Record any other important information not recorded elsewhere in the administrative history.
+
+* * *
+
+<a name="footnote1">[1]</a>: The way in which the sub-elements are presented to users is a matter of institutional policy.  Repositories may choose the order in which to present the sub-elements, or whether to present them in a narrative format or in a structured format with each element introduced by an introductory word or phrase.
+
+<a name="footnote2">[2]</a>: While DACS generally discourages the use of abbreviations, the use of “ca.” and other abbreviations in birth and death dates follows the authority form as established in the Library of Congress Authorities.
