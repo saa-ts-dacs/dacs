@@ -15,8 +15,12 @@ This element informs the user of anticipated additions to the unit being describ
 
 `The repository continues to add materials to this collection on a regular basis.`
 
-`Records from the Office of the Protocol and Ceremonials are transferred to the archives five years following the academic year to which the records relate. On average, 1 linear foot of records is transferred to the archives annually on August 1.`
+```
+Records from the Office of the Protocol and Ceremonials are transferred to the archives five years following the academic year to which the records relate. On average, 1 linear foot of records is transferred to the archives annually on August 1.
+```
 
 `Since 1964, approximately 50 maps have been transferred to the archives on an annual basis.`
 
-`Files older than ten years are transferred in accordance with the records retention schedule for the Department of Housing.`
+```
+Files older than ten years are transferred in accordance with the records retention schedule for the Department of Housing.
+```

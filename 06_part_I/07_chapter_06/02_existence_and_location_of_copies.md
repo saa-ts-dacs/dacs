@@ -19,9 +19,13 @@ This element indicates the existence, location, and availability of copies or ot
 
 `Diaries available on microfilm for use in repository only.`
 
-`Digital reproductions of the Christie family Civil War correspondence are available electronically at http://www.mnhs.org/collections/christie.html.`
+```
+Digital reproductions of the Christie family Civil War correspondence are available electronically at http://www.mnhs.org/collections/christie.html.
+```
 
-`The diary has been published in Dunlap, Kate. The Montana Gold Rush Diary of Kate Dunlap, edited and annotated by J. Lyman Tyler. (Denver:  F.A. Rosenstock Old West Publishing Co., 1969).`
+```
+The diary has been published in Dunlap, Kate. The Montana Gold Rush Diary of Kate Dunlap, edited and annotated by J. Lyman Tyler. (Denver:  F.A. Rosenstock Old West Publishing Co., 1969).
+```
 
 **6.2.4.**  If appropriate, record information to distinguish between multiple generations of the material.
 
@@ -34,4 +38,5 @@ This element indicates the existence, location, and availability of copies or ot
 ### Copies Available in Another Institution
 **6.2.5.**  If a copy of all or part of the materials being described is available in another institution, and information about the copy(ies) is deemed important by the repository holding the original, record that information, including contact information for the repository holding the copy(ies).
 
-`A microfilm of the Alexander W. Chase Overland Journal is available at the Bancroft Library, University of California, Berkeley.`
+```
+A microfilm of the Alexander W. Chase Overland Journal is available at the Bancroft Library, University of California, Berkeley.```

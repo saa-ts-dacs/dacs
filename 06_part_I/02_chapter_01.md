@@ -1,6 +1,6 @@
 ### CHAPTER 1
 
-#Levels of Description
+# Levels of Description
 
 DACS defines twenty-five elements that are useful in creating systems for describing archival materials.  These systems can be of any type, ranging from simple paper-based files to complex digital information management systems.  The output products of these systems—archival descriptions of all kinds and formats, printed on paper or encoded in EAD or MARC 21—must include at minimum a set of discrete descriptive elements that convey standardized information about the archival materials and creators being described.  These DACS elements constitute a refinement of the twenty-six high-level elements of archival description defined in the General International Standard Archival Description (ISAD(G)).
 

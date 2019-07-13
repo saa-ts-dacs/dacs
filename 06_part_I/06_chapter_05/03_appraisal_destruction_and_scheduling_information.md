@@ -27,10 +27,14 @@ After they were microfilmed, the original letterpress copies were destroyed due 
 
 **5.3.5.**  Where appropriate, record the authority for the action.
 
-`All files in this series are appraised as 'retain permanently' under disposal authorities RDS440/10.1, RDA458/8.1 and RDA1176/8.1.`
+```
+All files in this series are appraised as 'retain permanently' under disposal authorities RDS440/10.1, RDA458/8.1 and RDA1176/8.1.
+```
 
 **5.3.6.**  Optionally, record the date(s) of the appraisal/destruction action(s).
 
-`Originals were destroyed by the National Archives in 1982 in accordance with the Department's approved Appraisal and Disposition Schedule.`
+```
+Originals were destroyed by the National Archives in 1982 in accordance with the Department's approved Appraisal and Disposition Schedule.
+```
 
 `Originals destroyed after microfilming, 1981.`

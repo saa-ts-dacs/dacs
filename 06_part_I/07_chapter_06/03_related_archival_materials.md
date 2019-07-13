@@ -1,4 +1,4 @@
-#6.3  Related Archival Materials Element
+# 6.3  Related Archival Materials Element
 
 ## Purpose and Scope
 This element indicates the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere.
@@ -16,9 +16,13 @@ This element indicates the existence and location of archival materials that are
 ## General Rules
 **6.3.5.**  If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
 
-`Related materials providing visual documentation of racially segregated facilities may be found in the following collections in this repository: Birmingfind Project Photographs and Common Bonds Project Photographs.`
+```
+Related materials providing visual documentation of racially segregated facilities may be found in the following collections in this repository: Birmingfind Project Photographs and Common Bonds Project Photographs.
+```
 
-`James Gulick was the half brother of Alice Gulick Gooch, the photographer of a small collection of Orange County photographs also held by Special Collections.  The Gulick collection also adds family context to materials in the Huntley Family Papers.  The Edna Phelps Collection contains photographs, family history, and correspondence on the Gulicks.`
+```
+James Gulick was the half brother of Alice Gulick Gooch, the photographer of a small collection of Orange County photographs also held by Special Collections.  The Gulick collection also adds family context to materials in the Huntley Family Papers.  The Edna Phelps Collection contains photographs, family history, and correspondence on the Gulicks.
+```
 
 ```The following sources provide additional information on
 Gordon Gray's personal and professional life and on the
@@ -33,4 +37,6 @@ RECORDS OF THE VICE PRESIDENT FOR ACADEMIC AFFAIRS
 RECORDS OF THE OFFICE OF CHANCELLOR: R.B. HOUSE SERIES
 ```
 
-`Motion picture films and sound and video recordings transferred to Library of Congress Motion Picture, Broadcasting and Recorded Sound Division.`
+```
+Motion picture films and sound and video recordings transferred to Library of Congress Motion Picture, Broadcasting and Recorded Sound Division.
+```
