@@ -1331,21 +1331,28 @@ If the name does not appear on a prescribed source of information, determine the
 * * *
 
 <a name="footnote1">[1]</a>: The authorized form of a personal name in a LCNAF record is given in the 100 field in a MARC 21 record.
+
 <a name="footnote2">[2]</a>: The term reference sources, as used in this chapter, includes books and articles written about a person.
 
 <a name="footnote3">[3]</a>: The term reference sources, as used in this chapter, includes books and articles written about a person.
+
 <a name="footnote4">[4]</a>: Personal author is defined here as the person chiefly responsible for the creation of the intellectual or artistic content of a work.
+
 <a name="footnote5">[5]</a>: The term reference sources, as used in this chapter, includes books and articles written about a person
+
 <a name="footnote6">[6]</a>: Systematic romanizations used in the examples in this chapter follow the tables (published by the Library of Congress in Cataloging Service, bulletin 118) adopted jointly by the American Library Association, the Canadian Library Association, and the Library of Congress.
+
 <a name="footnote7">[7]</a>: Alternative rule.  This alternative rule may be applied selectively language by language.
     Persons entered under a surname.  Choose the romanized form of name that has become well-established in English-language reference sources for a person entered under a surname (see 12.5) whose name is in a language written in a nonroman script.  For a person who uses Hebrew or Yiddish and whose name is not found to be well-established in English-language reference sources, choose the romanized form appearing in his or her works, or in the materials being described.
     If variant romanized forms are found in English-language reference sources, choose the form that occurs most frequently.
     As required, make references from other romanized forms.
 
 <a name="footnote8">[8]</a>: Authoritative alphabetic lists means publications of the “who's who” type or biographical dictionaries, encyclopedias, but not telephone directories or similar compilations.
+
 <a name="footnote9">[9]</a>: Surname, as used in this chapter, includes any name used as a family name (other than those used as family names by Romans of classical times, see 12.9A).
 
 <a name="footnote10">[10]</a>: For Islamic names, see rules 22.22, 22.26C1a, and 22.27 in AACR2, 2002 revision.
+
 <a name="footnote11">[11]</a>: Take regular or occasional initializing of an element preceding a surname as an indication that that element is not used as part of the surname.
 
 Chavarri, Eduardo López
@@ -1353,13 +1360,23 @@ Chavarri, Eduardo López
 
 Campbell, Julia Morrila de
     (Name sometimes appears as:  Julia M. de Campbell)
+
 <a name="footnote12">[12]</a>: Disregard reference sources that list compound surnames in a uniform style regardless of preference or customary usage.
+
 <a name="footnote13">[13]</a>: Disregard reference sources that list members of the nobility either all under title or all under surname.
+
 <a name="footnote14">[14]</a>: The terms of rank in the Great Britain peerage are duke, duchess, marquess (marquis), marchioness, earl, countess, viscount, viscountess, baron, and baroness.  The heir of a British peer above the rank of baron usually takes the next to highest title of the peer during the peer's lifetime.
+
 <a name="footnote15">[15]</a>: Great Britain peers (other than dukes and duchesses) usually use the terms of address Lord or Lady in place of their titles.  For example, George Gordon, Baron Byron, is almost invariably referred to as Lord Byron.
+
 <a name="footnote16">[16]</a>: Disregard, in this context, reference sources dealing with the nobility.
+
 <a name="footnote17">[17]</a>:Persons with such highest status are kings and queens, persons of imperial rank (emperors and empresses), and persons with other titles that denote such a status within a state or a people (grand-dukes, grand-duchesses, princes, princesses, etc.).  Rank is the only determining factor in applying these rules, not the degree of authority or power wielded by the person.
+
 <a name="footnote18">[18]</a>: Direction for converting dates from 1582 on from the Julian calendar to the Gregorian calendar is provided in AACR2 rule 22.17A n. 16.
+
 <a name="footnote19">[19]</a>:  Names of Persons : National Usages for Entries in Catalogues, IFLA Universal Bibliographic Control and International MARC Programme, 4th  ed., rev.and enl (München : K.G.  Saur, 1996).
+
 <a name="footnote20">[20]</a>:  For further information on the use of family names as creators see Chapter 9 Identifying Creators.
+
 <a name="footnote21">[21]</a>: The term reference sources, as used in this chapter, includes books and articles written about a person.
