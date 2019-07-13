@@ -2,8 +2,8 @@
 
 # Acquisition and Appraisal Elements
 
-5.1   [Custodial History (Added Value)](#custodial-history-added-value)
-5.2   [Immediate Source of Acquisition (Added Value)](#immediate-source-of-acquisition-added-value)
-5.3   [Appraisal, Destruction, and Scheduling Information (Added Value)](#appraisal-destruction-and-scheduling-information-added-value)
-5.4   [Accruals (Added Value)](#accruals-added-value)
+5.1   [Custodial History](#custodial-history-added-value)
+5.2   [Immediate Source of Acquisition](#immediate-source-of-acquisition-added-value)
+5.3   [Appraisal, Destruction, and Scheduling Information](#appraisal-destruction-and-scheduling-information-added-value)
+5.4   [Accruals](#accruals-added-value)
 
