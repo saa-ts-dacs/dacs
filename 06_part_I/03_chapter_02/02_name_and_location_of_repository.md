@@ -1,23 +1,39 @@
-# 2.2 Name and Location of Repository (Required)
+# 2.2  Name and Location of Repository Element
 
 ## Purpose and Scope
-
 This element identifies the name and location of the repository that holds the materials being described.
 
-Commentary: It may be possible for a system to generate the name of the repository from the repository identifier as specified in Rule 2.1.4.
+Commentary:  It may be possible for a system to generate the name of the repository from the repository identifier as specified in Rule 2.1.4.
 
 ## Sources of Information
-
-**2.2.1** Take the information from institutional policies and procedures.
+**2.2.1.**  Take the information from institutional policies and procedures.
 
 ## General Rules
+**2.2.2.**  Explicitly state the name of the repository, including any parent bodies.
 
-**2.2.2** Explicitly state the name of the repository, including any parent bodies.
+```
+  The University of Texas at Austin, Harry Ransom Humanities Research Center
 
-<p class="dacs-example">The University of Texas at Austin, Harry Ransom Humanities Research Center</p>
+  The Minnesota Historical Society
+```
 
-<p class="dacs-example">The Minnesota Historical Society</p>
+**2.2.3.**  Provide the location of the repository.  If desirable, include the mailing address and other contact information.
 
-**2.2.3** Provide the location of the repository. If desirable, include the mailing address and other contact information.
+`Alabama Department of Archives and History. 624 Washington Avenue, Montgomery, AL  36130-0100. (334) 242-4435.`
 
-<p class="dacs-example">Alabama Department of Archives and History. 624 Washington Avenue, Montgomery, AL 36130-0100. (334) 242-4435.</p>
+
+## Examples of Encoding for 2.2 Name and Location of Repository Element
+
+### Encoding in EAD:
+```
+<repository>
+<corpname>The University of Texas at Austin
+<subarea>Harry Ransom Humanities Research Center</subarea>
+</corpname>
+</repository>
+```
+
+### Encoding in MARC 21:
+
+`852    bb    ‡a Alabama Department of Archives and History. ‡e 624 Washington Avenue, Montgomery, AL 36310-0100.`
+
