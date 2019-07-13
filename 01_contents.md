@@ -1,11 +1,11 @@
-#Contents
+# Contents
 
 Preface
 Acknowledgments
 Statement of Principles
 Overview of Archival Description
 
-##Part I—Describing Archival Materials
+## Part I—Describing Archival Materials
 
 Introduction to Describing Archival Materials
 
@@ -48,7 +48,7 @@ Introduction to Describing Archival Materials
 
 8    Description Control Elements
 
-##Part II—Describing Creators
+## Part II—Describing Creators
 
 Introduction to Describing Creators
 
@@ -58,7 +58,7 @@ Introduction to Describing Creators
 
 11    Authority Records
 
-##Part III—Forms of Names
+## Part III—Forms of Names
 
 Introduction to Forms of Names
 
@@ -68,7 +68,7 @@ Introduction to Forms of Names
 
 14    Form of Names for Corporate Bodies
 
-##Appendices
+## Appendices
 
 A    Glossary
 
