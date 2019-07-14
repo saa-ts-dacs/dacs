@@ -82,9 +82,9 @@ Access points fall into six broad categories:
 * Names
 * Places
 * Subjects
-• Documentary forms
-• Occupations
-• Functions
+* Documentary forms
+* Occupations
+* Functions
 
 Each category is described below and contains a discussion of the parts of the descriptive
 record in which the concepts that are rendered as access points may be found. The
@@ -98,12 +98,12 @@ archival materials, either as the creator or the subject of the records, constit
 important pathway by which researchers discover relevant materials. Names that are
 rendered as nominal access points can be found in several areas of the descriptive record:
 
-• Name of Creator(s) Element (2.6)
-• Title Element (2.3)
-• Scope and Content Element (3.1)
-• Administrative/Biographical History Element (2.7)
-• Custodial History Element (5.1)
-• Immediate Source of Acquisition Element (5.2)
+* Name of Creator(s) Element (2.6)
+* Title Element (2.3)
+* Scope and Content Element (3.1)
+* Administrative/Biographical History Element (2.7)
+* Custodial History Element (5.1)
+* Immediate Source of Acquisition Element (5.2)
 
 At a minimum, an access point should be made for every name included in the Name of
 Creator(s) Element in a single-level description or at the highest level in a multilevel
@@ -116,10 +116,10 @@ The names of places and geographic features to which the records pertain may be
 important to researchers. Geographic place-names that should be considered for use as
 access points may be found in the following parts of the descriptive record:
 
-• Name of Creator(s) Element (2.6)
-• Title Element (2.3)
-• Scope and Content Element (3.1)
-• Administrative/Biographical History Element (2.7)
+* Name of Creator(s) Element (2.6)
+* Title Element (2.3)
+* Scope and Content Element (3.1)
+* Administrative/Biographical History Element (2.7)
 
 ### Topical Subjects
 
@@ -127,9 +127,9 @@ The topical subject matter to which the records pertain is among the most import
 aspects of the archival materials. Terms suggesting topics that might be employed as
 access points may be found in the following areas of the descriptive record:
 
-• Title Element (2.3)
-• Scope and Content Element (3.1)
-• Administrative/Biographical History Element (2.7)
+* Title Element (2.3)
+* Scope and Content Element (3.1)
+* Administrative/Biographical History Element (2.7)
 
 A variety of general and specialized subject thesauri, including the Library of Congress
 Authorities, may be employed as the source for standardized terminology. The most
@@ -145,9 +145,9 @@ contents of ledgers because they are a standard form of accounting record, one t
 typically contains certain types of data. Documentary forms are most often noted in the
 following areas of the descriptive record:
 
-• Title Element (2.3)
-• Extent Element (2.5)
-• Scope and Content Element (3.1)
+* Title Element (2.3)
+* Extent Element (2.5)
+* Scope and Content Element (3.1)
 
 The Art & Architecture Thesaurus, the Library of Congress Authorities, or appropriate
 media-specific thesauri should be the first sources consulted for terms denoting
@@ -159,8 +159,8 @@ The occupations, avocations, or other life interests of individuals that are doc
 a body of archival material may be of significance to users. Such information is most
 often mentioned in the following areas of the descriptive record:
 
-• Scope and Content Element (3.1)
-• Administrative/Biographical History Element (2.7)
+* Scope and Content Element (3.1)
+* Administrative/Biographical History Element (2.7)
 
 Again, the Library of Congress Authorities is a widely used source of terms noting
 occupations and avocations. The U.S. Department of Labor’s Dictionary of Occupational
@@ -174,9 +174,9 @@ created. Examples of such concepts might be the regulation of hunting and fishin
 conservation of natural resources. Functions and activities are often noted in these areas
 of the descriptive record:
 
-• Title Element (2.3)
-• Scope and Content Element (3.1)
-• Administrative/Biographical History Element (2.7)
+* Title Element (2.3)
+* Scope and Content Element (3.1)
+* Administrative/Biographical History Element (2.7)
 
 The Art & Architecture Thesaurus contains a hierarchy of terms denoting functions. The
 Library of Congress Authorities also may be employed.
@@ -193,19 +193,3 @@ Archivists and the Network Development and MARC Standards Office of the Library 
 <a name="footnote2">[2]</a>: The Library of Congress Authorities online resource (http://http://authorities.loc.gov) combines the
 Library of Congress Name Authority File (LCNAF) and the Library of Congress Subject Headings
 (LCSH).
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:

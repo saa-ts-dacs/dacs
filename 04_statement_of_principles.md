@@ -75,7 +75,7 @@ material by the process of capturing, collating, analyzing, and organizing infor
 serves to identify archival material and to explain the context and records systems that
 produced it, as well as the results of these processes.
 
-###Principle 3: Arrangement involves the identification of groupings within the material.
+### Principle 3: Arrangement involves the identification of groupings within the material.
 
 Arrangement is the process of identifying the logical groupings of materials within the
 whole as they were established by the creator, of constructing a new organization when
@@ -144,7 +144,7 @@ records.”<sup>[5](#footnote5)</sup> This requires some elucidation regarding t
 is presented and the relationships between description(s) of the parts and the description
 of the whole.<sup>[6](#footnote6)</sup>
 
-####Principle 7.1: Levels of description correspond to levels of arrangement.
+#### Principle 7.1: Levels of description correspond to levels of arrangement.
 
 The levels of arrangement determine the levels of description. However, because not all
 levels of arrangement are required or possible in all cases, it follows that not all levels of

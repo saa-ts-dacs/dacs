@@ -224,17 +224,5 @@ American Archivists, 1989). The first edition was published in 1983.
 American Library Association, 2010).
 
 <a name="footnote3">[3]</a>: International Council on Archives, Committee on Best Practices and Standards, Progress Report for
-Revising and Harmonising ICA Descriptive Standards, July 4, 2012, accessed November 6, 2012,
-
-http://www.ica.org/13155/standards/cbps-progress-report-for-revising-and-harmonising-ica-descriptive-
+Revising and Harmonising ICA Descriptive Standards, July 4, 2012, accessed November 6, 2012, http://www.ica.org/13155/standards/cbps-progress-report-for-revising-and-harmonising-ica-descriptive-
 standards.html, p. 15.
-
-<a name="footnote2">[2]</a>:
-
-<a name="footnote2">[2]</a>:
-
-<a name="footnote2">[2]</a>:
-
-<a name="footnote2">[2]</a>:
-
-<a name="footnote2">[2]</a>:
