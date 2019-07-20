@@ -72,9 +72,10 @@ Dates of record-keeping activity for a file within the above
 ```
       1785-1960, bulk 1916-1958
       1942-1998, predominant 1975-1991
-      ```
+```
 
 2.4.11 Optionally, if there is a significant gap in the chronological sequence of the documents in the unit being described, where providing predominant/bulk dates would be misleading, record the anomalous date(s) separated by commas. <sup>(#footnote2)[2]</sup> Explain significant chronological gaps in the materials in the Scope and Content Element (3.1).
+
 ```
       1827, 1952-1978
       1975, 2002
