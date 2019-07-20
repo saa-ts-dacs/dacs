@@ -18,7 +18,7 @@ If the material type has been provided in the title statement, do not repeat it 
 
 *Further details about quantity and physical characteristics may also be provided in the Scope and Content Element (3.1).*
 
-##Exclusions
+## Exclusions
 
 2.5.1 Record information about physical characteristics that affect the use of the unit being described in the Physical Access Element (4.2).
 
@@ -31,7 +31,8 @@ If the material type has been provided in the title statement, do not repeat it 
 2.5.3 Record the numerical quantity associated with each expression of physical extent, containers or carriers, number of items, or material type, using the imperial system of measurement in Arabic numerals, unless the repository has made a decision to use the metric system.
 
 2.5.4 Record the quantity of the material in terms of its physical extent as linear or cubic feet, number of items, or number of containers or carriers.<sup>(#footnote1)[1]</sup>
-      ```
+
+```
       45 linear feet
       5,321 items
       16 boxes
@@ -41,6 +42,7 @@ If the material type has been provided in the title statement, do not repeat it 
 ```
 
 2.5.5 Optionally, record the quantity in terms of material type(s). Material types may be general, such as textual materials,<sup>(#footnote2)[2]</sup> graphic materials, cartographic materials, architectural and technical drawings, moving images, and sound recordings, or more specific types, such as those found in RDA and various thesauri.<sup>(#footnote3)[3]</sup>
+
 ```
       10 boxes of textual materials
       1,000 photographs
@@ -56,7 +58,8 @@ If the material type has been provided in the title statement, do not repeat it 
 ### Multiple Statements of Extent
 
 2.5.7 If a parallel expression of extent is required or desirable, add this information in parentheses.
- ```
+
+```
       2,400 photographs (12 linear feet)
 
       89.3 linear feet (150 boxes and 109 oversize folders)
@@ -71,6 +74,7 @@ If the material type has been provided in the title statement, do not repeat it 
 ```
 
 2.5.8 Optionally, provide multiple statements of extent to highlight the existence of material types that are important.
+
 ```
       12 linear feet of textual materials, 68 photographs,
 
@@ -85,6 +89,7 @@ If the material type has been provided in the title statement, do not repeat it 
 ### Approximate Statements of Extent
 
 2.5.9 If parts of the material being described are numerous and the exact number cannot be readily ascertained, record an approximate number and indicate that it is an estimate.
+
 ```
       approximately 35 linear feet
       about 24,000 maps
@@ -93,6 +98,7 @@ If the material type has been provided in the title statement, do not repeat it 
 ### Statements of Extent for Electronic Records
 
 2.5.10 Electronic records may be described in terms of size (kilobytes, megabytes, gigabytes) or in terms of structure (digital files, directories, items, etc.). If desired, both may be used.
+
 ```
       700 Megabytes
 
@@ -104,9 +110,10 @@ If the material type has been provided in the title statement, do not repeat it 
 ```
 2.5.11 Optionally, descriptions of electronic records may include file format type as well as size. The file format type is normally the file name extension (.doc, .pdf, .ppt, etc.). This is especially recommended where the description includes a link directly to the record.
 
- `PDF (88 Kilobytes)`
+`PDF (88 Kilobytes)`
 
 * * *
+
 <a name="footnote1">[1]</a>: It is recommended, though not required, that terms reflecting physical extent be spelled out rather than abbreviated, as abbreviations may not be understood by all users.
 
 <a name="footnote2">[2]</a>: It is usually assumed that archival materials are textual in nature, so it may not be necessary to supply the term “textual materials” unless it is desirable to distinguish from other material types.

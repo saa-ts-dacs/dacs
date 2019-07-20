@@ -1,6 +1,7 @@
 # 13.1 Repository Code
 
 13.1.1 Provide a repository code for the institution creating the authority record. Use the repository codes assigned by the national organization responsible for assigning and maintaining repository identifiers or appropriate international repository identifiers.<sup>(#footnote1)[1]</sup>
+
 ```
 MnHi (Repository code for the Minnesota Historical Society assigned by the Library of Congress in the MARC Code List for Organizations)
 OCLC-MHS (International Standard Identifier for Libraries [ISIL] identifier for Minnesota Historical Society

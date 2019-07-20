@@ -9,7 +9,7 @@ Language and script information may also be represented as codes for machine pro
 ## Sources of Information
 4.5.1 Derive the information from the materials themselves.
 
-##General Rules
+## General Rules
 
 4.5.2 Record the language(s) of the materials being described. Materials entirely in English.
 ```

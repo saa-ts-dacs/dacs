@@ -37,10 +37,13 @@ Arranged in two series: 1. Correspondence (chronological);
 2. Professional organization files (alphabetical by organization name).
 ```
 3.2.4 Optionally, give information about the system of ordering the component files or items.
+
 `Resources arranged alphabetically by subject, personal name, or corporate name.`
   Arrangement for a series in the William Noffke papers
+
 `Arrangement: chronological.`
   Arrangement for a series in the Caffery Family papers
+
 ```
 This subseries is arranged alphabetically by the geographic location of the photograph and then by the item number assigned by the photographer.
 ```

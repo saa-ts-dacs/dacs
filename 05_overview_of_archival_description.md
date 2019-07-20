@@ -29,7 +29,7 @@ When descriptions are recorded in a standard electronic format—MARC 21, EAD, o
 both—an archivist will have to master the encoding scheme in which the data is stored
 electronically. Various publications are instructive in the application of these two
 standards, while the official documentation for each is available in print and online and is
-cited in Appendix B.<sup>[11](#footnote1)</sup>
+cited in Appendix B.<sup>[1](#footnote1)</sup>
 
 Beyond the details of their respective encoding protocols, both MARC 21 and EAD
 require the inclusion of data that supplements the information specified in DACS. MARC

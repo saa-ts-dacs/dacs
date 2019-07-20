@@ -4,11 +4,12 @@
 
 The purpose of this element is to describe the required elements of a biographical or administrative history note about creators embedded in the description of materials. The administrative/biographical history provides relevant information about corporate bodies, persons, or families who are identified using the Name of Creator(s) Element and who therefore function as nominal access points. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
 
-*Commentary: Information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described may be described in one of two ways:
+*Commentary: Information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described may be described in one of two ways:*
+
 * Incorporated into the description using biographical/historical notes. These rules are covered here in Element 2.7.
 * Held in a separate system of authority files that are linked to the archival descriptions and displayed together. These rules are covered in Part II.
 Archivists may wish to devise more or less detail, depending on the system being used and other local variables. For example, the administrative/biographical history information in a catalog record describing the materials should be brief, while an authority record or creator sketch in a multilevel finding aid may be much more extensive, consisting of a narrative description, chronology, or both.
-There may be instances in describing collections where providing information about the collector is not necessary—for example, when the repository is the collector.*
+There may be instances in describing collections where providing information about the collector is not necessary—for example, when the repository is the collector.
 
 ## Exclusions
 
@@ -239,7 +240,8 @@ Administrative history for the Anne C. Stouffer Foundation records
 
 2.7.24 Give the date and place of the founding of the corporate body, and if applicable, the date and place of its dissolution.
 
-```Glencoe Mills, established in 1880 by James Henry Holt (1833- 1897) and William Erwin Holt (1839-1917), operated until 1954, producing cotton fabric.
+```
+Glencoe Mills, established in 1880 by James Henry Holt (1833- 1897) and William Erwin Holt (1839-1917), operated until 1954, producing cotton fabric.
 ```
 Administrative history for the Glencoe Mills records
 
@@ -330,19 +332,3 @@ Other Significant Information
 <a name="footnote1">[1]</a>: The way in which the subelements are presented to users is a matter of institutional policy. Repositories may choose the order in which to present the subelements or whether to present them in a narrative format or in a structured format with each element introduced by an introductory word or phrase.
 
 <a name="footnote2">[2]</a>: While DACS generally discourages the use of abbreviations, the use of ca. and other abbreviations in birth and death dates follows the authority form as established in the Library of Congress Authorities.
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:
-
-<a name="footnote1">[1]</a>:

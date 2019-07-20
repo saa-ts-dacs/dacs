@@ -6,7 +6,7 @@
 
 MARC 21 encoding indicating that the entry is a family name
 
-     ` <entityType>corporateBody</entityType>`
+` <entityType>corporateBody</entityType>`
 
 EAC-CPF encoding indicating that the entry is a corporate body
 
