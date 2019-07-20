@@ -1,82 +1,65 @@
 # 10.3 Variant Forms of Names
 
-Commentary: Variant names are created to help users discover materials that have been classified under one name but a user might reasonably expect to find material using another name. Make a _see_ reference from a form of the name of a person or corporate body or title of a work that might reasonably be sought to the form that has been chosen as the name or uniform title heading or as a title entry.
+*Commentary: Variant names are created to help users discover materials that have been classified under one name but a user might reasonably expect to find material using another name. Make a see reference from a form of the name of a person or corporate body or title of a work that might reasonably be sought to the form that has been chosen as the name or uniform title heading or as a title entry.*
 
-**10.3.1** If an institution maintains records in two or more official languages, record as a variant the parallel form of the authorized name as it occurs in the other language(s).
+10.3.1 If an institution maintains records in two or more official languages, record as a variant the parallel form of the authorized name as it occurs in the other language(s).
 
-<p class="dacs-example">United Church of Canada (authorized name)</p>
+```
+      United Church of Canada (authorized name)
+      Variant name(s): L'église unie du Canada
+```
 
-<p class="dacs-example">Variant name(s): L'église unie du Canada</p>
+10.3.2 Optionally, record as a variant the name of the entity as it would be constructed according to the rules of other cataloging conventions. Indicate the rules and/or source of the name where possible.
+```
+Minnesota. Section on Wildlife
+Pre-AACR2 form: Minnesota. Division of Fish and Wildlife. Section on Wildlife
+Washington National Cathedral
+Pre-AACR2 form: Washington, D.C., Cathedral of Saint Peter and Saint Paul
+Tolkien, J. R. R. (John Ronald Reuel), 1892-1973 Bibliotheque nationale de France form: Tolkien, John Ronald Reuel, 1892-1973
+```
+10.3.3 Record all other names or forms of name(s) that might reasonably be sought by a user but were not chosen as the authorized form of name. Variant names might include:
+* Alternate linguistic forms of names
 
-**10.3.2** Optionally, record as a variant the name of the entity as it would be constructed according to the rules of other cataloging conventions. Indicate the rules and/or source of the name where possible.
+* Acronyms for corporate bodies
 
-<p class="dacs-example">Minnesota. Section on Wildlife</p>
+* Earlier, later, religious, or secular names for persons
 
-<p class="dacs-example"><em>Pre-AACR2 form:</em> Minnesota. Division of Fish and Wildlife. Section on Wildlife</p>
+* Changes in titles for families
 
-<p class="dacs-example">Washington National Cathedral</p>
+```
+Clark, Joe (authorized name)
 
-<p class="dacs-example"><em>Pre-AACR2 form:</em> Washington, D.C., Cathedral of Saint Peter and Saint Paul</p>
+*Variant name(s): Clark, Charles Joseph, Clark, C. J.*
 
-<p class="dacs-example">Tolkien, J. R. R. (John Ronald Reuel), 1892-1973</p>
+Prichard, Robert (authorized name)
 
-<p class="dacs-example"><em>Bibliotheque nationale de France form:</em> Tolkien, John Ronald Reuel, 1892-1973</p>
+Variant name(s): Prichard, John Robert Stobo
+                     Prichard, J. Robert S.
+                     Prichard, Rob
 
-**10.3.3** Record all other names or forms of name(s) that might reasonably be sought by a user but were not chosen as the authorized form of name. Variant names might include:
+World Health Organization (authorized name)
 
-*   Alternate linguistic forms of names
-*   Acronyms for corporate bodies
-*   Earlier, later, religious, or secular names for persons
-*   Changes in titles for families
+Variant name(s): W.H.O.
 
-<p class="dacs-example">Clark, Joe <em>(authorized name)</em></p>
+Organisation de la Santé Mondiale Massachusetts (authorized name)
 
-<p class="dacs-example"><em>Variant name(s):</em>: Clark, Charles Joseph</p>
+Variant name(s): Commonwealth of Massachusetts
 
-<p class="dacs-example">Clark, C. J.</p>
+Montgomery, L. M. (authorized name)
 
-<p class="dacs-example">Prichard, Robert <em>(authorized name)</em></p>
+Variant name(s): Montgomery, Lucy Maud
+                  MacDonald, Lucy Maud Montgomery
 
-<p class="dacs-example"><em>Variant name(s):</em> Prichard, John Robert Stobo</p>
+Society of American Archivists. National Information Systems Task Force (authorized name)
 
-<p class="dacs-example">Prichard, J. Robert S.</p>
+Variant name(s): National Information Systems Task Force NISTF
 
-<p class="dacs-example">Prichard, Rob</p>
-
-<p class="dacs-example">World Health Organization <em>(authorized name)</em></p>
-
-<p class="dacs-example"><em>Variant name(s):</em> W.H.O.</p>
-
-<p class="dacs-example">Organisation de la Santé Mondiale</p>
-
-<p class="dacs-example">Massachusetts <em>(authorized name)</em></p>
-
-<p class="dacs-example"><em>Variant name(s):</em> Commonwealth of Massachusetts</p>
-
-<p class="dacs-example">Montgomery, L. M. <em>(authorized name)</em></p>
-
-<p class="dacs-example"><em>Variant name(s):</em> Montgomery, Lucy Maud</p>
-
-<p class="dacs-example">MacDonald, Lucy Maud Montgomery</p>
-
-<p class="dacs-example">Society of American Archivists. National Information Systems Task Force <em>(authorized name)</em></p>
-
-<p class="dacs-example"><em>Variant name(s):</em> National Information Systems Task Force</p>
-
-<p class="dacs-example">NISTF</p>
-
-<p class="dacs-example">Cadell, T. (Thomas), 1742-1802 <em>(authorized name)</em></p>
-
-<p class="dacs-example"><em>Variant name(s):</em> Cadell, Thomas, 1742-1802</p>
-
-<p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
-
-**10.3.4** Optionally, record pseudonyms and other identities assumed by a person as variant names.</p>
-
-<p class="dacs-example">Clemens, Samuel Langhorne, 1835-1910 (authorized name)</p>
-
-<p class="dacs-example"><em>Variant name(s):</em> Twain, Mark, 1835-1910</p>
-
-<p class="dacs-example">Snodgrass, Quintus Curtius, 1835-1910</p>
-
-<p class="dacs-example">Conte, Louis de, 1835-1910</p>
+Cadell, T. (Thomas), 1742-1802 (authorized name) Variant name(s): Cadell, Thomas, 1742-1802
+                   Cadel, T. (Thomas), 1742-1802
+```
+10.3.4 Optionally, record pseudonyms and other identities assumed by a person as variant names.
+```
+Clemens, Samuel Langhorne, 1835-1910 (authorized name) Variant name(s): Twain, Mark, 1835-1910
+            Snodgrass, Quintus Curtius, 1835-1910
+            Conte, Louis de, 1835-1910
+```
