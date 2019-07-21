@@ -31,8 +31,7 @@ In the absence of a meaningful formal title, a title must be devised. The archiv
   * In multilevel descriptions the name segment may be inherited from a higher level
   of description and may not need to be explicitly stated at lower levels.
 
-  * When the repository is responsible for assembling a collection, do not provide, as
-  part of the devised title, the institution’s name as the collector.
+  * When the repository is responsible for assembling a collection, provide, as part of the devised title, the institution’s name as the collector.
 
   * The topical segment should be used only when the identification of the material
   cannot be made clear from the name and nature elements.
@@ -67,7 +66,8 @@ WAPOR
   The controlled form World Association for Public Opinion Research appears in the Name of Creator(s) Element.
 ```
 
-2.3.6 If the name of the creator, assembler, or collector is not known, or if the repository has assembled the materials, do not record a name. In such cases, devise the nature of the archival materials for the title as instructed in rules 2.3.18–2.3.20 and 2.3.22.
+2.3.6 If the name of the creator, assembler, or collector is not known, do not record a name. In such cases, devise the nature of the archival materials for the title as instructed in rules 2.3.18-2.3.20 and 2.3.22.
+
 ```
 Collection of San Francisco Graft Prosecution Records Performing Arts publications collection
 
