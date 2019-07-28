@@ -4,7 +4,7 @@
 
 The versioning system for DACS borrows from standard practices in software versioning. It combines two common forms of software versioning: semantic versioning and chronological versioning.
 
-Each version of DACS is written as **DACS** followed by a series of numbers. The numbers are incremented in accordance to the type of change being made. Changes can be classified as major, minor, or bug fixes.
+Each version of DACS is written as **DACS** followed by a series of numbers, for instance **DACS 2019.0.2**. The numbers are incremented in accordance to the type of change being made. Changes can be classified as major, minor, or bug fixes.
 
 The first number represents the year of a major update to DACS. SAA defines a major change as one that changes the application or interpretation of the standard so much as to make previously compliant use of the standard suddenly non-compliant. Examples may include:
 
