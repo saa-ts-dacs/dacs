@@ -4,9 +4,9 @@
 
 The versioning system for DACS borrows from standard practices in software versioning. It combines two common forms of software versioning: semantic versioning and chronological versioning.
 
-Each version of DACS is written as **DACS** followed by a series of numbers, for instance **DACS 2019.0.2**. The numbers are incremented in accordance to the type of change being made. Changes can be classified as major, minor, or bug fixes.
+Each version of DACS is written as **DACS** followed by a series of numbers, for instance **DACS 2019.0.2**. The numbers are incremented in accordance to the type of change being made. Changes can be classified as **major, minor, or bug fixes.**
 
-The first number represents the year of a major update to DACS. SAA defines a major change as one that changes the application or interpretation of the standard so much as to make previously compliant use of the standard suddenly non-compliant. Examples may include:
+The first number represents **the year of a major update** to DACS. SAA defines a major change as one that changes the application or interpretation of the standard so much as to make previously compliant use of the standard suddenly non-compliant. Examples may include:
 
 * Adding a new element (required or optional)
 * Making significant alterations to how an element is used (going from required to optional or
@@ -16,15 +16,15 @@ use/educate/write about it?” be “yes?”
 * Creating a new appendix
 * Significant revision to preambles, principles, appendices
 
-The second number also represents a major change, in the event of two major changes in the same calendar year. In most cases, this number will remain zero.
+The second number also represents a **major change**, in the event of two major changes in the same calendar year. In most cases, this number will remain zero.
 
-The third number represents a minor change. SAA defines a minor change as one that does not affect the application or interpretation of the standard and would not result in a user’s current application of the standard being non-compliant. Examples may include:
+The third number represents a **minor change**. SAA defines a minor change as one that does not affect the application or interpretation of the standard and would not result in a user’s current application of the standard being non-compliant. Examples may include:
 * Updating links in an appendix or standard
 * Updating crosswalks based on changes to adjacent/companion standards
 * Making suggestions for use/providing use case examples
 * Changes made to file structure on GitHub
 
-The fourth number represents a "bug" fix. Examples of this include:
+The fourth number represents a **"bug" fix**. Examples of this include:
 * Correcting a typo
 * Correcting a grammatical error
 * Correcting an error in Markdown
@@ -33,11 +33,13 @@ In other words, the structure of DACS version naming is **DACS Year.Major.Minor.
 
 To learn more about semantic versioning, visit https://semver.org/
 
+In order to view the files that correspond to each version, go to the [Releases page](https://github.com/saa-ts-dacs/dacs/releases) and click on the tag-shaped icon on the left-hand side of the version you would like to view. The version numbers on the releases page match what is found in the changelog, but may not be in the same order.
+
 ## What is a changelog?
 
-A changelog is a form of documentation, traditionally used in versioned software, that keeps a chronological record of all of the changes made in each version of a project. Below you will find short descriptions of each change that was made to DACS, deliniated by its unique version number. The oldest changes are at the bottom of the document, the most recent changes are at the top.
+A changelog is a form of documentation traditionally used in versioned software. It keeps a chronological record of all of the changes made in each version of a project. Below, you will find short descriptions of each change that was made to DACS, deliniated by a unique version number. The oldest changes are at the bottom of the document, the most recent changes are at the top.
 
-The changelog is to be updated with each new subsequent change made to DACS.
+The changelog is to be updated with each new subsequent change made to DACS and given a new version number and release.
 
 ## DACS 2019.0.2
 
@@ -118,6 +120,6 @@ This version of DACS includes an index, which was previously not a feature of th
 
 This update of DACS adds an endorsement by the SAA.
 
-## DACS 2004
+## [DACS 2004]
 
 This is the original version of DACS, first released in 2004.
