@@ -1,6 +1,6 @@
 # Changelog
 
-## DACS Versions
+## Versioning System
 
 The versioning system for DACS borrows from standard practices in software versioning. It combines two common forms of software versioning: semantic versioning and chronological versioning.
 
@@ -41,29 +41,31 @@ A changelog is a form of documentation traditionally used in versioned software.
 
 The changelog is to be updated with each new subsequent change made to DACS and given a new version number and release.
 
-## DACS 2019.0.2
+## DACS Versions
+
+### DACS 2019.0.2
 
 * Introduces new versioning system to DACS.
 
 * Introduces the changelog.
 
-## DACS 2019.0.1
+### DACS 2019.0.1
 
 * Files have been renamed so they will order correctly when using the bash find to cat commands. This makes it one command to combine all the markdown, and a second to reformat in html, pdf, etc.
 
 * Adds tables of contents with relative links at the top, and for each chapter based on the 2nd edition PDF.
 
-## DACS 2019
+### DACS 2019
 
 This update changes the Preface and the Statement of Principles in order to better align both with current archival theory and practice as well as the International Council on Archives (ICA) draft data model for archival description, Records in Contexts (RiC).2 The preface revision is not hugely substantive but rather a reorganization and update of existing information. The revision to the Statement of Principles is total.
 
 There are two primary and equally important justifications for the revisions. First, the revision is proposed following a deep analysis of the current Statement of Principles (hereafter referred to as current principles) and the extent to which it represents archival values, theory and practice, and is teachable and clear. Second is the release of Records in Contexts and the desire by the technical subcommittee to bring DACS in better alignment with its underlying concepts and structure and, in turn, current archival theory that undergirds RiC.
 
-## DACS 2015.0.2.1
+### DACS 2015.0.2.1
 
 Minor corrections to Appendix B.
 
-## DACS 2015.0.2
+### DACS 2015.0.2
 
 Complete overhaul and update of appendix:
 
@@ -73,27 +75,27 @@ Complete overhaul and update of appendix:
 * Version details removed, as they change frequently.
 * Categories, subcategories, and standards alphabetized.
 
-## DACS 2015.0.1.2
+### DACS 2015.0.1.2
 
 Updated text to remove reference to Part III, which was eliminated during the DACS revision in 2013.
 
-## DACS 2015.0.1.1
+### DACS 2015.0.1.1
 
 Authorized by 2016 change request to remove mention of the DACS companion website since TS-DACS decided to focus on educational offerings rather than creating the website. A few references to the website were missed at that time. Deleted a reference to the website in the Digital Records section and changed the entry about Appendix D in the What's New in DACS table.
 
-## DACS 2015.0.1
+### DACS 2015.0.1
 
 Removes reference of companion website from Preface.
 
-## DACS 2015.0.0.2
+### DACS 2015.0.0.2
 
 Adds missing chapter title to Chapter 14.
 
-## DACS 2015.0.0.1
+### DACS 2015.0.0.1
 
 Migration of DACS to GitHub.
 
-## DACS 2015
+### DACS 2015
 
 The revisions are as follows:
 
@@ -102,7 +104,7 @@ The revisions are as follows:
 * 2.3.6 was changed to ““If the name of the creator, assembler, or collector is not known, do not record a name. In such cases, devise the nature of the archival materials for the title as instructed in rules 2.3.18-2.3.20 and 2.3.22.” This revision removed the phrase “or if the repository has assembled the materials” from the rule.
 
 
-## DACS 2013
+### DACS 2013
 
 Major update to DACS. For full information on changes made and the process with which these changes were made, see https://drive.google.com/file/d/0Bz6WyYWOjAasUTFvYjNuMk42Ri1OTjFrbkxyck9iRC1kdXdB/view
 
@@ -112,14 +114,14 @@ Changes include:
 * Removal of Part III
 * Clarifications and corrections as suggested by feedback
 
-## DACS 2004.0.2
+### DACS 2004.0.2
 
 This version of DACS includes an index, which was previously not a feature of the document.
 
-## DACS 2004.0.1
+### DACS 2004.0.1
 
 This update of DACS adds an endorsement by the SAA.
 
-## [DACS 2004]
+### DACS 2004
 
 This is the original version of DACS, first released in 2004.
