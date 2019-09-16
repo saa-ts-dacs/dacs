@@ -18,11 +18,11 @@ If an institution wishes to claim rights on archival description outside of a sp
 
 ## General Rules
 
-Except where otherwise noted, record the necessary information documented by the selected license.
+Record the necessary information documented by the selected license.
 
 For a specific finding aid:
 
-<p class="dacs-example">Guide to the Dr. Hector P. Garcia papers by Special Collections and Archives, Mary and Jeff Bell Library, Texas A&M University-Corpus Christi is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).</p>
+<p class="dacs-example">Except where otherwise noted, the guide to the Dr. Hector P. Garcia papers by Special Collections and Archives, Mary and Jeff Bell Library, Texas A&M University-Corpus Christi is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).</p>
 
 For a whole repository of finding aids:
 
