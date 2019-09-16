@@ -12,9 +12,9 @@ If an institution wishes to claim rights on archival authority records outside o
 Take the information from institutional policies and if applicable, the rules governing the licensing source.
 
 ## General Rules
-Except where otherwise noted, record the necessary information documented by the selected license.
+Record the necessary information documented by the selected license.
 
-<p class="dacs-example">100 Adams, Lillian, 1914-1934 $a Person.
+<p class="dacs-example">Except where otherwise noted, 100 Adams, Lillian, 1914-1934 $a Person.
 ARC-ID 46786454 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</p>
 
 <p class="dacs-example">All SNAC Cooperative (SNAC-C) data describing persons, corporate bodies, and families are made available to the public free of restrictions under the terms of the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
