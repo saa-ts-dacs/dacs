@@ -2,8 +2,8 @@
 
 # Related Archival Materials and Other Resources
 
-* 14.1   [Identifiers and Titles of Related Resources](#identifiers-and-titles-of-related-resources)
-* 14.2   [Types of Related Resources](#types-of-related-resources)
-* 14.3   [Nature of Relationship to Related Resources](#nature-of-relationship-to-related-resources)
-* 14.4   [Dates of Related Resources and/or Relationships](#dates-of-related-resources-andor-relationships)
+* 14.1   [Identifiers and Titles of Related Resources](01_identifiers_and_titles_of_related_resources.html)
+* 14.2   [Types of Related Resources](02_types_of_related_resources.html)
+* 14.3   [Nature of Relationship to Related Resources](03_nature_of_relationship_to_related_resources.html)
+* 14.4   [Dates of Related Resources and/or Relationships](04_dates_of_related_resources_and_or_relationships.html)
 

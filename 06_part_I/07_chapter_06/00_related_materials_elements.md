@@ -2,8 +2,8 @@
 
 # Related Materials Elements
 
-* 6.1   [Existence and Location of Originals (Added Value)](#existence-and-location-of-originals-added-value)
-* 6.2   [Existence and Location of Copies (Added Value)](#existence-and-location-of-copies-added-value)
-* 6.3   [Related Archival Materials (Added Value)](#related-archival-materials-added-value)
-* 6.4   [Publication Note (Added Value)](#publication-note-added-value)
+* 6.1   [Existence and Location of Originals (Added Value)](01_existence_and_location_of_originals.html)
+* 6.2   [Existence and Location of Copies (Added Value)](02_existence_and_location_of_copies.html)
+* 6.3   [Related Archival Materials (Added Value)](03_related_archival_materials.html)
+* 6.4   [Publication Note (Added Value)](04_publication_note.html)
 
