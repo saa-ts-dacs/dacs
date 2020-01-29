@@ -43,16 +43,20 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2019.0.3
+
+* Introduces the new DACS website.
+* Fixes to filenames of appendices.
+* Adds bullets and links to chapter title appendices for better structure and formatting in the web version of DACS.
+
 ### DACS 2019.0.2
 
 * Introduces new versioning system to DACS.
-
 * Introduces the changelog.
 
 ### DACS 2019.0.1
 
 * Files have been renamed so they will order correctly when using the bash find to cat commands. This makes it one command to combine all the markdown, and a second to reformat in html, pdf, etc.
-
 * Adds tables of contents with relative links at the top, and for each chapter based on the 2nd edition PDF.
 
 ### DACS 2019
