@@ -1,4 +1,4 @@
-## 11.5. Example Description of the Person, Family, or Corporate Body Area of an Archival Authority Record
+## 11.8. Example Description of the Person, Family, or Corporate Body Area of an Archival Authority Record
 
 <p class="dacs-example"><strong>Dates of Existence (11.1.2):</strong> 1742 November 12-1802 December 27</p>
 
