@@ -1,4 +1,4 @@
-## Example Authority Record Management Area of an Archival Authority Record
+## 13.10. Example Authority Record Management Area of an Archival Authority Record
 
 <p class="dacs-example"><strong>Repository Code (13.1.1):</strong> US-CtY-BR</p>
 
