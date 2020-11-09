@@ -43,6 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2019.0.3.1
+
+Corrects errors in encoding for crosswalk tables formatting.
+
 ### DACS 2019.0.3
 
 * Introduces the new DACS website.
