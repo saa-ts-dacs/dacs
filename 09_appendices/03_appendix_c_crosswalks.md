@@ -284,7 +284,7 @@
     <tr>
       <td>14.4 Dates of Related Resources and/or Relationships</td>
       <td>6.4 Dates of related resources and/or relationships</td>
-      <td><code>&lt;resourceRelation>/<date&gt;</code> or <code>&lt;dateRange&gt;</code> or <code>&lt;dateSet&gt;</code></td>
+      <td><code>&lt;resourceRelation&gt;/&lt;date&gt;</code> or <code>&lt;dateRange&gt;</code> or <code>&lt;dateSet&gt;</code></td>
     </tr>
   </tbody>
 </table>
@@ -306,6 +306,7 @@
     </tr>
     <tr>
       <td>2.2 Name and Location of Repository</td>
+      <td></td>
     </tr>
     <tr>
       <td>2.3 Title</td>
@@ -393,6 +394,7 @@
     </tr>
     <tr>
       <td>2.7.30 Amalgamations and mergers</td>
+      <td></td>
     </tr>
     <tr>
       <td>2.7.31 Name changes</td>
@@ -404,6 +406,7 @@
     </tr>
     <tr>
       <td>2.7.33 Other significant information</td>
+      <td></td>
     </tr>
     <tr>
       <td>3.1 Scope and Content</td>
@@ -490,6 +493,7 @@
     </tr>
     <tr>
       <td>10.2 Type of Entity</td>
+      <td></td>
     </tr>
     <tr>
       <td>10.3.1 Parallel forms of name</td>
@@ -529,6 +533,7 @@
     </tr>
     <tr>
       <td>11.6 Mandates/Sources of Authority</td>
+      <td></td>
     </tr>
     <tr>
       <td>11.7 Internal Structure/Genealogy</td>
@@ -540,6 +545,7 @@
     </tr>
     <tr>
       <td>12.2 Type of Related Entity</td>
+      <td></td>
     </tr>
     <tr>
       <td>12.3 Nature of Relationship</td>
@@ -547,15 +553,19 @@
     </tr>
     <tr>
       <td>12.4 Dates of the Relationship</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.1 Repository Code</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.2 Authority Record Identifier</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.3 Rules or Conventions</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.4 Status</td>
@@ -563,9 +573,11 @@
     </tr>
     <tr>
       <td>13.5 Level of Detail</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.6 Date(s) of Authority Record Creation and Revision</td>
+      <td></td>
     </tr>
     <tr>
       <td>13.7 Languages or Scripts</td>
@@ -577,6 +589,7 @@
     </tr>
     <tr>
       <td>13.9 Maintenance Information</td>
+      <td></td>
     </tr>
     <tr>
       <td>14.1 Identifiers and Titles of Related Resources</td>
@@ -584,6 +597,7 @@
     </tr>
     <tr>
       <td>14.2 Types of Related Resources</td>
+      <td></td>
     </tr>
     <tr>
       <td>14.3 Nature of Relationship to Related Resources</td>
@@ -591,6 +605,7 @@
     </tr>
     <tr>
       <td>14.4 Dates of Related Resources and/or Relationships</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -755,12 +770,12 @@
     </tr>
     <tr>
       <td>2.1.4 Repository identifier</td>
-      <td><code>&lt;unitid&gt;</code> repositorycode attribute</code></td>
+      <td><code>&lt;unitid&gt;</code> <code>repositorycode attribute</code></td>
       <td><code>040$a</code></td>
     </tr>
     <tr>
       <td>2.1.5 Country identifier</td>
-      <td><code>&lt;unitid&gt;</code> countrycode attribute</code></td>
+      <td><code>&lt;unitid&gt;</code> <code>countrycode attribute</code></td>
       <td>The MARC21 format does not contain a straightforward mapping for this DACS subelement value.</td>
     </tr>
     <tr>
@@ -902,7 +917,7 @@
     </tr>
     <tr>
       <td>8.1.5 Archivist and date</td>
-      <td><code>&lt;processinfo><p><date&gt;</code></td>
+      <td><code>&lt;processinfo&gt; &lt;p&gt;/&lt;date&gt; </code></td>
       <td><code>583</code></td>
     </tr>
   </tbody>
@@ -1049,15 +1064,19 @@
     </tr>
     <tr>
       <td><em>11 Description of the Person, Family, or Corporate Body</em></td>
+      <td></td>
     </tr>
     <tr>
       <td><em>12 Related Corporate Bodies, Persons, and Families</em></td>
+      <td></td>
     </tr>
     <tr>
       <td><em>13 Authority Record Management</em></td>
+      <td></td>
     </tr>
     <tr>
       <td><em>14 Related Archival Materials and Other Resources</em></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
