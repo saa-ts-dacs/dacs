@@ -11,4 +11,5 @@
 * 13.7   [Languages or Scripts](07_languages_or_scripts.html)
 * 13.8   [Sources](08_sources.html)
 * 13.9   [Maintenance Information](09_maintenance_information.html)
+* 13.10  [Example Authority Record Management Area of an Archival Authority Record](10_example.html)
 

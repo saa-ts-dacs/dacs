@@ -1,4 +1,4 @@
-##  12.5. Example Related Persons, Families, and Corporate Bodies Area of an Archival Authority Record
+## 12.5. Example Related Persons, Families, and Corporate Bodies Area of an Archival Authority Record
 
 <p class="dacs-example"><strong>Related Entity 1</strong></p>
 
