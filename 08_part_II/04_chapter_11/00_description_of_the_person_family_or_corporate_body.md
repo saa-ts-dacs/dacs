@@ -7,7 +7,7 @@
 * 11.3   [Places](03_places.html)
 * 11.4   [Legal Status](04_legal_status.html)
 * 11.5   [Functions, Occupations, and Activities](05_functions_occupations_and_activities.html)
-* 11.6   [Mandates/Source of Authority](06_mandatessource_of_authority.html)
+* 11.6   [Mandates/Source of Authority](06_mandates_source_of_authority.html)
 * 11.7   [Internal Structure/Genealogy](07_internal_structure_genealogy.html)
 * 11.8   [Example Description of the Person, Family, or Corporate Body Area of an Archival Authority Record](08_example.html)
 
