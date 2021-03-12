@@ -43,6 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2019.0.4.1
+
+Corrected a broken URL link in Chapter 11.
+
 ### DACS 2019.0.4
 
 Restructure chapters 10-14 in Part II so that examples are separated into their own files rather than added to the last rule of each chapter.
