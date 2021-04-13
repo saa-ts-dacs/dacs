@@ -12,4 +12,5 @@
 * 13.8   [Sources](08_sources.html)
 * 13.9   [Maintenance Information](09_maintenance_information.html)
 * 13.10  [Example Authority Record Management Area of an Archival Authority Record](10_example.html)
+* 13.11  [Rights Statement for Archival Authority Records](11_rights_statement_for_archival_authority_records.html)
 
