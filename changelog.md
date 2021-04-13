@@ -43,6 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2021.0.0.1
+
+Bugfix release to add Rights Statements for Archival Description element to chapter contents pages.
+
 ### DACS 2021
 
 Added new required Rights Statements for Archival Description element. Repositories should use this element to declare the conditions under which they are making the archival description itself available for use and reuse..
