@@ -43,6 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2021
+
+Added new required Rights Statements for Archival Description element. Repositories should use this element to declare the conditions under which they are making the archival description itself available for use and reuse..
+
 ### DACS 2019.0.4.1
 
 Corrected a broken URL link in Chapter 11.
