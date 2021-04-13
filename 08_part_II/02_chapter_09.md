@@ -46,7 +46,7 @@ An authority record with the minimum number of DACS elements includes:
 *   Type of entity (see 10.2)
 *   Dates of existence (see 11.1)
 *   Authority record identifier (see 13.2)
-*   Rights Statement for Archival Authority Records (see 13.10)
+*   Rights Statement for Archival Authority Records (see 13.11)
 
 ### Added Value
 
