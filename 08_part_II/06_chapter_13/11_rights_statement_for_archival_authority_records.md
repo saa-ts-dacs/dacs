@@ -12,6 +12,7 @@ If an institution wishes to claim rights on archival authority records outside o
 Take the information from institutional policies and if applicable, the rules governing the licensing source.
 
 ## General Rules
+**13.11.2**
 Record the necessary information documented by the selected license.
 
 <p class="dacs-example">Except where otherwise noted, 100 Adams, Lillian, 1914-1934 $a Person.

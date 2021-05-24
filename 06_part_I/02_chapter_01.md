@@ -82,6 +82,7 @@ The _top_ level of a multilevel description with the minimum number of DACS elem
     _Note: In a minimum description, this element may simply provide a short abstract of the scope and content of the materials being described._
 *   Conditions Governing Access Element (4.1)
 *   Languages and Scripts of the Material Element (4.5)
+*   Rights Statements for Archival Description (8.2)
 *   Identification of the whole-part relationship of the _top_ level to at least the _next subsequent_ level in the multilevel description. This may be done through internal tracking within a particular descriptive system; if so, the output must be able to explicitly identify this relationship.
 
 Each _subsequent_ level of a multilevel description should include:
