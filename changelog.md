@@ -43,9 +43,13 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2021.0.0.2
+
+Bug fix to correct minor ommissions related to the addition of the new rights statement element.
+
 ### DACS 2021.0.0.1
 
-Bugfix release to add Rights Statements for Archival Description element to chapter contents pages.
+Bug fix release to add Rights Statements for Archival Description element to chapter contents pages.
 
 ### DACS 2021
 
