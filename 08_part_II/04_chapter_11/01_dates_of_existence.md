@@ -3,9 +3,9 @@
 **11.1.1** Record dates associated with the entity being described. Record dates in terms of the calendar preferred by the agency creating the data. Record dates in the following formats:
 
 *   Record exact dates in [year] [month] [day] format.
-*   Indicate a probable date by adding a question mark following the year.
-*   If the year is uncertain but known to be either one of two years, record the date in the form [year] or [year].
-*   If the year can only be approximated, record the date in the form _approximately_ [year].
+*   Indicate a probable date by adding a question mark following the date.
+*   If the date is uncertain but known to be either one of two dates, record the date in the form [date] or [date].
+*   If the date can only be approximated, record the date in the form _approximately_ [date]. Alternatively, record earliest possible or latest possible dates.
 
 **11.1.2** For a person, record his or her date of birth and/or date of death. Where exact dates are not known, record approximate dates.
 
@@ -22,6 +22,9 @@
 <p class="dacs-example">1972</p>
 
 <p class="dacs-example">1742 November 12-1802 December 27</p>
+
+<p class="dacs-example">not after 1920-not before 1971</p>
+
 
 **11.1.3** For a person, if both the date of birth or date of death are unknown, record floruit (period of activity) dates. If specific years of activity cannot be established, record the century or centuries in which the person was active.
 
