@@ -71,7 +71,7 @@ Commentary: Variant names are created to help users discover materials that have
 
 <p class="dacs-example">Cadel, T.(Thomas),1742-1802</p>
 
-**10.3.4** Optionally, record pseudonyms and other identities assumed by a person as variant names.</p>
+**10.3.4** Optionally, record pseudonyms and other identities assumed by a person as variant names.
 
 <p class="dacs-example">Clemens, Samuel Langhorne, 1835-1910 (authorized name)</p>
 
