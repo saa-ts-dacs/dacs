@@ -43,6 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2022
+
+Major change to allow "not before" or "not after" dates in 11.1 Dates of Existence.
+
 ### DACS 2021.0.0.2
 
 Bug fix to correct minor ommissions related to the addition of the new rights statement element.
