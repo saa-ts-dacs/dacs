@@ -4,10 +4,6 @@
 
 This element describes the current organization of the collection.
 
-## Exclusions
-
-**3.2.1** For information about other aspects of the arrangement of the materials, such as maintenance/reconstitution of original order, arrangement by the archivist, or previous arrangements or reorganization(s) by the creator, if known and important to the understanding of the materials, see Rule 7.1.8.
-
 ## Sources of Information
 
 **3.2.2** Derive the information from the materials themselves.
