@@ -50,7 +50,7 @@ This element describes the current organization of the collection.
 **3.2.3** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil **3.2.2**, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not nececssary.
 
 <p class="dacs-example">
-![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](../../../part_1/chapter_03/arrangement_example_1.png)
+![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](../../../img/part_1/chapter_03/arrangement_example_1.png)
 </p>
 
 ------------------------
@@ -58,7 +58,7 @@ This element describes the current organization of the collection.
 <p class="dacs-example">
 ![Example of arragement in Arclight for the Murder Victims' Families for Reconciliation Records, 1977-2007, bulk 1994-2003. The collection lists five series: Administrative Files, 1977-2005, Undated, 
 Correspondence, 1994-2005, Undated, Outreach and Publications, 1994-2004, Undated, 
-Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows that it contains sub components.](../../../part_1/chapter_03/arrangement_example_2.png)
+Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows that it contains sub components.](../../../img/part_1/chapter_03/arrangement_example_2.png)
 </p>
 <p class="dacs-example">All series are arranged alphabetically.</p>
 
