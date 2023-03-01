@@ -47,19 +47,26 @@ This element describes the current organization of the collection.
 <p class="dacs-example">Series 4, Photographs, 1928-1992</p>
 <p class="dacs-example">Series 5, Audiovisual Materials, 1961-1987</p>
 
-**3.2.3** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil **3.2.2**, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not nececssary.
+**3.2.3** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil **3.2.2**, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
 
 <p class="dacs-example">
-![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](arrangement_example_1.png)
+
+![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](../../img/part_1/chapter_3/arrangement_example_1.png)
+
+
 </p>
+
 
 ------------------------
 
 <p class="dacs-example">
+
 ![Example of arragement in Arclight for the Murder Victims' Families for Reconciliation Records, 1977-2007, bulk 1994-2003. The collection lists five series: Administrative Files, 1977-2005, Undated, 
 Correspondence, 1994-2005, Undated, Outreach and Publications, 1994-2004, Undated, 
-Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows that it contains sub components.](arrangement_example_2.png)
+Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows that it contains sub components.](../../img/part_1/chapter_3/arrangement_example_2.png)
+
 </p>
+
 <p class="dacs-example">All series are arranged alphabetically.</p>
 
 **3.2.4** Optionally, give information about the system of ordering the component files or items.
