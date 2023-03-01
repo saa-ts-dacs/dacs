@@ -48,7 +48,7 @@ The records are arranged in five series, three of which have been further arrang
 - Series 4, Photographs, 1928-1992
 - Series 5, Audiovisual Materials, 1961-1987
 
-**3.2.4** Preferably, provide nformation about the system of ordering the component files or items.
+**3.2.3** Preferably, provide information about the system of ordering the component files or items.
 
 <p class="dacs-example">Resources arranged alphabetically by subject, personal name, or corporate name.</p>
 <p class="dacs-example"><em>Arrangement for a series in the</em> William Noffke papers</p>
@@ -59,7 +59,15 @@ The records are arranged in five series, three of which have been further arrang
 <p class="dacs-example">This subseries is arranged alphabetically by the geographic location of the photograph and then by the item number assigned by the photographer.</p>
 <p class="dacs-example"><em>Arrangement for a subseries in the</em> Edward W. Cochems photographs</p>
 
-**3.2.4**If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil Rule  3.2.2, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
+**3.2.4** When it is available, provide details about the source of the arrangement, such as if the arrangement was maintained by the creator or imposed by an archivist. Actions undertaken during processing should be further described in a processing note according to Rule 7.1.8.
+
+<p class="dacs-example">Office staff ordered this file series alphabetically by subject. This order was maintained during processing.</p>
+
+<p class="dacs-example">The arrangement of the collection as maintained by the creation was preserved during processing. Any order is unclear.</p>
+
+<p class="dacs-example">The arrangement of the collection reflects the order of the materials during trainsfer to the archives.</p>
+
+**3.2.5** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil Rule  3.2.2, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
 
 <p class="dacs-example">
 
