@@ -11,7 +11,6 @@ This element describes the current organization of the collection.
 ## General Rules
 
 **3.2.2** Describe the current arrangement of the material in terms of the various aggregations within it and their relationships.
-<p class="dacs-example">
     
 Arranged in 5 series:
     1. Subject files concerning refugee issues, 1978-1997.
@@ -20,7 +19,6 @@ Arranged in 5 series:
     4. Artwork, 1987-1997.</p>
     5. Newspaper clippings, 1980-1998.
     
-</p>
 
 ------------------------
 
