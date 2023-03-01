@@ -17,7 +17,11 @@ Arranged in 5 series:
  2. Project Ngoc organizational files, 1987-1997.
  3. Visual and audiovisual materials, 1985-1997.
  4. Artwork, 1987-1997.
- 5. Newspaper clippings, 1980-1998.    
+ 5. Newspaper clippings, 1980-1998.
+
+------------------------
+
+This collection has been added to over time in multiple "accessions." An accession is a group of materials received from the same source at approximately the same time. Note that in most cases, container numbers start over at 1 with each new accession.
     
 ------------------------
 
@@ -44,15 +48,24 @@ The records are arranged in five series, three of which have been further arrang
 - Series 4, Photographs, 1928-1992
 - Series 5, Audiovisual Materials, 1961-1987
 
-**3.2.3** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil **3.2.2**, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
+**3.2.4** Preferably, provide nformation about the system of ordering the component files or items.
+
+<p class="dacs-example">Resources arranged alphabetically by subject, personal name, or corporate name.</p>
+<p class="dacs-example"><em>Arrangement for a series in the</em> William Noffke papers</p>
+
+<p class="dacs-example">Arrangement: chronological.</p>
+<p class="dacs-example"><em>Arrangement for a series in the</em> Caffery Family papers</p>
+
+<p class="dacs-example">This subseries is arranged alphabetically by the geographic location of the photograph and then by the item number assigned by the photographer.</p>
+<p class="dacs-example"><em>Arrangement for a subseries in the</em> Edward W. Cochems photographs</p>
+
+**3.2.4**If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil Rule  3.2.2, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
 
 <p class="dacs-example">
 
 ![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](../../img/part_1/chapter_3/arrangement_example_1.png)
 
-
 </p>
-
 
 ------------------------
 
@@ -65,14 +78,3 @@ Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows
 </p>
 
 <p class="dacs-example">All series are arranged alphabetically.</p>
-
-**3.2.4** Optionally, give information about the system of ordering the component files or items.
-
-<p class="dacs-example">Resources arranged alphabetically by subject, personal name, or corporate name.</p>
-<p class="dacs-example"><em>Arrangement for a series in the</em> William Noffke papers</p>
-
-<p class="dacs-example">Arrangement: chronological.</p>
-<p class="dacs-example"><em>Arrangement for a series in the</em> Caffery Family papers</p>
-
-<p class="dacs-example">This subseries is arranged alphabetically by the geographic location of the photograph and then by the item number assigned by the photographer.</p>
-<p class="dacs-example"><em>Arrangement for a subseries in the</em> Edward W. Cochems photographs</p>
