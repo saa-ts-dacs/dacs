@@ -12,18 +12,15 @@ This element describes the current organization of the collection.
 
 **3.2.2** Describe the current arrangement of the material in terms of the various aggregations within it and their relationships.
 
-<p class="dacs-example">
 Arranged in 5 series:
  1. Subject files concerning refugee issues, 1978-1997.
  2. Project Ngoc organizational files, 1987-1997.
  3. Visual and audiovisual materials, 1985-1997.
  4. Artwork, 1987-1997.
  5. Newspaper clippings, 1980-1998.    
-</p>
     
 ------------------------
 
-<p class="dacs-example">
 The records are arranged in five series, three of which have been further arranged in subseries. The contents of each series or subseries are arranged alphabetically, with the exception of Series 1, Subseries 1, which is arranged hierarchically to reflect the organizational structure of the AAIA. The series and subseries arrangement of the records is as follows:
  Series 1, Organizational Files,1922-1995
   Subseries 1, Administration, 1923-1994
@@ -48,7 +45,6 @@ The records are arranged in five series, three of which have been further arrang
 
  Series 4, Photographs, 1928-1992
  Series 5, Audiovisual Materials, 1961-1987
-</p>
 
 **3.2.3** If a collection description is maintained in a structured way so that an access system can list the arrangement of the material and fulfil **3.2.2**, then there is no need to recreate this information in a note field unless there is a user-driven reason to do so. If there is additional arrangement information not provided by the access system, that information must be described in an arrangement note, but duplication of the information provided by the access system is not necessary.
 
