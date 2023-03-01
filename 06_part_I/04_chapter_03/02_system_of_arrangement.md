@@ -90,4 +90,4 @@ Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows
 
 </p>
 
-<p class="dacs-example">All series are arranged alphabetically.</p>
+<p class="dacs-example">Arrangement: All series are arranged alphabetically.</p>
