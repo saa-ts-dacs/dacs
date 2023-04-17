@@ -44,7 +44,12 @@ There may be instances in describing collections where providing information abo
 
 ### Biographical History of Individuals or Families
 
-**2.7.11** Record information relevant to the understanding of the life, activities, and relationships of the person or family, applying rules 2.7.12 to 2.7.21 as necessary.
+**2.7.11** Record information relevant to the understanding of the life, activities, and relationships of the person or family, applying rules 2.7.12 to 2.7.21 as necessary.  When creating biographical and historical notes, follow the guidelines below:
+
+1. When writing biographical and historical notes, consider and be respectful of the larger communities who are invested/represented in the collection
+2. Avoid overly positive (aggrandizing) or overly negative (judgmental) language
+3. Include only verifiable facts and provide references when they are available.  When necessary to mention something that is not verifiable but important to the user’s understanding of the content, state what information is not verified.
+
 
 <p class="dacs-example">Bessye J. Bearden was born in Atlantic City, New Jersey, in 1891, the youngest child of George and Carrie Banks. She attended local schools in North Carolina, Hartshorn Memorial College in Richmond, and Virginia Normal and Industrial Institute, from which she graduated. In later years Mrs. Bearden did graduate work at the University of Western Pennsylvania and Columbia University.</p>
 <p class="dacs-example">At the age of 20, Bessye Banks married R. Howard Bearden. They had one son, Romare, who became an internationally renowned artist.</p>
