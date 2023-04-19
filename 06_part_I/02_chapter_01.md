@@ -121,7 +121,7 @@ Each _subsequent_ level of that multilevel description should include:
 
 * * *
 
-<a name="myfootnote1">[1]</a>: For more information, refer to International Council on Archives, _ISAD(G): General International Standard Archival Description,_ 2nd ed., adopted by the Committee on Descriptive Standards, Stockholm, Sweden, September 19–22, 1999, accessed February 19, 2013, [http://www.icacds.org.uk/eng/ISAD(G).pdf](http://www.icacds.org.uk/eng/ISAD(G).pdf).
+<a name="myfootnote1">[1]</a>: For more information, refer to International Council on Archives, _ISAD(G): General International Standard Archival Description,_ 2nd ed., adopted by the Committee on Descriptive Standards, Stockholm, Sweden, September 19–22, 1999, accessed February 19, 2013, [https://web.archive.org/web/20170329064327/http://www.icacds.org.uk/eng/ISAD(G).pdf](https://web.archive.org/web/20170329064327/http://www.icacds.org.uk/eng/ISAD(G).pdf).
 
 <a name="myfootnote2">[2]</a>: The METS standard is an XML schema for encoding descriptive, administrative, and structural metadata for objects within a digital library. It is an initiative of the Digital Library Federation and is maintained by the Library of Congress. Information is available at http://www.loc.gov/standards/mets/.
 
