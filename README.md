@@ -36,7 +36,7 @@ In general, the command is formatted `pandoc FiletoConvert -o FileNameforResult`
 
 ## Revision Process
 
-![DACS revision flowchart](DACSRevisionProcess.png)
+![DACS revision flowchart](https://raw.githubusercontent.com/saa-ts-dacs/dacs/master/DACSRevisionProcess.png)
 
 The revision process begins when a formal proposal is submitted to TS-DACS from the community or a TS-DACS member.  Proposals should include the following:
 
