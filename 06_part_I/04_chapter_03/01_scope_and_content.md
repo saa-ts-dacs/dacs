@@ -49,8 +49,8 @@ Commentary: A brief summary of the scope and content and biographical informatio
 
 **3.1.5** When the unit being described is known to be incomplete due to reasons other than archival appraisal decisions, record information about the gaps.
 
-<p class="dacs-example">File contains telex printouts of almost daily discussions between various members of the collaboration team spread out between Ohio, California, and South Africa. Significant gaps for which no telex printouts exist include August 1967-February 1968.</p>
-<p class="dacs-example"><em>Scope and content for a file in the</em> Frederick Reines papers</p>
+<p class="dacs-example">The collection consists of one box containing 17 spiral-bound books of photocopies of handwritten notes by Christopher Small; gaps in the numbering of the books indicate that some volumes may be missing.</p>
+<p class="dacs-example"><em>Scope and content for the</em> Christopher Small Collection</p>
 
 <p class="dacs-example">Files are incomplete, because many items of significant commercial value were sold piecemeal in the 1980s and some files from later years are held by Weidenfeld and Nicholson, which took over the Dent firm in 1986.</p>
 <p class="dacs-example"><em>Scope and content for a series in</em> J. M. Dent & Sons records</p>
