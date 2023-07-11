@@ -43,7 +43,10 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
-### DACS 2022.0.0.1
+### DACS 2022.0.1.1
+Bug fix release to fix broken link on Levels of Description page and the Revision flowchart rendering.
+
+### DACS 2022.0.1
 
 Replaced example in 3.1.5.
 
