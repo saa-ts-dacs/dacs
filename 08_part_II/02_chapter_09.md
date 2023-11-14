@@ -22,7 +22,7 @@ An archival authority record identifies and describes a personal, family, or cor
 
 Although archival authority records are similar to library authority records in that they both support the creation of standardized access points in descriptions, archival authority records support a much wider set of requirements than library authority records do and usually contain detailed information about records creators and the context of record creation.
 
-## Statement of Principles
+## Rationale
 
 Descriptions in authority files may be recorded electronically as part of an information system linked to descriptions of archival materials, in a paper-based system of finding aids in the manner of traditional _see_ and _see also_ references in a card catalog, or as a "shelf list" or official file strictly for internal staff control of the information.
 
@@ -30,13 +30,13 @@ Authority information may be used in a variety of ways. It can provide access to
 
 While these rules address the formation of descriptions for persons, families, and corporate bodies associated with the creation and custody of archival materials (frequently referred to in the rules as _entities_), authority records may also be created to document entities that are the subject of materials in such records. The same type of data is appropriate in either situation.
 
-## Levels of Description
+## Minimum and Added Value
 
-DACS defines a number of elements that are useful in creating systems for describing creators of archival material. Regardless of the system, the output products must include at a minimum a set of discrete descriptive elements that convey standardized information about the creators being described. These DACS elements match the required elements found in the International Standard Archival Authority Record for Corporate Bodies, Persons and Families(ISAAR[CPF])_._
+In both Part I and Part II, DACS defines a number of elements that are useful in creating systems for describing creators of archival material. Part II of DACS articulates a "minimum" and "added value" usage of the elements defined by DACS, but is not intended to preclude use of other descriptive data that a repository deems necessary for its own descriptive systems or products. As with DACS Part I, regardless of the system, the output products must include at a minimum a set of discrete descriptive elements that convey standardized information. DACS elements in Part II match the required elements found in the International Standard Archival Authority Record for Corporate Bodies, Persons and Families(ISAAR[CPF])_._ DACS Part II does not distinguish an "optimum" tier as Part I does.
 
-Not all of the DACS elements are required in every archival authority record. Combinations of descriptive elements will vary depending on whether the archivist considers a specific authority record to be preliminary or complete and repository-specific needs and requirements for describing creators.
+Not all of the DACS elements are required in every archival authority record. Combinations of descriptive elements will vary depending on available information on the creator(s), and on whether the archivist considers a specific authority record to be preliminary or complete, and on repository-specific needs and requirements for describing creators.
 
-The following requirements specify particular elements that should be used in output products intended for the use of archivists or researchers in managing and using descriptions of archival creators. They articulate a "minimum" and "added value" usage of the elements defined by DACS but are not intended to preclude use of other descriptive data that a repository deems necessary for its own descriptive systems or products. DACS does not specify the order or arrangement of elements in a particular descriptive output. Some systems or output formats, such as MARC 21, RDA or EAC-CPF, provide specific guidance on the ordering of some or all elements. Others, such as a repository's preliminary accession record or a print finding aid, should include DACS elements in a logical and consistent manner determined by the repository's own procedures and standard practices.
+The following requirements specify particular elements that should be used in output products intended for the use of archivists or researchers in managing and using descriptions of archival creators. DACS does not specify the order or arrangement of elements in a particular descriptive output. Some systems or output formats, such as MARC 21, RDA or EAC-CPF, provide specific guidance on the ordering of some or all elements. Others, such as a repository's preliminary accession record or a print finding aid, should include DACS elements in a logical and consistent manner determined by the repository's own procedures and standard practices.
 
 ### Minimum
 
