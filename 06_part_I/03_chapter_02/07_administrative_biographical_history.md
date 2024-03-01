@@ -48,7 +48,7 @@ There may be instances in describing collections where providing information abo
 
 1. When writing biographical and historical notes, consider and be respectful of the larger communities who are invested/represented in the collection
 2. Avoid overly positive (aggrandizing) or overly negative (judgmental) language
-3. Include only verifiable facts and provide references when they are available.  When necessary to mention something that is not verifiable but important to the user’s understanding of the content, state what information is not verified.
+3. Base all statements on documented information and provide references when they are available.  When necessary to mention something that is not verifiable but important to the user’s understanding of the content, state what information is not based on documented information.
 
 
 <p class="dacs-example">Bessye J. Bearden was born in Atlantic City, New Jersey, in 1891, the youngest child of George and Carrie Banks. She attended local schools in North Carolina, Hartshorn Memorial College in Richmond, and Virginia Normal and Industrial Institute, from which she graduated. In later years Mrs. Bearden did graduate work at the University of Western Pennsylvania and Columbia University.</p>
