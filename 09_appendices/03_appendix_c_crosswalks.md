@@ -208,7 +208,7 @@
     <tr>
       <td>12.3 Nature of Relationship</td>
       <td>5.3.3 Description of the relationship</td>
-      <td><code>&lt;objectXMLWrap&gt;</code> or <code>&lt;objectBinWrap&gt;</code> ationEntry&gt;</code></td>
+      <td><code>&lt;objectXMLWrap&gt;</code> or <code>&lt;objectBinWrap&gt;</code> or <code>&;t;RelationEntry&gt;</code></td>
     </tr>
     <tr>
       <td>12.4 Dates of the Relationship</td>
