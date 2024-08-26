@@ -43,6 +43,11 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2022.0.2.2
+*Replaces examples containing descriptions of violent acts 
+*Harmonizes language between parts I and II
+*Fixes a markup bug in Appendix C
+
 ### DACS 2022.0.1.1
 Bug fix release to fix broken link on Levels of Description page and the Revision flowchart rendering.
 
