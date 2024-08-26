@@ -38,14 +38,8 @@ Commentary: A brief summary of the scope and content and biographical informatio
 <p class="dacs-example">File includes primarily correspondence, data and analysis, notes, and daily reports from East Rand Proprietary Mine (ERPM). Notebook II is primarily dictaphone transcriptions of daily reports.</p>
 <p class="dacs-example"><em>Scope and content for a file in the</em> Frederick Reines papers</p>
 
-<p class="dacs-example">Plat map depicting town plaza and perimeter, including mission church and courtyard, adobe walls, some roads, orchards, vineyards, and cemetery. Scale is listed as 3 chains to 1 inch.</p>
-<p class="dacs-example"><em>Scope and content for an item in the</em> Richard Egan Manuscript Maps of Orange County</p>
-
 <p class="dacs-example">Letter presented by 21 Oneida Indians, signed with their marks, requesting that Jasper Parrish pay them the amount they are owed for serving in the War of 1812. They state that they are aware that he received the money three months previously and they are anxious to settle the account.</p>
-<p class="dacs-example"><em>Scope and content for the</em> Oneida Nation petition to Jasper Parrish</p>
-
-<p class="dacs-example">The 70 websites captured by the web-crawl reflect a broad and in-depth coverage of the Shepard murder, memorials, and efforts that address inequalities based on gender and sexual orientation. These include sites such as the Westboro Baptist Church that protested at the University of Wyoming following Shepard's death and condemns homosexuality. There are also blogs written by friends, family, reporters, and people who did not know Shepard. Also included are sites of organizations related to Matthew Shepard and Lesbian, Gay, Bisexual, and Transgender issues. Additionally, the websites of films, books, and music about Shepard's life and his murder were included in the website harvest. Finally, media coverage that only existed on the Internet was included.</p>
-<p class="dacs-example"><em>Scope and content for the</em> Matthew Shepard web archive</p>
+<p class="dacs-example"><em>Scope and content for an item, the</em> Oneida Nation petition to Jasper Parrish</p>
 
 **3.1.5** When the unit being described is known to be incomplete due to reasons other than archival appraisal decisions, record information about the gaps.
 
@@ -57,11 +51,11 @@ Commentary: A brief summary of the scope and content and biographical informatio
 
 **3.1.6** Where the material includes a uniform set of documents (e.g., marriage certificates), indicate the kinds of information recorded in the documents.
 
-<p class="dacs-example">Investigative files include correspondence, witness interviews, autopsy reports, and lab test reports; official court records include deposition transcripts, pleading books, transcripts of trial testimony, and "discovery" material; court exhibit files contain "scene evidence" collected by the police at the murder scene and copies of investigation reports from the FBI, the BATF, and the Greensboro Police Department.</p>
-<p class="dacs-example"><em>Collection-level scope and content from the</em> Greensboro Civil Rights Fund records</p>
+<p class="dacs-example">The Library of Jacques Derrida comprises the library of the Derrida household, including Jacques Derrida's working library as well as books belonging, jointly or separately, to Jacques and Marguerite Derrida and, to some degree, their two sons, Jean and Pierre. It consists of volumes, serial issues, offprints, clippings, and papers accumulated in the course of Jacques and Marguerite's professional activities as well as books representing the family's far-reaching interests and leisure reading.</p>
+<p class="dacs-example"><em>Collection-level scope and content from </em> The Library of Jacques Derrida</p>
 
-<p class="dacs-example">Court exhibit files contain copies of reports, maps, photographs, and investigation notes from the FBI, the BATF, and the Greensboro Police Department. Physical evidence includes "scene evidence" picked up by police at the murder scene on 3 November, including CWP banners, bloodstained clothing removed from the bodies of victims, shotgun pellets removed from the victims, and a Klan effigy utilized by the demonstrators. Some additional physical evidence (e.g., a guitar shattered by shotgun pellets) was returned to the plaintiffs.</p>
-<p class="dacs-example"><em>Series-level scope and content from the</em> Greensboro Civil Rights Fund records</p>
+<p class="dacs-example">Consists of diaries (i.e. daily planners and appointment books); a desktop calendar; address books, rolodex cards, and business cards; and logbooks maintained by Morrison's assistants of telephone and other messages left for her.</p>
+<p class="dacs-example"><em>Series-level scope and content from the</em> Toni Morrison Papers</p>
 
 **3.1.7** If the material being described is a reproduction, indicate that fact, and if considered important, also indicate the date of reproduction.
 
