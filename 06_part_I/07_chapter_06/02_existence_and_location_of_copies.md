@@ -22,7 +22,7 @@ This element indicates the existence, location, and availability of copies or ot
 <p class="dacs-example">Microfilm copies available for interlibrary loan.</p>
 <p class="dacs-example">Diaries available on microfilm for use in repository only.</p>
 <p class="dacs-example">Digital reproductions of the Christie family Civil War correspondence are available electronically at http://www.mnhs.org/collections/christie.html.</p>
-<p class="dacs-example">The diary has been published in Dunlap, Kate. <em>The Montana Gold Rush Diary of Kate Dunlap, edited and annotated by J. Lyman Tyler</em> Denver: F. A. Rosenstock Old West Publishing Co., 1969.</p>
+<p class="dacs-example">The diary has been published in Dunlap, Kate. <em>The Montana Gold Rush Diary of Kate Dunlap, edited and annotated by J. Lyman Tyler</em> Denver: F. A. Rosenstock Old West Publishing Co., 1969. A physical copy of the publication is available for checkout at the Harold B. Lee Library (Call Number F 594 .D85 1969).</p>
 **6.2.4** If appropriate, record information to distinguish between multiple generations of the material.
 
 <p class="dacs-example">Prints in this series made from copy negatives, produced in 1974, of the original photographs.</p>
