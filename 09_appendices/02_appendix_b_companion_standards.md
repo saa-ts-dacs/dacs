@@ -80,7 +80,7 @@ _Preservation Metadata Implementation Strategies_. Library of Congress. http://w
 
 _VRA Core_. Visual Resources Association. http://www.loc.gov/standards/vracore/.
 
- ## Data Value Standards/Thesauri
+## Data Value Standards/Thesauri
 
 _Art & Architecture Thesaurus_. J. Paul Getty Trust. http://www.getty.edu/research/tools/vocabularies/aat/index.html.
 
