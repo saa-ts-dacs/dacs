@@ -44,9 +44,9 @@ There may be instances in describing collections where providing information abo
 
 ### Biographical History of Individuals or Families
 
-**2.7.11** Record information relevant to the understanding of the life, activities, and relationships of the person or family, applying rules 2.7.12 to 2.7.21 as necessary.  When creating biographical and historical notes, follow the guidelines below:
+**2.7.11** Record information relevant to the understanding of the life, activities, and relationships of the person or family, applying rules 2.7.12 to 2.7.21 as necessary.  When creating biographical and historical notes:
 
-1. When writing biographical and historical notes, consider and be respectful of the larger communities who are invested/represented in the collection
+1.Consider and be respectful of the larger communities who are invested/represented in the collection
 2. Avoid overly positive (aggrandizing) or overly negative (judgmental) language
 3. Base all statements on documented information and provide references when they are available.  When necessary to mention something that is not verifiable but important to the user’s understanding of the content, state what information is not based on documented information.
 
