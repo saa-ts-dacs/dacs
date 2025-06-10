@@ -44,9 +44,12 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 ## DACS Versions
 
 ### DACS 2022.0.3.2
+* Fix formatting error caused by extraneous space character.
+  
+### DACS 2022.0.3.1
 * Updates example in DACS 6.2.3
 
-### DACS 2022.0.2.2
+### DACS 2022.0.2.1
 * Replaces examples containing descriptions of violent acts 
 * Harmonizes language between parts I and II
 * Fixes a markup bug in Appendix C
