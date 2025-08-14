@@ -79,15 +79,3 @@ The records are arranged in five series, three of which have been further arrang
 ![Example of arrangement in ArchivesSpace for the Almy D. Coggeshall papers. The collection lists four series: Correspondence, 1967-2004, Writings, 1967-1999, Subject Files, 1962-2009, and Photographic Materials, 1968-2006. Each series shows that it contains sub components.](../../img/part_1/chapter_3/arrangement_example_1.png)
 
 </p>
-
-------------------------
-
-<p class="dacs-example">
-
-![Example of arragement in Arclight for the Murder Victims' Families for Reconciliation Records, 1977-2007, bulk 1994-2003. The collection lists five series: Administrative Files, 1977-2005, Undated, 
-Correspondence, 1994-2005, Undated, Outreach and Publications, 1994-2004, Undated, 
-Events, 1992-2003, Undated, Subject Files, 1981-2007, Undated. Each series shows that it contains sub components.](../../img/part_1/chapter_3/arrangement_example_2.png)
-
-</p>
-
-<p class="dacs-example">Arrangement: All series are arranged alphabetically.</p>
