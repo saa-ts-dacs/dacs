@@ -48,26 +48,26 @@ Collectively, the principles, elements, and rules of DACS provide a framework to
 
 <a name="myfootnote1">[1]</a>: Steven Hensen, comp., *Archives, Personal Papers, and Manuscripts*, 2nd ed. (Chicago: Society of American Archivists, 1989). The first edition was published in 1983.
 
-<a name="myfootnote2">[2]</a>: *RDA: Resource Description and Access* (RDA Steering Committee), http://rda-rsc.org/.
+<a name="myfootnote2">[2]</a>: *RDA: Resource Description and Access* (RDA Steering Committee), <http://rda-rsc.org/>.
 
-<a name="myfootnote3">[3]</a>: *Encoded Archival Context—Corporate Bodies, Persons, and Families* (Society of American Archivists, Technical Subcommittee on Encoded Archival Standards), http://eac.staatsbibliothek-berlin.de/.
+<a name="myfootnote3">[3]</a>: *Encoded Archival Context—Corporate Bodies, Persons, and Families* (Society of American Archivists, Technical Subcommittee on Encoded Archival Standards), <http://eac.staatsbibliothek-berlin.de/>.
 
-<a name="myfootnote4">[4]</a>: https://github.com/saa-ts-dacs/dacs.
+<a name="myfootnote4">[4]</a>: <https://github.com/saa-ts-dacs/dacs>.
 
-<a name="myfootnote5">[5]</a>: *Records in Contexts: A Conceptual Model for Archival Description* (International Council on Archives, September 2016), Consultation Draft v0.1, https://www.ica.org/sites/default/files/RiC-CM-0.1.pdf.
+<a name="myfootnote5">[5]</a>: *Records in Contexts: A Conceptual Model for Archival Description* (International Council on Archives, September 2016), Consultation Draft v0.1, <https://www.ica.org/sites/default/files/RiC-CM-0.1.pdf>.
 
-<a name="myfootnote6">[6]</a>: *ISAD(G): General International Standard Archival Description*, 2nd ed. (Ottawa: International Council on Archives, 2000), https://www.ica.org/sites/default/files/CBPS_2000_Guidelines_ISAD%28G%29_Second-edition_EN.pdf.
+<a name="myfootnote6">[6]</a>: *ISAD(G): General International Standard Archival Description*, 2nd ed. (Ottawa: International Council on Archives, 2000), <https://www.ica.org/sites/default/files/CBPS_2000_Guidelines_ISAD%28G%29_Second-edition_EN.pdf>.
 
-<a name="myfootnote7">[7]</a>: *ISAAR(CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families*, 2nd ed. (International Council on Archives, 2004), https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf.
+<a name="myfootnote7">[7]</a>: *ISAAR(CPF): International Standard Archival Authority Record for Corporate Bodies, Persons and Families*, 2nd ed. (International Council on Archives, 2004), <https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf>.
 
 <a name="myfootnote8">[8]</a>: Between 2010-2013, a careful review of the descriptive rules in DACS Part III revealed that much duplication existed with AACR2 rules for forming names with minor variations such as additional rules for forming family names. With the release of RDA (which incorporates additional rules better-suited to archival description), along with a growing convergence of goals (consistent, reusable, and clear description whether bibliographic or archival) amongst libraries, archives, and museums, it seemed prudent for the archival community to rely on bibliographic standards rather than support two parallel but slightly divergent content standards. This led to the most obvious change from DACS 2004—the removal of Part III.
 
-<a name="myfootnote9">[9]</a>: See Appendix B: Companion Standards. https://github.com/saa-ts-dacs/dacs/blob/master/appendices/appendix_b_companion_standards.md.
+<a name="myfootnote9">[9]</a>: See Appendix B: Companion Standards. <https://github.com/saa-ts-dacs/dacs/blob/master/appendices/appendix_b_companion_standards.md>.
 
-<a name="myfootnote10">[10]</a>: *Encoded Archival Description* (Society of American Archivists), http://www.loc.gov/ead/index.html.
+<a name="myfootnote10">[10]</a>: *Encoded Archival Description* (Society of American Archivists), <http://www.loc.gov/ead/index.html>.
 
-<a name="myfootnote11">[11]</a>: *MARC 21* (Library of Congress), http://www.loc.gov/marc/.
+<a name="myfootnote11">[11]</a>: *MARC 21* (Library of Congress), <http://www.loc.gov/marc/>.
 
-<a name="myfootnote12">[12]</a>: *Resource Description Framework (RDF) 1.1* (W3C, 2014), https://www.w3.org/RDF/.
+<a name="myfootnote12">[12]</a>: *Resource Description Framework (RDF) 1.1* (W3C, 2014), <https://www.w3.org/RDF/>.
 
-<a name="myfootnote13">[13]</a>: International Council on Archives. Committee on Best Practices and Standards Working Group on Access, “Principles of Access to Archives,” August 24, 2012, https://www.ica.org/sites/default/files/ICA_Access-principles_EN.pdf.
+<a name="myfootnote13">[13]</a>: International Council on Archives. Committee on Best Practices and Standards Working Group on Access, “Principles of Access to Archives,” August 24, 2012, <https://www.ica.org/sites/default/files/ICA_Access-principles_EN.pdf>.
